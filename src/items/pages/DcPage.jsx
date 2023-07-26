@@ -3,7 +3,7 @@ import { ItemList } from "../components"
 export const DcPage = () => {
 	return (
 		<>
-			<h1>Auto Parts</h1>
+			<h1>Autopartes</h1>
 			<hr />
 			<ItemList  publisher='otro'/>
 		</>

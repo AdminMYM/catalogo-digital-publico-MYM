@@ -22,7 +22,7 @@ export const ItemPage = () => {
 		<div className="row mt-5">
 			<div className="col-4">
 					<img
-						src={`/assets/images/${id}.jpg`}
+						src={`${item.url}`}
 						className="img-thumbnail animate__animated animate__fadeInLeft"
 					/>
 			</div>
@@ -34,7 +34,7 @@ export const ItemPage = () => {
 					<li className="list-group-item"><b>Descripción</b> {item.descripcion}</li>
 				</ul>
 
-				<h5 className="mt-3">Characters</h5>
+				<h5 className="mt-3">Especificaciones</h5>
 				<p>{item.characters}</p>
 
 				<button 

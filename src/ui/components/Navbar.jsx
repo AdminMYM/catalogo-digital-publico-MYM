@@ -24,7 +24,7 @@ export const Navbar = () => {
 				className="navbar-brand"
 				to="/"
 			>
-				Asociaciones
+				<img className='logo' src="https://i.ibb.co/94MFB2x/copia-logo.png" alt="Logo MYM" />
 			</Link>
 
 			<div className="navbar-collapse">
@@ -41,14 +41,14 @@ export const Navbar = () => {
 						className={({isActive})=>`nav-item nav-link  ${isActive ? 'active':''}`}
 						to="/dc"
 					>
-						Auto Parts
+						Autopartes
 					</NavLink>
 
 					<NavLink
 						className={({isActive})=>`nav-item nav-link ${isActive ? 'active':''}`}
 						to="/search"
 					>
-						Search
+						Buscar
 					</NavLink>
 				</div>
 			</div>
@@ -63,7 +63,7 @@ export const Navbar = () => {
 						className='nav-item nav-link btn'
 						onClick={onLogout}
 					>
-						Logout
+						Cerrar sesión
 					</button>
 				</ul>
 			</div>

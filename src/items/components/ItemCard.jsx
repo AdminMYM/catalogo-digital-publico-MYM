@@ -8,6 +8,7 @@ const CharactersByAutoPart = ({pais, characters})=> {
 
 export const ItemCard = ({
 	id,
+	url,
 	name,
 	publisher,
 	pais,
@@ -18,7 +19,7 @@ export const ItemCard = ({
 	etiqueta_familia
 	
 }) => {
-		const itemImageUrl = `assets/images/${id}.jpg`
+		const itemImageUrl = `${url}`
 		return(
 			<div className="col animate__animated animate__fadeIn">
 				<div className="card">
