@@ -1,72 +1,56 @@
-import { useContext } from 'react';
+import { useEffect, useState} from 'react';
 import { Link, NavLink, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../../auth/context/AuthContext';
 
-
 export const Navbar = () => {
+	const [item, setItem]= useState()
 
-	const {user, logout} = useContext(AuthContext)
-	console.log(user)
-
-	const navigate = useNavigate()
-
-	const onLogout = ()=>{
-		logout()
-		navigate('/login',{
-			replace:true
+	useEffect(()=>{
+		const menu = document.querySelector('.menu')
+		menu.addEventListener('click',()=>{
+			console.log('esta qui')
+			const menuItem  = document.querySelector('.menu-item')
+			console.log(menuItem)
+			menuItem.classList.toggle('inactive')
+			console.log(menuItem.classList)
 		})
-	}
+	},[item])
 
 	return (
-		<nav className="navbar navbar-expand-sm navbar-dark bg-dark p-2">
+		<>
+			<nav className="navbar-header navbar navbar-expand-sm navbar-dark bg-dark p-2">
 
-			<Link
-				className="navbar-brand"
-				to="/"
-			>
-				<img className='logo' src="https://i.ibb.co/94MFB2x/copia-logo.png" alt="Logo MYM" />
-			</Link>
 
-			<div className="navbar-collapse">
-				<div className="navbar-nav">
+				<Link
+					className="navbar-brand"
+					to="/home"
+				>
+					<img className='logo' src="https://i.ibb.co/94MFB2x/copia-logo.png" alt="Logo MYM" />
+				</Link>
 
-					{/* <NavLink
-						className={({isActive})=>`nav-item nav-link ${isActive ? 'active':''}`}
-						to="/marvel"
-					>
-						Marvel
-					</NavLink> */}
-
-					<NavLink
-						className={({isActive})=>`nav-item nav-link  ${isActive ? 'active':''}`}
-						to="/dc"
-					>
-						Autopartes
-					</NavLink>
-
-					<NavLink
-						className={({isActive})=>`nav-item nav-link ${isActive ? 'active':''}`}
-						to="/search"
-					>
-						Buscar
-					</NavLink>
+				<div className="menu">
+					<i className="fa-solid fa-bars fa-2xl"></i>
 				</div>
-			</div>
 
-			<div className="navbar-collapse collapse w-100 order-3 dual-collapse2 d-flex justify-content-end">
-				<ul className="navbar-nav ml-auto">
+				<div className="navbar-collapse">
+					<div className="navbar-nav">
 
-					<span className='nav-item nav-link text-primary'>
-						{user?.name}
-					</span>
-					<button
-						className='nav-item nav-link btn'
-						onClick={onLogout}
-					>
-						Cerrar sesión
-					</button>
-				</ul>
-			</div>
-		</nav>
+						<NavLink
+							className={({ isActive }) => `nav-item nav-link  ${isActive ? 'active' : ''}`}
+							to="/dc"
+						>
+							Autopartes
+						</NavLink>
+
+						<NavLink
+							className={({ isActive }) => `nav-item nav-link ${isActive ? 'active' : ''}`}
+							to="/search"
+						>
+							Buscar
+						</NavLink>
+					</div>
+				</div>
+			</nav>
+		</>
 	)
 }
