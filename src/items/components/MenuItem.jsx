@@ -1,4 +1,5 @@
-import { useEffect, useState } from "react"
+import { useEffect, useState} from "react"
+import { useNavigate } from "react-router-dom"
 import React from 'react'
 import {items} from '../data/items'
 import { ItemList } from "./ItemList"
@@ -10,6 +11,7 @@ import { AuthContext } from "../../auth/context/AuthContext"
 export const MenuItem = () => {
 	const { setArbi } = useContext(AuthContext)
 	const [e, setE] = useState('')
+	const navigate = useNavigate()
 
 	useEffect(()=>{
 		const li = document.getElementsByClassName('list-item')
@@ -18,6 +20,7 @@ export const MenuItem = () => {
 			item.addEventListener('click', ()=>{
 				const menuItem = document.querySelector('.menu-item')
 				menuItem.classList.toggle('inactive')
+				navigate('/dc')
 				setArbi(item.innerHTML)
 			})
 		})
