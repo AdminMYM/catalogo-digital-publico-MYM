@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import { useEffect, useState } from "react"
+=======
+import { useEffect, useState} from "react"
+>>>>>>> 1df4b106a47a845e5096cb4d48e87e1ed396dc33
 import { useNavigate } from "react-router-dom"
 import React from 'react'
 import {items} from '../data/items'
