@@ -41,5 +41,6 @@ export const items = [
 		'marca': 'Mini',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/vPsAAOSwmsdgISJr/s-l500.jpg',
+		'categoria':'Bomba Agua'
 	},
 ]
