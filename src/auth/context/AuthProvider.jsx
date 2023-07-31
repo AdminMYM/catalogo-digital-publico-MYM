@@ -1,4 +1,4 @@
-import { useReducer } from "react"
+import { useReducer, useState } from "react"
 import { AuthContext } from "./AuthContext"
 import { authReducer } from "./authReducer"
 import { types } from "../types/types"
@@ -15,6 +15,7 @@ const init = () =>{
 export const AuthProvider = ({children})=>{
 
 	const [authState, dispatch] = useReducer(authReducer, {}, init)
+	const [arbi, setArbi] = useState()
 
 	const login = (name = '')=>{
 
@@ -36,7 +37,9 @@ export const AuthProvider = ({children})=>{
 		<AuthContext.Provider value={{
 			...authState,
 			login: login,
-			logout: logout
+			logout: logout,
+			arbi,
+			setArbi,
 		}}>
 			{children}
 		</AuthContext.Provider>

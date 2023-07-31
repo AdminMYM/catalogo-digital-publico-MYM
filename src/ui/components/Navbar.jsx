@@ -1,20 +1,18 @@
-import { useEffect, useState} from 'react';
+import { useEffect, useState } from 'react';
 import { Link, NavLink, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../../auth/context/AuthContext';
 
 export const Navbar = () => {
-	const [item, setItem]= useState()
+	// const [item, setItem] = useState()
 
-	useEffect(()=>{
+	useEffect(() => {
 		const menu = document.querySelector('.menu')
-		menu.addEventListener('click',()=>{
-			console.log('esta qui')
-			const menuItem  = document.querySelector('.menu-item')
-			console.log(menuItem)
+		menu.addEventListener('click', () => {
+			const menuItem = document.querySelector('.menu-item')
 			menuItem.classList.toggle('inactive')
-			console.log(menuItem.classList)
+			// setItem('hola')
 		})
-	},[item])
+	},)
 
 	return (
 		<>

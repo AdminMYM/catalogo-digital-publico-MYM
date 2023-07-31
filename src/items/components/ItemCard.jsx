@@ -1,10 +1,10 @@
 import { Link } from "react-router-dom"
 
-const CharactersByAutoPart = ({pais, characters})=> {
-	return (pais === characters)
-	? <></>
-	: <p>{characters}</p>
-}
+// const CharactersByAutoPart = ({pais, characters})=> {
+// 	return (pais === characters)
+// 	? <></>
+// 	: <p>{characters}</p>
+// }
 
 export const ItemCard = ({
 	id,
@@ -31,7 +31,7 @@ export const ItemCard = ({
 							<div className="card-body">
 								<h5 className="card-title">{name}</h5>
 								<p className="card-text">{oem}</p>
-								<CharactersByAutoPart alter_ego={pais} characters={etiqueta_familia} />
+								{/* <CharactersByAutoPart alter_ego={pais} characters={etiqueta_familia} /> */}
 								<p className="card-text">
 									<small className="text-muted">{descripcion}</small>
 								</p>
