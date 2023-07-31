@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react"
+import { useNavigate } from "react-router-dom"
 import React from 'react'
 import {items} from '../data/items'
 import { ItemList } from "./ItemList"
@@ -10,6 +11,7 @@ import { AuthContext } from "../../auth/context/AuthContext"
 export const MenuItem = () => {
 	const { setArbi } = useContext(AuthContext)
 	const [e, setE] = useState('')
+	const navigate = useNavigate()
 
 	useEffect(()=>{
 		const li = document.getElementsByClassName('list-item')
@@ -18,6 +20,7 @@ export const MenuItem = () => {
 			item.addEventListener('click', ()=>{
 				const menuItem = document.querySelector('.menu-item')
 				menuItem.classList.toggle('inactive')
+				navigate('/dc')
 				setArbi(item.innerHTML)
 			})
 		})
@@ -37,13 +40,13 @@ export const MenuItem = () => {
 				<li className='list-item' >Crapodina Hidráulica</li>
 				<li className='list-item' >Cuerpo Aceleración</li>
 				<li className='list-item' >Electroventiladores</li>
-				<li className='list-item' >Embragues</li>
 				<li className='list-item' >Extremo Dirección</li>
 				<li className='list-item' >Filtros</li>
 				<li className='list-item' >Inducido</li>
 				<li className='list-item' >Inyectores</li>
 				<li className='list-item' >Juntas Homocinéticas</li>
 				<li className='list-item' >Kit Cadena</li>
+				<li className='list-item' >Kit de Embrague</li>
 				<li className='list-item' >Maza Rueda</li>
 				<li className='list-item' >Parrilla Suspensión</li>
 				<li className='list-item' >Polea Viscosa</li>
