@@ -628,4 +628,439 @@ export const items = [
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_826915-MLA52468696596_112022-F.webp',
 		'categoria':'Bomba Agua'
 	},
+
+	{
+		'id': 'dc-bombaagua6',
+		'name': 'Bomba De Agua Logan 1.6 16v/Clio Iii  1.6 16v/Megane Iii 1.6 16v',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '8200146297',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_826915-MLA52468696596_112022-F.webp',
+		'categoria':'Bomba Agua'
+	},
+
+	{
+		'id': 'dc-aropiston',
+		'name': 'Aro Piston P.207/208/2008/308/3008 Partner 1.6 16v 2007/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '2C4181',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://autocity-image-repository.s3.us-east-2.amazonaws.com/products/08-2C4181%2000_400x400.jpg',
+		'categoria':'Aro Pistón'
+	},
+
+	{
+		'id': 'dc-bombagasolina',
+		'name': 'Bomba Gasolina Alta Presion P.208/308/3008 1.6 Thp 2010/….',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '9819938580/1920.RT',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_954500-MLA53640944222_022023-F.webp',
+		'categoria':'Bomba Gasolina'
+	},
+
+	{
+		'id': 'dc-bombagasolina2',
+		'name': 'Bomba Gasolina Alta Presion P.207/208/3008/508 1.6 2007/….',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '9819938480/13 53 7 528 345',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_838280-MLA53255249970_012023-F.webp',
+		'categoria':'Bomba Gasolina'
+	},
+
+	{
+		'id': 'dc-bujehorquilla',
+		'name': 'Buje De Punta Horquilla P.206 1998/..',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '5131.A9/5131.F8',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://img.xentra.com.mx/autopartescimaco/img/productos/BUJE%20HORQUILLA%20TRASERA%202/K-8658/K-8658_842_12_12_22_02_11.webp',
+		'categoria':'Buje Horquilla'
+	},
+
+	{
+		'id': 'dc-bujehorquilla2',
+		'name': 'Buje Horquilla P.206 1998/..',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '5131.94',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_854017-MLA47603524201_092021-F.webp',
+		'categoria':'Buje Horquilla'
+	},
+
+	{
+		'id': 'dc-bujehorquilla3',
+		'name': 'Buje De Punta Horquilla P.206/Partner/Berlingo 1996/..',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1809.21/1809.29/9613305380',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_854017-MLA47603524201_092021-F.webp',
+		'categoria':'Buje Horquilla'
+	},
+
+	{
+		'id': 'dc-bujiaprecalentamiento',
+		'name': 'Bujia De Precalent. 206/308/Partner 1.6 Hdi 2010/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '5960.E6',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_624747-MLA53333268678_012023-F.webp',
+		'categoria':'Bujía de Precalentamiento'
+	},
+
+	{
+		'id': 'dc-cablesensor',
+		'name': 'Cable Sensor Abs 307 1.6 16v/308 1.6 16v',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '4545.K3',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_965135-MLA44793086142_022021-F.webp',
+		'categoria':'Cable Sensor'
+	},
+
+	{
+		'id': 'dc-collarinhidraulico',
+		'name': 'Collarín Hidráulico Captur/Duster/Fluence 1.6/2.0 2003/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '306206822R/8200805652',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/0/b/0bf619419f08acc8f95fdc7beed6b54a.jpg',
+		'categoria':'Collarín Hidráulico'
+	},
+
+	{
+		'id': 'dc-conmutadorluces',
+		'name': 'Conmutador Luces Logan/Sandero/Duster 2013/….',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '255403601R',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/51EUaOHPt-L._AC_SL1000_.jpg',
+		'categoria':'Conmutador Luces'
+	},
+
+	{
+		'id': 'dc-filtros',
+		'name': 'Filtro Aceite P.107/1007/206/207/208/508 1.6 Hdi 16v 2002/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1109.AY/1109 Z5',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/51f-T1NttnL._AC_SL1000_.jpg',
+		'categoria':'Filtros'
+	},
+
+	{
+		'id': 'dc-filtros2',
+		'name': 'Filtro Aceite P.107/1007/206/207/208/508 1.6 Hdi 16v 2002/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1906.E6/9672314980',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/51f-T1NttnL._AC_SL1000_.jpg',
+		'categoria':'Filtros'
+	},
+
+	{
+		'id': 'dc-filtros3',
+		'name': 'Filtro Aceite P.206/207/208/Partner 1.4 Hdi/1.6 Hdi 2007/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1901.97/9809721080',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://eurofrance24.com/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/d/3/d3573b48180f85581b89277d4ccb9ea0.jpg',
+		'categoria':'Filtros'
+	},
+
+	{
+		'id': 'dc-filtros4',
+		'name': 'Filtro Aceite P.107/206/207/208/307/508 1.4/1.6 16v 2007/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1109.CK/9467521180',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://eurofrance24.com/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/d/3/d3573b48180f85581b89277d4ccb9ea0.jpg',
+		'categoria':'Filtros'
+	},
+
+	{
+		'id': 'dc-filtros5',
+		'name': 'Filtro De Combustible Ducato/Boxer 3.0 Hdi 2011/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1614157280',
+		'marca': 'Fiat',
+		'descripcion': 'lorem lorem',
+		'url': 'https://eurofrance24.com/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/d/3/d3573b48180f85581b89277d4ccb9ea0.jpg',
+		'categoria':'Filtros'
+	},
+
+	{
+		'id': 'dc-parrillasuspension',
+		'name': 'Parrilla Susp. Izq. Giulietta 2010/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '50513444/50521046',
+		'marca': 'Alfa Romeo',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/m0cAAOSwMBdbzWvA/s-l500.jpg',
+		'categoria':'Parrilla Suspensión'
+	},
+
+	{
+		'id': 'dc-parrillasuspension2',
+		'name': 'Parrilla Susp. Der. Giulietta 2010/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '50513442',
+		'marca': 'Alfa Romeo',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_691523-MLA43219146857_082020-F.webp',
+		'categoria':'Parrilla Suspensión'
+	},
+
+	{
+		'id': 'dc-parrillasuspension3',
+		'name': 'Parrilla Susp. Izq. Partner/Berlingo 2019/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '9815014680',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
+		'categoria':'Parrilla Suspensión'
+	},
+
+	{
+		'id': 'dc-parrillasuspension4',
+		'name': 'Parrilla Susp. Der. Partner/Berlingo 2019/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '9815014380',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
+		'categoria':'Parrilla Suspensión'
+	},
+
+	{
+		'id': 'dc-parrillasuspension5',
+		'name': 'Parrilla Susp. Del. Inf. Izq. P.208/2008 2020/….',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '98 316 264 80',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
+		'categoria':'Parrilla Suspensión'
+	},
+
+	{
+		'id': 'dc-parrillasuspension6',
+		'name': 'Parrilla Susp. Del. Inf. Der. P.208/2008 2020/….',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '98 320 392 80',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
+		'categoria':'Parrilla Suspensión'
+	},
+
+	{
+		'id': 'dc-parrillasuspension7',
+		'name': 'Parrilla Izq. Peugeot 206',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3520.G8',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/31kr5dH-ABL._AC_.jpg',
+		'categoria':'Parrilla Suspensión'
+	},
+
+	{
+		'id': 'dc-parrillasuspension8',
+		'name': 'Parrilla Der. Peugeot 206',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3521.C8',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
+		'categoria':'Parrilla Suspensión'
+	},
+
+	{
+		'id': 'dc-parrillasuspension9',
+		'name': 'Parrilla Suspension 206 1.6',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '3521.E7',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
+		'categoria':'Parrilla Suspensión'
+	},
+
+	{
+		'id': 'dc-parrillasuspension10',
+		'name': 'Parrilla Susp. Izq. Megane /R19 1992/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7700781034',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
+		'categoria':'Parrilla Suspensión'
+	},
+
+	{
+		'id': 'dc-parrillasuspension11',
+		'name': 'Parrilla Susp. Der. Megane /R19 1992/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7700781035',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
+		'categoria':'Parrilla Suspensión'
+	},
+
+	{
+		'id': 'dc-parrillasuspension12',
+		'name': 'Parrilla Der. Renault Megane III/Fluence',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '545008682R',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_16345-MLA20119003636_062014-F.webp',
+		'categoria':'Parrilla Suspensión'
+	},
+
+	{
+		'id': 'dc-parrillasuspension13',
+		'name': 'Parrilla Izq. Renault Megane III/Fluence',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '545014055R',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_16345-MLA20119003636_062014-F.webp',
+		'categoria':'Parrilla Suspensión'
+	},
 ]

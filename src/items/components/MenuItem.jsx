@@ -31,13 +31,20 @@ export const MenuItem = () => {
 		<div className="menu-item inactive" >
 			<ul>
 			<h2>Categorías de productos</h2>
+				<li className='list-item' >Aro Pistón</li>
 				<li className='list-item' >Base Amortiguador</li>
 				<li className='list-item' >Bobina Ignición</li>
 				<li className='list-item' >Bomba Agua</li>
 				<li className='list-item' >Bomba Combustible</li>
+				<li className='list-item' >Bomba Gasolina</li>
+				<li className='list-item' >Buje Horquilla</li>
+				<li className='list-item' >Bujía de Precalentamiento</li>
+				<li className='list-item' >Cable Sensor</li>
 				<li className='list-item' >Caja Dirección</li>
 				<li className='list-item' >Cazoleta Amortiguador</li>
 				<li className='list-item' >Crapodina Hidráulica</li>
+				<li className='list-item' >Collarín Hidráulico</li>
+				<li className='list-item' >Conmutador Luces</li>
 				<li className='list-item' >Cuerpo Aceleración</li>
 				<li className='list-item' >Disco de Freno</li>
 				<li className='list-item' >Electroventiladores</li>
