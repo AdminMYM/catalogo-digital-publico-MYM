@@ -31,6 +31,7 @@ export const MenuItem = () => {
 		<div className="menu-item inactive" >
 			<ul>
 			<h2>Categorías de productos</h2>
+				<li className='list-item' >Base Amortiguador</li>
 				<li className='list-item' >Bobina Ignición</li>
 				<li className='list-item' >Bomba Agua</li>
 				<li className='list-item' >Bomba Combustible</li>
@@ -38,6 +39,7 @@ export const MenuItem = () => {
 				<li className='list-item' >Cazoleta Amortiguador</li>
 				<li className='list-item' >Crapodina Hidráulica</li>
 				<li className='list-item' >Cuerpo Aceleración</li>
+				<li className='list-item' >Disco de Freno</li>
 				<li className='list-item' >Electroventiladores</li>
 				<li className='list-item' >Extremo Dirección</li>
 				<li className='list-item' >Filtros</li>
