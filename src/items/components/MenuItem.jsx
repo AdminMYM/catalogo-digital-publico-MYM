@@ -55,6 +55,7 @@ export const MenuItem = () => {
 				<li className='list-item' >Juntas Homocinéticas</li>
 				<li className='list-item' >Kit Cadena</li>
 				<li className='list-item' >Kit de Embrague</li>
+				<li className='list-item' >Mango Suspensión</li>
 				<li className='list-item' >Maza Rueda</li>
 				<li className='list-item' >Parrilla Suspensión</li>
 				<li className='list-item' >Polea Viscosa</li>

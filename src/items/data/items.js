@@ -1063,4 +1063,99 @@ export const items = [
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_16345-MLA20119003636_062014-F.webp',
 		'categoria':'Parrilla Suspensión'
 	},
+
+	{
+		'id': 'dc-inyectores',
+		'name': 'Inyector De Combustible 307/C4 2.0 16v',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1984 F8',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/51Gggbv5wNL._AC_SL1002_.jpg',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores2',
+		'name': 'Inyector Peugeot 206',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '280158057',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_950669-MLA32630921270_102019-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-mangosuspension',
+		'name': 'Mango Susp. Izq. Clio',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '8200207307/7700419547',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/2O0AAOSwQdBkvqpB/s-l1600.jpg',
+		'categoria':'Mango Suspensión'
+	},
+
+	{
+		'id': 'dc-mangosuspension2',
+		'name': 'Mango Susp. Der. Clio',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '8200207313/7700419548',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://cdn.pkwteile.de/thumb?id=18278876&m=0&n=0&lng=es&ccf=94077841',
+		'categoria':'Mango Suspensión'
+	},
+
+	{
+		'id': 'dc-mangosuspension3',
+		'name': 'Mango Susp. Der. Kangoo/Clio II',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '8200150223/40014830412',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_926330-MLA46634095897_072021-F.webp',
+		'categoria':'Mango Suspensión'
+	},
+
+	{
+		'id': 'dc-mangosuspension4',
+		'name': 'Mango Susp. Izq. Kangoo/Clio II',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '8200150222/40015148112',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_615504-MLA69763535496_062023-F.webp',
+		'categoria':'Mango Suspensión'
+	},
+
+
+	
+
+	
 ]
