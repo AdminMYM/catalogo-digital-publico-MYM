@@ -626,6 +626,5 @@ export const items = [
 		'marca': 'Renault',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_826915-MLA52468696596_112022-F.webp',
-		'categoria':'Bomba Agua'
 	},
 ]
