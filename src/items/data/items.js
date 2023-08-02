@@ -1154,8 +1154,186 @@ export const items = [
 		'categoria':'Mango Suspensión'
 	},
 
+	{
+		'id': 'dc-mangosuspension5',
+		'name': 'Mango Susp. Der. Logan/Sandero 2004/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
 
+		'oem': '6001548866',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_700842-MLA43970876403_112020-F.webp',
+		'categoria':'Mango Suspensión'
+	},
+
+	{
+		'id': 'dc-mangosuspension6',
+		'name': 'Mango Susp. Izq. Logan/Sandero 2004/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '6001548864',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_832189-MLA43971152423_112020-F.webp',
+		'categoria':'Mango Suspensión'
+	},
+
+	{
+		'id': 'dc-mangosuspension7',
+		'name': 'Mango Susp. Izq. Logan/Sandero Stepway 2015/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '400155389R',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/7WMAAOSwvopjfg0s/s-l1600.jpg',
+		'categoria':'Mango Suspensión'
+	},
+
+	{
+		'id': 'dc-mangosuspension8',
+		'name': 'Mango Susp. Der. Logan/Sandero Stepway 2015/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '400149807R',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://www.desguacealarcon.com/img-productos/imagenes/p-mangueta-delantera-derecha-dacia-sandero-stepway-essential-12018-122020_511479_id_787985-2.jpg',
+		'categoria':'Mango Suspensión'
+	},
+
+	{
+		'id': 'dc-mazarueda',
+		'name': 'Maza De Rueda Kangoo 1.6 16v 1998/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7701205499',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_640184-MLA48278092772_112021-F.webp',
+		'categoria':'Maza Rueda'
+	},
 	
+	{
+		'id': 'dc-molduraarcoderueda',
+		'name': 'Moldura Arco De Rueda - Mini Cooper Trasero Izquierdo  F55 / 56/57 2014 /…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '51777300819',
+		'marca': 'Mini',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_955453-MLM31086819106_062019-F.webp',
+		'categoria':'Moldura Arco de Rueda'
+	},
+
+	{
+		'id': 'dc-motoventilador',
+		'name': 'Motoventilador Giulietta 1.4/2.0 Jtdm  2010/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '50514469',
+		'marca': 'Alfa Romeo',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/-S4AAOSwGTpiqIPq/s-l640.jpg',
+		'categoria':'Motoventilador'
+	},
+
+	{
+		'id': 'dc-motoventilador2',
+		'name': 'Motoventilador P.206/P.207 1.6 16v 1998/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1253.R7/1253.C9',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://gauss.com.br/produtos/wp-content/uploads/sites/2/2020/11/ge1018-2048x2048.jpg.webp',
+		'categoria':'Motoventilador'
+	},
+
+	{
+		'id': 'dc-motoventilador3',
+		'name': 'Motoventilador P.207/P.301/Citroen C3 1.4/1.4 Hdi/1.6 16v 2003/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1253.P8/9812028580',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_606290-MLA31098584032_062019-F.webp',
+		'categoria':'Motoventilador'
+	},
+	
+	{
+		'id': 'dc-motoventilador4',
+		'name': 'Motoventilador P.307 1.6/2.0 16v 2000/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1253.K2',
+		'marca': 'Peugeot',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_773785-MLA70704803365_072023-F.webp',
+		'categoria':'Motoventilador'
+	},
+
+	{
+		'id': 'dc-motoventilador5',
+		'name': 'Motoventilador Fluence/Megane III 1.6 16v 2013/...',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '214810537R/214810011R',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_947419-MLC51203450296_082022-F.webp',
+		'categoria':'Motoventilador'
+	},
+
+	{
+		'id': 'dc-motoventilador6',
+		'name': 'Motoventilador Kwid 1.0 12v 2017/...',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '214814297R',
+		'marca': 'Renault',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_625746-MLA53456476886_012023-F.webp',
+		'categoria':'Motoventilador'
+	},
+
 
 	
 ]

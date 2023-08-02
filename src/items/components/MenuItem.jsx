@@ -57,6 +57,8 @@ export const MenuItem = () => {
 				<li className='list-item' >Kit de Embrague</li>
 				<li className='list-item' >Mango Suspensión</li>
 				<li className='list-item' >Maza Rueda</li>
+				<li className='list-item' >Moldura Arco de Rueda</li>
+				<li className='list-item' >Motoventilador</li>
 				<li className='list-item' >Parrilla Suspensión</li>
 				<li className='list-item' >Polea Viscosa</li>
 				<li className='list-item' >Portacarbón</li>
