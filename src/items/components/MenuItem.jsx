@@ -58,20 +58,32 @@ export const MenuItem = () => {
 				<li className='list-item' >Mango Suspensión</li>
 				<li className='list-item' >Maza Rueda</li>
 				<li className='list-item' >Moldura Arco de Rueda</li>
+				<li className='list-item' >Motor de Arranque</li>
 				<li className='list-item' >Motoventilador</li>
+				<li className='list-item' >Parachoques</li>
 				<li className='list-item' >Parrilla Suspensión</li>
-				<li className='list-item' >Polea Viscosa</li>
+				<li className='list-item' >Poleas</li>
 				<li className='list-item' >Portacarbón</li>
 				<li className='list-item' >Portamazas</li>
-				<li className='list-item' >Resistencias Electro</li>
+				<li className='list-item' >Radiador</li>
+				<li className='list-item' >Regulador Árbol de Levas</li>
+				<li className='list-item' >Rejilla Cromada</li>
+				<li className='list-item' >Repartidor de Frenado</li>
+				<li className='list-item' >Resistencia Electroventilador</li>
+				<li className='list-item' >Resistencia Motoventilador</li>
+				<li className='list-item' >Resortes</li>
 				<li className='list-item' >Rótula Suspensión</li>
 				<li className='list-item' >Semieje</li>
+				<li className='list-item' >Sensor de Posición del Cigüeñal</li>
+				<li className='list-item' >Sensor de Velocidad</li>
 				<li className='list-item' >Sonda Lambda</li>
 				<li className='list-item' >Soportes Cardan</li>
-				<li className='list-item' >Soportes Motor</li>
+				<li className='list-item' >Soporte Motor</li>
 				<li className='list-item' >Tanque Expansión</li>
 				<li className='list-item' >Termostatos</li>
+				<li className='list-item' >Termostatos de Agua</li>
 				<li className='list-item' >Tuercas Antirrobo</li>
+				<li className='list-item' >Volante Bimasa</li>
 			</ul>
 			<div className="menu-background"></div>
 		</div>
