@@ -2291,6 +2291,6 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/M1QJ6ms/Volante-bimasa.jpg',
 		'categoria':'Volante Bimasa',
-		'pesoNetoUnitario': "55666"
+		'pesoNetoUnitario': "55666",
 	},
 ]
