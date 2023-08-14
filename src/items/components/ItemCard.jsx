@@ -16,7 +16,7 @@ export const ItemCard = ({
 	characters,
 	oem,
 	descripcion,
-	etiqueta_familia
+	etiqueta_familia,
 	
 }) => {
 		const itemImageUrl = `${url}`
