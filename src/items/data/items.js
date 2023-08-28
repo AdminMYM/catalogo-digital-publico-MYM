@@ -3098,7 +3098,7 @@ export const items = [
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '1,03',
 		'descripcion': 'lorem lorem',
-		'url': 'http://cvrepuestos.com/shop/wp-content/uploads/2022/07/M-1460.jpg',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_865642-MLB47311533374_082021-F.webp',
 		'categoria':'Rótula Suspensión',
 	},
 
@@ -4974,5 +4974,85 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/kBrd4dB/43211-0-K040.webp',
 		'categoria':'Portamazas',
+	},
+
+	{
+		'id': 'dc-bobinaignicion',
+		'name': 'Bobina Ignición Chevrolet Corsa 3 Pines',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '93363483/B1453',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '0,90',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_608701-MLA50682405951_072022-F.webp',
+		'categoria': 'Bobina Ignición',
+	},
+
+	{
+		'id': 'dc-bobinaignicion2',
+		'name': 'Bobina Ignición Chevrolet Corsa 4 Pines',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1104038/B1420',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '1,00',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_998629-MLA70989122240_082023-F.webp',
+		'categoria': 'Bobina Ignición',
+	},
+
+	{
+		'id': 'dc-bobinaignicion3',
+		'name': 'Bobina Ignición Agile',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '94702536/B1495',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '1,00',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_938041-MLA69215322274_052023-F.webp',
+		'categoria': 'Bobina Ignición',
+	},
+
+	{
+		'id': 'dc-bobinaignicion4',
+		'name': 'Bobina Ignición Fiat Doblo/Palio/Siena 1,4 2 Pines',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'B1359',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,426',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_673774-MLA31551431571_072019-F.webp',
+		'categoria': 'Bobina Ignición',
+	},
+
+	{
+		'id': 'dc-bobinaignicion5',
+		'name': 'Bobina Ignición Fiat Idea/Palio 1,4 3 Pines',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'B1426',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,625',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_752123-MLA31536054512_072019-F.webp',
+		'categoria': 'Bobina Ignición',
 	},
 ]
