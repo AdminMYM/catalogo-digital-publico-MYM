@@ -169,7 +169,7 @@ export const items = [
 
 		'oem': '1253.87',
 		'marca': 'Peugeot',
-		'pesoNetoUnitario': 'PENDIENTE',
+		'pesoNetoUnitario': '2,95',
 		'descripcion': 'lorem lorem',
 		'url': 'https://a.allegroimg.com/original/11f77e/9beb07154357a6dab9197f3af9b4/WENTYLATOR-CHLODNICY-OE-1253-63-1253-66-1253-87-Producent-czesci-goRabbit',
 		'categoria': 'Electroventiladores',
@@ -233,7 +233,7 @@ export const items = [
 
 		'oem': '6K0959455A',
 		'marca': 'Volkswagen',
-		'pesoNetoUnitario': 'PENDIENTE',
+		'pesoNetoUnitario': '1,84',
 		'descripcion': 'lorem lorem',
 		'url': 'https://productimages.hepsiburada.net/s/22/550/9952062832690.jpg/format:webp',
 		'categoria': 'Electroventiladores',
@@ -241,7 +241,7 @@ export const items = [
 
 	{
 		'id': 'dc-electroventilador16',
-		'name': 'Electroventilador Volkswagen Fox - Suran - Gol Trend',
+		'name': 'Electroventilador Volkswagen Fox - Suran - Gol Trend Con Aire',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -273,13 +273,13 @@ export const items = [
 
 	{
 		'id': 'dc-electroventilador18',
-		'name': 'Electroventilador  Gol 3rd Generation - Pointer/Saveiro',
+		'name': 'Electroventilador Gol 3rd Generation - Pointer/Saveiro Sin Aire Acondicionado',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'F006KM0402',
+		'oem': 'F006KM0402/547-959455-F',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,72',
 		'descripcion': 'lorem lorem',
@@ -608,8 +608,472 @@ export const items = [
 	},
 
 	{
+		'id': 'dc-electroventilador39',
+		'name': 'Electroventilador Ford Ranger',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'AB39-8C607',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '3,72',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/LJnnntY/AB39-8-C607.png',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador40',
+		'name': 'Electroventilador Ford Ecosport Kinetik 1.6/2.0 > 13',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '8V518C607CK',
+		'marca': 'Ford',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/MP0Dmv7/8-V518-C607-CK.jpg',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador41',
+		'name': 'Electroventilador Nissan March',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '214813HU0B',
+		'marca': 'Nissan',
+		'pesoNetoUnitario': '2,00',
+		'descripcion': 'lorem lorem',
+		'url': 'https://gauss.com.br/produtos/wp-content/uploads/sites/2/2023/03/ge1197.jpg',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador42',
+		'name': 'Electroventilador Nissan Kicks 1.6 16v Flex C/Aa 2017/….',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '214815RB0A',
+		'marca': 'Nissan',
+		'pesoNetoUnitario': '2,80',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_992350-MLM49654713799_042022-F.webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador43',
+		'name': 'Electroventilador P. 206 Con Aire Acondicionado',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1253.91',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '2,11',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_683076-MCO52221307953_102022-F.webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador44',
+		'name': 'Electroventilador Peugeot 206 Sin Aire Acondicionado',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1253.83',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '1,45',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/NhoAAOSw8hlius1E/s-l1600.jpg',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador45',
+		'name': 'Electroventilador Peugeot Partner/Berlingo HDI 1.6 16v 2010/…',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1253.C8',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '2,93',
+		'descripcion': 'lorem lorem',
+		'url': 'https://eurofrance.es/media/catalog/product/cache/e730d56669a6b225923c6f3363621cbc/2/6/2643d7eddfea427d3ba1bd4262b280dc.png',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador46',
+		'name': 'Electroventilador Peugeot 206/207 1.6 C/Sin AA',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '9643386780',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '2,35',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/k3yHm4G/9643386780.jpg',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador47',
+		'name': 'Electroventilador P.206/207 1.6 16v Comp. 1999/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1253.C9/1253.C6',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '2,67',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/QCR5tsW/1253-C6.jpg',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador48',
+		'name': 'Electroventilador P.308/408/Partner - Berlingo C/Encauzador',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '1250.F8/1253.E6',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '2,93',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/kKjZmS3/1250-F8.jpg',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador49',
+		'name': 'Electroventilador Peugeot P.207/ Partner/Berlingo 1.6 HDI 2010/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '9463254680',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '2,50',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/c3w9n9Z/9463254680.png',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador50',
+		'name': 'Electroventilador P.306/Partner 1.9 D 1995/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '9020827/1250.F1',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '2,60',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/JWY3vjw/1250-F1.png',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador51',
+		'name': 'Electroventilador Renault 19 C A/C …98',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7700784652',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '2,34',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/J398rTQ/7700784652.jpg',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador52',
+		'name': 'Electroventilador Renault Master 1998> C/Encauzador L/N Completo',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7701059544',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '2,74',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_996782-MLA54851342870_042023-F.webp',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador53',
+		'name': 'Electroventilador Renault Fluence 2.0',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '214816369R',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '2,60',
+		'descripcion': 'lorem lorem',
+		'url': 'https://images.tcdn.com.br/img/img_prod/807158/eletroventilador_renault_fluence_2009_a_2021_214816369r_214819402r_214810898r_21_8431_1_f49e27226ce289495a50747319d248bc.jpeg',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador54',
+		'name': 'Electroventilador Kangoo 1.9 D 1999/2009',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7701043964',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '3,90',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_713820-MLA47248526977_082021-F.webp',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador55',
+		'name': 'Renault Logan 1.6 Nafta 2014> - Sandero Nafta 1.6 Sin Encausador',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '214812546R/214819703R',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '2,02',
+		'descripcion': 'lorem lorem',
+		'url': 'https://gauss.com.br/produtos/wp-content/uploads/sites/2/2020/12/ge1155.jpg',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador56',
+		'name': 'Renault Logan 1.6 Nafta 2014> - Sandero Nafta 1.6 Con Encausador',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '214812546R/214819703R',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '2,80',
+		'descripcion': 'lorem lorem',
+		'url': 'https://gauss.com.br/produtos/wp-content/uploads/sites/2/2020/12/ge1155.jpg',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador57',
+		'name': 'Electroventilador Renault Logan 2/Duster/Sandero 1.4/1.6 16v 2014/…',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '214818009R',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '2,90',
+		'descripcion': 'lorem lorem',
+		'url': 'https://desguacemalvarrosa.es/627390-large_default/electroventilador_214818009r_214818009r_renault_clio_iv_0_9_tce.jpg',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador58',
+		'name': 'Electroventilador Toyota Etios 1.5 Comp. C/Deposito',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '16363-0M010',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://desguacemalvarrosa.es/627390-large_default/electroventilador_214818009r_214818009r_renault_clio_iv_0_9_tce.jpg',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador59',
+		'name': 'Electroventilador Vw Gacel/Senda/Gol (Modelo Viejo)',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'ZBA959455',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '2,02',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_709872-MLB69614499623_052023-F.webp',
+		'categoria':'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador60',
+		'name': 'Electroventilador Astra-Gol III- Gol Power- Pointer C/Aa',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'F006KM0402/547-959455-F',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,72',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_859938-MLA31536486263_072019-F.webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador61',
+		'name': 'Electroventilador Volkswagen Fox/Suran (Diam 350 Mm)',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '6Q0959455AD',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '2,20',
+		'descripcion': 'lorem lorem',
+		'url': 'https://productimages.hepsiburada.net/s/22/550/9952062832690.jpg/format:webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador62',
+		'name': 'Electroventilador Volkswagen Fox/Suran (Diam 350 Mm)',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '6Q0959455AD',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '2,20',
+		'descripcion': 'lorem lorem',
+		'url': 'https://productimages.hepsiburada.net/s/22/550/9952062832690.jpg/format:webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador63',
+		'name': 'Electroventilador Volkswagen Fox - Suran - Gol Trend S/AA Comp.',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '5U0959455B',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '2,20',
+		'descripcion': 'lorem lorem',
+		'url': 'https://eadn-wc05-10061504.nxedge.io/wp-content/uploads/E2-003G-1.png',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador64',
+		'name': 'Electroventilador Vw Bora/Golf/Audi A3 Grande',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1J0959455F',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '2,55',
+		'descripcion': 'lorem lorem',
+		'url': 'https://eadn-wc05-10061504.nxedge.io/wp-content/uploads/E2-003G-1.png',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador65',
+		'name': 'Electroventilador Golf IV - Bora (Principal)',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1J0959455F',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '2,55',
+		'descripcion': 'lorem lorem',
+		'url': 'https://eadn-wc05-10061504.nxedge.io/wp-content/uploads/E2-003G-1.png',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador66',
+		'name': 'Electroventilador Vw Bora/Golf/Audi A3 Chico',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1J0959455M',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,60',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_773404-MLA48537064528_122021-F.webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador67',
+		'name': 'Electroventilador Polo Classic 1.6/1.8 - 1.9 D (Der)',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '6K0959455B',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,57',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_740866-MLM48272849717_112021-F.webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
 		'id': 'dc-kitembrague',
-		'name': 'Kit Clutch Fiat  500  1.3 D   2007/….',
+		'name': 'Kit Clutch Fiat 500 1.3 D 2007/….',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -2922,7 +3386,7 @@ export const items = [
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
-		'url': 'https://departes.com/cdn/shop/products/rolamento-daewoo-ford-vw-skf-bah-0036vk210-D_NQ_NP_744284-MLB26098695346_092017-F_400x.jpg?v=1603262566',
+		'url': 'https://i.ibb.co/wyVLRgB/SKF-BAH-0036.jpg',
 		'categoria':'Maza Rueda',
 	},
 
@@ -3030,9 +3494,9 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1253.R7/1253.C9/1253.E0',
+		'oem': '1253.R7/1253.C9/1253.C5/1253.E0',
 		'marca': 'Peugeot',
-		'pesoNetoUnitario': 'PENDIENTE',
+		'pesoNetoUnitario': '2,67',
 		'descripcion': 'lorem lorem',
 		'url': 'https://gauss.com.br/produtos/wp-content/uploads/sites/2/2020/11/ge1018-2048x2048.jpg.webp',
 		'categoria':'Motoventilador'
@@ -3048,7 +3512,7 @@ export const items = [
 
 		'oem': '1253.P8/9812028580',
 		'marca': 'Peugeot',
-		'pesoNetoUnitario': 'PENDIENTE',
+		'pesoNetoUnitario': '2,70',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_606290-MLA31098584032_062019-F.webp',
 		'categoria':'Motoventilador'
@@ -3064,7 +3528,7 @@ export const items = [
 
 		'oem': '1253.K2',
 		'marca': 'Peugeot',
-		'pesoNetoUnitario': 'PENDIENTE',
+		'pesoNetoUnitario': '3,08',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/Ssm70nW/1253-K2.jpg',
 		'categoria':'Motoventilador'
@@ -3096,7 +3560,7 @@ export const items = [
 
 		'oem': '214814297R',
 		'marca': 'Renault',
-		'pesoNetoUnitario': 'PENDIENTE',
+		'pesoNetoUnitario': '1,80',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_625746-MLA53456476886_012023-F.webp',
 		'categoria':'Motoventilador'
@@ -3194,7 +3658,7 @@ export const items = [
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
-		'url': 'https://aftermarket.schaeffler.es/medias/csccProductZoom-544008810.JPG?context=bWFzdGVyfHByb2R1Y3RpbWFnZXN8Nzk4Mzl8aW1hZ2UvanBlZ3xwcm9kdWN0aW1hZ2VzL2hjMy9oZGEvOTE5MzQ5ODgzNzAyMi5qcGd8MTM0MTgxYWQxYjIxZDI5OGNkYmM4NDdkZWNhYzE2MzhmMGYyZDQzNDI2YzJkOWNiMTdmNTMyMDYzM2M3NDdjZg',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_757183-MLA69803135513_062023-F.webp',
 		'categoria':'Poleas',
 	},
 
