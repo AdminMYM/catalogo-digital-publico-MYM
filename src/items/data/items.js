@@ -1072,6 +1072,182 @@ export const items = [
 	},
 
 	{
+		'id': 'dc-electroventilador68',
+		'name': 'Electroventilador Vw Gol Trend /Voyage/Saveiro S/AA',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '5U0 959 455A',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,85',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_696181-MCO70589310453_072023-F.webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador69',
+		'name': 'Electroventilador Vw Up 1.0 Comp.',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '11880242 vw',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_644962-MLA31593410820_072019-F.webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador70',
+		'name': 'Electroventilador Vw Up 1.0 S/Encauzador',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1S0959455B',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '2,00',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_772915-MLA43408422151_092020-F.webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador71',
+		'name': 'Electroventilador Vw Fox-Suran',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '6Q0 959 455J',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,42',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_913648-MLM47417054706_092021-F.webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador72',
+		'name': 'Electroventilador Vw Passat 1.9 TDI/Vento 2.5 06/…',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1K0959455DL',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '2,90',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_948216-MLA30781145105_052019-F.webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador73',
+		'name': 'Electroventilador Vw Amarok 2.0 TDI 600wc/Encauz. 2012/…',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '2H012120N/2H0121203L/9234689A',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,80',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/K5ZdXjP/2-H012120-N.png',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador74',
+		'name': 'Electroventilador C3 Aircross/P.208 1.4/1.4 HDI/1.6 16v 2013/….',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '5020616/1125.H3',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '2,70',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/y4hJnMv/5020616.png',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador75',
+		'name': 'Electroventilador Toro - Jeep Renegade 1.8 Nafta - Completo 51965900/51966714',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '51965900/51966714',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '3,45',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_954257-MLA49773074621_042022-F.webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador76',
+		'name': 'Electroventilador Jeep Cherokee 4.0 Comp. 1997/2001',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '52028337AC',
+		'marca': 'Jeep',
+		'pesoNetoUnitario': '3,70',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/jfMAAOSwtDNfoC-5/s-l1600.jpg',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador77',
+		'name': 'Electroventilador Corsa 1.4/1.6 Comp. 1994/2002',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '493286686',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '3,80',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_804734-MLA70501286379_072023-F.webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
+		'id': 'dc-electroventilador78',
+		'name': 'Electroventilador Argo/Cronos 1.3/1.8 8v/16v C/Encauz. 2018/….',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '52102283/52064643/52052590',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '3,48',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_937538-MLA53103815548_122022-F.webp',
+		'categoria': 'Electroventiladores',
+	},
+
+	{
 		'id': 'dc-kitembrague',
 		'name': 'Kit Clutch Fiat 500 1.3 D 2007/….',
 		'publisher': 'otro',
@@ -2795,6 +2971,118 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_950669-MLA32630921270_102019-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores3',
+		'name': 'Inyector Chevrolet Corsa 1.6 Mpfi',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '17124782',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_659802-MLA43939691953_102020-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores4',
+		'name': 'Inyector Fiat Palio Siena 1.6',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP001',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_729504-MLA31085539511_062019-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores5',
+		'name': 'Inyector Fiat Fire 1.3 Mpi',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP131',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://www.bragapecas.com.br/image/cache/data/eftr/Img_ftr_rp_544501-1160x1172.JPG?version=20230714204736',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores6',
+		'name': 'Inyector Fiat Palio-Siena 1.4',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP003',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_964782-MLA47781238241_102021-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores7',
+		'name': 'Inyector Fiat Palio - Siena 1.8',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP157',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_662672-MLA45923932278_052021-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores8',
+		'name': 'Inyector Fiat Palio Siena 1.3 Fire',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP065',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_827809-MLA43879967835_102020-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores9',
+		'name': 'Inyector Fiat Palio-Siena',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP116',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/nsEAAOSwRcRkNnzn/s-l1600.jpg',
 		'categoria':'Inyectores'
 	},
 
@@ -6222,5 +6510,517 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_800128-MLA45597061338_042021-F.webp',
 		'categoria': 'Bobina Ignición',
+	},
+
+	{
+		'id': 'dc-inducido',
+		'name': 'Inducido Arranque T/Bosch Vw/Alfa Ph-925/6',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'F000AL2763',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,59',
+		'descripcion': 'lorem lorem',
+		'url': 'https://nexand.com.ar/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/F/0/F000AL2763.jpg',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido2',
+		'name': 'Inducido Arranque T/Bosch Escor/Pointer Ph-925/3',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1004011030',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,91',
+		'descripcion': 'lorem lorem',
+		'url': 'https://rotofrance.com.ar/files/images_rf/IB1030.jpg',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido3',
+		'name': 'Inducido Arranque T/Bosch Palio/Siena Ph-925/ 7',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1004011072',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,92',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/gWvpTSt/1004011072.png',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido4',
+		'name': 'Inducido Arranque T/Bosch Fiesta Diesel Ph-925/2',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1004011022',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,95',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/0jyCKMc/1004011022.png',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido5',
+		'name': 'Inducido Arranque T/Bosch Escort/Pointer Ph-925/3',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1004011039',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,45',
+		'descripcion': 'lorem lorem',
+		'url': 'https://img.systemit.cz/fotografie/max/4843_153677.jpg',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido6',
+		'name': 'Inducido Arranque T/Bosch M. Benz180/Sprinter',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '9003334033',
+		'marca': 'Mercedes Benz',
+		'pesoNetoUnitario': '0,60',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_901200-MLB43461731596_092020-F.webp',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido7',
+		'name': 'Inducido Arranque T/Bosch Polo Diesel Ph-925/1',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1004011087',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,52',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/51FdUsAmHKL._AC_SL1280_.jpg',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido8',
+		'name': 'Inducido',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'F000AL2766',
+		'marca': 'PENDIENTE',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_611508-MLB47710253550_092021-F.webp',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido9',
+		'name': 'Inducido',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '6033AD0446',
+		'marca': 'PENDIENTE',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/7y4qmXK/6033-AD0446.webp',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido10',
+		'name': 'Inducido Arranque T/Bosch Megane Ph-991/1',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1004011089',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,43',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/tXGjkSv/1004011089.webp',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido11',
+		'name': 'Inducido Arranque T/Bosch Peug Partner Ph-990/1',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1004011217',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,38',
+		'descripcion': 'lorem lorem',
+		'url': 'https://img.systemit.cz/fotografie/max/4843_64118.jpg',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido12',
+		'name': 'Inducido Arranque T/Remy Col Hueco Ph-977/1',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '10452361',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,40',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/x5kFXkc/10452361.jpg',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido13',
+		'name': 'Inducido',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'XC1U110005',
+		'marca': 'PENDIENTE',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/x5kFXkc/10452361.jpg',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido14',
+		'name': 'Inducido Arranque Escort/Transit/Mondeo Ph-917/1',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'E90F11005A',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,43',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_832490-MLA31258446256_062019-F.webp',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido15',
+		'name': 'Inducido Arranque Ka/Fiesta Ph-980',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '980',
+		'marca': 'Ford',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_832490-MLA31258446256_062019-F.webp',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido16',
+		'name': 'Inducido Arranque T/Hitachi D-Max  Ph-907/3',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '2130-61004',
+		'marca': 'Isuzu',
+		'pesoNetoUnitario': '0,93',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/414gqsryXoL.jpg',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido17',
+		'name': 'Inducido Arranque T/Hitachi Corsa Diesel Ph-907/1',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '2114-4110',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '0,74',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/414gqsryXoL.jpg',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido18',
+		'name': 'Inducido Arranque T/Indiel M93r 12v F-1000 Ph-987',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '35258608',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,58',
+		'descripcion': 'lorem lorem',
+		'url': 'https://rotofrance.com.ar/files/images_rf/II8608.jpg',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido19',
+		'name': 'Inducido Arranque T/Marelli Palio/Siena/L2 Ph-928/1',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '83225127',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '1,35',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_759354-MLV32491741419_102019-F.webp',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido20',
+		'name': 'Inducido Arranque T/Marelli Palio Ph-953',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '5429456901',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,36',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_759354-MLV32491741419_102019-F.webp',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido21',
+		'name': 'Inducido Arranque T/Mitsubishi Master Ph-942',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'M106X43571',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,52',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/t4zdZqC/M106-X43571.webp',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido22',
+		'name': 'Inducido',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '919/2',
+		'marca': 'PENDIENTE',
+		'pesoNetoUnitario': '0,41',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/t4zdZqC/M106-X43571.webp',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido23',
+		'name': 'Inducido',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'M106X06971',
+		'marca': 'PENDIENTE',
+		'pesoNetoUnitario': '0,40',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/ShAAAOSw61ZkfhvC/s-l1600.jpg',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido24',
+		'name': 'Inducido Arranque T/Mitsubishi Col/Hueco Ph-942/1',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '942/1',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,32',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/ShAAAOSw61ZkfhvC/s-l1600.jpg',
+		'categoria': 'Inducido',
+	},
+
+	{
+		'id': 'dc-inducido25',
+		'name': 'Inducido Arranque T/Valeo Frontal P.307/C4 2.0 16v Ph-929/4',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '594176',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,33',
+		'descripcion': 'lorem lorem',
+		'url': 'https://nosso.com/public/uploads/producto/INN%20VAL001_1.webp',
+		'categoria': 'Inducido',	
+	},
+
+	{
+		'id': 'dc-inducido26',
+		'name': 'Inducido Arranque T/Valeo Ph-929/2',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '182591',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,40',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/a9IAAOSwcktk3-28/s-l500.jpg',
+		'categoria': 'Inducido',	
+	},
+
+	{
+		'id': 'dc-inducido27',
+		'name': 'Inducido Arranque T/Valeo Frontal Ph-929/3',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '594228',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,46',
+		'descripcion': 'lorem lorem',
+		'url': 'https://www.micolini.com/mods/html/fil/Model/Product/25217/320-INNVAL006.jpg.webp',
+		'categoria': 'Inducido',	
+	},
+
+	{
+		'id': 'dc-inducido28',
+		'name': 'Inducido Arranque T/Valeo Frontal Peug/Ren Ph929/1',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '594526',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,35',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/PYN5Jy0/594526.webp',
+		'categoria': 'Inducido',	
+	},
+
+	{
+		'id': 'dc-inducido29',
+		'name': 'Inducido Arranque T/Valeo Ph-983',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '594518',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,58',
+		'descripcion': 'lorem lorem',
+		'url': 'https://nosso.com/public/uploads/producto/INN%20VAL007_1.webp',
+		'categoria': 'Inducido',	
+	},
+
+	{
+		'id': 'dc-inducido30',
+		'name': 'Inducido Arranque 12v Ecosport/Ka D7e',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '594519',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,56',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/31DGDy6wOJL._AC_.jpg',
+		'categoria': 'Inducido',	
+	},
+
+	{
+		'id': 'dc-inducido31',
+		'name': 'Inducido Arranque T/Hitachi Diesel Ph-907/2',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '907/2',
+		'marca': 'Isuzu',
+		'pesoNetoUnitario': '1,10',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/31DGDy6wOJL._AC_.jpg',
+		'categoria': 'Inducido',	
+	},
+
+	{
+		'id': 'dc-inducido32',
+		'name': 'Inducido Arranque P.207/307 /L112/D44.3/E10/C23',
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '929/5',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,36',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/31DGDy6wOJL._AC_.jpg',
+		'categoria': 'Inducido',	
 	},
 ]
