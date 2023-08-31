@@ -6,6 +6,9 @@
 body{
 	overflow-x: hidden;
 }
+h1 {
+	margin: 2rem 0 2rem 0;
+}
 .nav-link {
 	width: 120px;
 }
@@ -36,16 +39,18 @@ body{
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	
+	top: 4.7rem;
 }
 .menu-item ul {
 	background-color: white;
-	height: 300vh;
+	height: 400vh;
 	text-align: center;
 	flex-direction: column;
 	margin: 0%;
 	padding-right: 7rem;
-	padding-top: 5rem;
+	position: absolute;
+	top: 0rem;
+	z-index: 2;
 }
 .menu-item ul li{
 	width: 90%;
@@ -55,19 +60,28 @@ body{
 	text-align: left;
 	width: 150px;
 	cursor: pointer;
+	font-size: 0.8rem;
+	
 }
 .menu-item ul h2 {
 	font-size: 1.2rem;
 	width: 214px;
 	margin-bottom: 2rem;
+	margin-top: 2rem;
 }
 
 .menu-background {
 	background: rgba(59, 59, 59, 0.9);
 	width: 100vw;
-	height: 300vh;
+	height: 400vh;
 }
 
 .inactive {
 	display: none;
+}
+
+@media (max-width: 576px){
+	.menu-item {
+		top: 9.7rem;
+	}
 }
