@@ -1456,6 +1456,150 @@ export const items = [
 	},
 
 	{
+		'id': 'dc-kitembrague14',
+		'name': 'Kit Embrague Chevrolet Corsa 1.6 I 8 V 93..',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '227650/834044',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/vVWm9tN/227650.jpg',
+		'categoria':'Kit de Embrague'
+	},
+
+	{
+		'id': 'dc-kitembrague15',
+		'name': 'Kit Embrague Chevrolet Onix 1.4',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '801171',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/x3vJNpw/801171.jpg',
+		'categoria':'Kit de Embrague'
+	},
+
+	{
+		'id': 'dc-kitembrague16',
+		'name': 'Kit Embrague Corsa Classic/Prisma/Fun/Agile/Spirit 1.4 8v',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '801039',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/DWwCFXr/801039.png',
+		'categoria':'Kit de Embrague'
+	},
+
+	{
+		'id': 'dc-kitembrague17',
+		'name': 'Kit Embrague Corsa/Celta/Agile 09/../Prisma/1.4',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '93257288',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/2W2M0ss/93257288.jpg',
+		'categoria':'Kit de Embrague'
+	},
+
+	{
+		'id': 'dc-kitembrague18',
+		'name': 'Kit Embrague Corsa II/Astra/Meriva/Montana 1.8',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '93194076',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/r5vDGQq/93194076.jpg',
+		'categoria':'Kit de Embrague'
+	},
+
+	{
+		'id': 'dc-kitembrague19',
+		'name': 'Kit Embrague Fiat Fiorino 1.6 Caja 513  94… 20 Estrías',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '650338/006804',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/1bwY4ny/650338.jpg',
+		'categoria':'Kit de Embrague'
+	},
+
+	{
+		'id': 'dc-kitembrague20',
+		'name': 'Kit Embrague Palio/Weekend 1.3 16v 8v Fire/',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '46810287',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/wRJKBvB/46810287.jpg',
+		'categoria':'Kit de Embrague'
+	},
+
+	{
+		'id': 'dc-kitembrague21',
+		'name': 'Kit Embrague Palio/Siena (Grand Siena) 1.4 Mot',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '55228690',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/Mc2SXrt/55228690.png',
+		'categoria':'Kit de Embrague'
+	},
+
+	{
+		'id': 'dc-kitembrague22',
+		'name': 'Kit Embrague Focus/Ecosport/Fiesta Max 1.6 8v',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '7892294951600',
+		'marca': 'Ford',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/Mc2SXrt/55228690.png',
+		'categoria':'Kit de Embrague'
+	},
+
+	{
 		'id': 'dc-discodefreno',
 		'name': 'Disco De Freno P.206/207/208/301/308/3008/Partner 2003/…',	
 		'publisher': 'otro',
@@ -3083,6 +3227,246 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/nsEAAOSwRcRkNnzn/s-l1600.jpg',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores10',
+		'name': 'Inyector Fiat Palio/Siena 1.3/1.6',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP067',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_797710-MLA50110648316_052022-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores11',
+		'name': 'Inyector Ford Fiesta Ka Rocam 1.3 -1.0',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP119',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_743150-MLA49537384475_032022-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores12',
+		'name': 'Inyector Ford Fiesta 1.6',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP127',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_633383-MLA31018266198_062019-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores13',
+		'name': 'Inyector Peugeot 1.4-1.6 8v',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '01F002A',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,05',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_817655-MLA50159554651_062022-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores14',
+		'name': 'Inyector Peugeot 1.6',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '280155842',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_681116-MLA47351928013_092021-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores15',
+		'name': 'Inyector Peugeot 208 1.5',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '9674385580',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_764440-MLA53244088930_012023-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores16',
+		'name': 'Inyector Renault Clio 2.0',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP042',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_895869-MLA45258752201_032021-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores17',
+		'name': 'Inyector Renault Clio 1.6',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP143',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_713458-MLA31114656719_062019-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores18',
+		'name': 'Inyector Renault Clio 1.2 16v Aro Rosa',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP099',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_835997-MLA52802562582_122022-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores19',
+		'name': 'Inyector Vw Gol',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP043',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_695041-MLA49377447315_032022-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores20',
+		'name': 'Inyector Vw Gol 1.6 / 1.8',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP114',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_708856-MLA69452151426_052023-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores21',
+		'name': 'Inyector Vw Gol 1000 - 1.6',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP041',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_811870-MLA31295870443_072019-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores22',
+		'name': 'Inyector Vw Polo Gol',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'IWP044',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_943562-MLA40242637400_122019-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores23',
+		'name': 'Inyector Vw Fox - Suran',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '280156399',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_754784-MLA53232548464_012023-F.webp',
+		'categoria':'Inyectores'
+	},
+
+	{
+		'id': 'dc-inyectores24',
+		'name': 'Inyector Vw Fox Msi',	
+		'publisher': 'otro',
+		'pais': 'Brasil',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '280156403',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_741138-MLA53087641093_122022-F.webp',
 		'categoria':'Inyectores'
 	},
 
