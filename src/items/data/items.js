@@ -3,9 +3,9 @@ export const items = [
 		'id': 'dc-electroventilador',
 		'name': 'Electroventilador Mini Cooper Clubman 350watt 3 Pins',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
+		'characters': 'lorem lorem lorem',
 
 		'oem': '17422752632',
 		'marca': 'Mini',
@@ -19,7 +19,7 @@ export const items = [
 		'id': 'dc-electroventilador2',
 		'name': 'Electroventilador Mini Cooper One 260 W 3 Pins R50/R52/R53',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -35,7 +35,7 @@ export const items = [
 		'id': 'dc-electroventilador3',
 		'name': 'Electroventilador  Sandero /Logan /Dacia Mcv 1.6 16v 1.5 E4',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -51,7 +51,7 @@ export const items = [
 		'id': 'dc-electroventilador4',
 		'name': 'Electroventilador  Sandero / Logan /Dacia Mcv 1.4/1.6',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -67,7 +67,7 @@ export const items = [
 		'id': 'dc-electroventilador5',
 		'name': 'Electroventilador Renault Clio',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1251,7 +1251,7 @@ export const items = [
 		'id': 'dc-kitembrague',
 		'name': 'Kit Clutch Fiat 500 1.3 D 2007/….',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1267,7 +1267,7 @@ export const items = [
 		'id': 'dc-kitembrague2',
 		'name': 'Kit Clutch P.206 (3 En 1)  1.6 16v (Tu5jp4) 200 X 18  1998/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1283,7 +1283,7 @@ export const items = [
 		'id': 'dc-kitembrague3',
 		'name': 'Kit Clutch P.307/Partner 1.6 16v 2000/… (3 En 1)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1299,7 +1299,7 @@ export const items = [
 		'id': 'dc-kitembrague4',
 		'name': 'Kit Clutch  P.205/P.405  1.6  16v  1989/1996',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1315,7 +1315,7 @@ export const items = [
 		'id': 'dc-kitembrague5',
 		'name': 'Kit Clutch 207/308/Partner 1.6 Hdi  2008/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1331,7 +1331,7 @@ export const items = [
 		'id': 'dc-kitembrague6',
 		'name': 'Kit Peugeot 207 1.4 ,1.6 16v 2009/…   200*28 (3 Pcs)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1347,7 +1347,7 @@ export const items = [
 		'id': 'dc-kitembrague7',
 		'name': 'Kit Citroen Berlingo /Saxo / P106/206 1.1/1.4/1.6 00-',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1363,7 +1363,7 @@ export const items = [
 		'id': 'dc-kitembrague8',
 		'name': 'Kit Citroen Xsara Picasso (N68) 1.6 99-',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1379,7 +1379,7 @@ export const items = [
 		'id': 'dc-kitembrague9',
 		'name': 'Kit Clutch Duster/Nissan Terrano 2.0 16v 2012/…. (2 En 1)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1395,7 +1395,7 @@ export const items = [
 		'id': 'dc-kitembrague10',
 		'name': 'Kit Clutch Clio III/Megane II/Fluence 2.0 16v 2007/… (2 En 1)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1411,7 +1411,7 @@ export const items = [
 		'id': 'dc-kitembrague11',
 		'name': 'Kit Clutch Kangoo/Logan/Sandero 1.6 16v 2001/… (2 En 1)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1427,7 +1427,7 @@ export const items = [
 		'id': 'dc-kitembrague12',
 		'name': 'Kit Clutch Kwid 1.0 2017/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1443,7 +1443,7 @@ export const items = [
 		'id': 'dc-kitembrague13',
 		'name': 'Kit Clutch Foton Aumark  5000 3.8 D   2008/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1603,7 +1603,7 @@ export const items = [
 		'id': 'dc-discodefreno',
 		'name': 'Disco De Freno P.206/207/208/301/308/3008/Partner 2003/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1619,7 +1619,7 @@ export const items = [
 		'id': 'dc-discodefreno2',
 		'name': 'Disco De Freno P.206/207/208/301/308/3008/Partner 2003/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1635,7 +1635,7 @@ export const items = [
 		'id': 'dc-discodefreno3',
 		'name': 'Disco De Freno P.308/3008/508/5008/Partner 2014/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1651,7 +1651,7 @@ export const items = [
 		'id': 'dc-discodefreno4',
 		'name': 'Disco De Freno Clio Iii/Logan/Sandero/Symbol 2011/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1667,7 +1667,7 @@ export const items = [
 		'id': 'dc-bombacombustible',
 		'name': 'Bomba De Combustible Sandero/Logan/Duster/Lada Largus/Dacia Mcv 1.4/1.6 16v',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1955,7 +1955,7 @@ export const items = [
 		'id': 'dc-baseamortiguador',
 		'name': 'Base Amort. Comp. P.307/Partner 2001/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1971,7 +1971,7 @@ export const items = [
 		'id': 'dc-baseamortiguador2',
 		'name': 'Base Amort. P.308/3008/508/5008/Partner 2016/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1987,7 +1987,7 @@ export const items = [
 		'id': 'dc-baseamortiguador3',
 		'name': 'Base Amort. 308/3008/508/5008/Partner R',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2003,7 +2003,7 @@ export const items = [
 		'id': 'dc-baseamortiguador4',
 		'name': 'Base Amort. Comp. P.207 2006/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2019,7 +2019,7 @@ export const items = [
 		'id': 'dc-baseamortiguador5',
 		'name': 'Base Amort. Comp.  P.306/Partner/Citroen Berlingo 1993/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2035,7 +2035,7 @@ export const items = [
 		'id': 'dc-baseamortiguador6',
 		'name': 'Base Amort. P.308/3008/508/5008/Partner 2009/2016',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2051,7 +2051,7 @@ export const items = [
 		'id': 'dc-baseamortiguador7',
 		'name': 'Base Amort. Comp. Clio/Twingo 1992/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2067,7 +2067,7 @@ export const items = [
 		'id': 'dc-baseamortiguador8',
 		'name': 'Base Amort. Del. Comp. Clioii/Twingo/Kangoo/Symbol 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2083,7 +2083,7 @@ export const items = [
 		'id': 'dc-baseamortiguador9',
 		'name': 'Base Amort. Comp. Fluence 2010/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2099,7 +2099,7 @@ export const items = [
 		'id': 'dc-baseamortiguador10',
 		'name': 'Base Amort. Comp. Fluence 2014/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2115,7 +2115,7 @@ export const items = [
 		'id': 'dc-baseamortiguador11',
 		'name': 'Base Amortiguador Comp. Megane Ii 1.6 - 06/2005',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2131,7 +2131,7 @@ export const items = [
 		'id': 'dc-baseamortiguador12',
 		'name': 'Base Amortiguador Der. Comp. 206 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2147,7 +2147,7 @@ export const items = [
 		'id': 'dc-baseamortiguador13',
 		'name': 'Base Amortiguador  Izq. Comp. 206 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2163,7 +2163,7 @@ export const items = [
 		'id': 'dc-bombaagua',
 		'name': 'Bomba Agua Elec. Serie 1/3/4/5/X1/X3/X4/X5 3.0 2009/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2179,7 +2179,7 @@ export const items = [
 		'id': 'dc-bombaagua2',
 		'name': 'Bomba De Agua Mini Cooper 1.6  Completa',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2195,7 +2195,7 @@ export const items = [
 		'id': 'dc-bombaagua3',
 		'name': 'Bomba De Agua Mini (R50,R53) Cooper S',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2211,7 +2211,7 @@ export const items = [
 		'id': 'dc-bombaagua4',
 		'name': 'Bomba De Agua Mini (R56) - One D 1598cc',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2227,7 +2227,7 @@ export const items = [
 		'id': 'dc-bombaagua5',
 		'name': 'Bomba Agua P.207/208/308/3008/Partner/C4 1.4/1.6 2008/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2243,7 +2243,7 @@ export const items = [
 		'id': 'dc-bombaagua6',
 		'name': 'Bomba De Agua Logan 1.6 16v/Clio Iii  1.6 16v/Megane Iii 1.6 16v',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2258,7 +2258,7 @@ export const items = [
 		'id': 'dc-aropiston',
 		'name': 'Aro Piston P.207/208/2008/308/3008 Partner 1.6 16v 2007/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2274,7 +2274,7 @@ export const items = [
 		'id': 'dc-bombagasolina',
 		'name': 'Bomba Gasolina Alta Presion P.208/308/3008 1.6 Thp 2010/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2290,7 +2290,7 @@ export const items = [
 		'id': 'dc-bombagasolina2',
 		'name': 'Bomba Gasolina Alta Presion P.207/208/3008/508 1.6 2007/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2306,7 +2306,7 @@ export const items = [
 		'id': 'dc-bujehorquilla',
 		'name': 'Buje De Punta Horquilla P.206 1998/..',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2322,7 +2322,7 @@ export const items = [
 		'id': 'dc-bujehorquilla2',
 		'name': 'Buje Horquilla P.206 1998/..',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2338,7 +2338,7 @@ export const items = [
 		'id': 'dc-bujehorquilla3',
 		'name': 'Buje De Punta Horquilla P.206/Partner/Berlingo 1996/..',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2354,7 +2354,7 @@ export const items = [
 		'id': 'dc-bujiaprecalentamiento',
 		'name': 'Bujia De Precalent. 206/308/Partner 1.6 Hdi 2010/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2370,7 +2370,7 @@ export const items = [
 		'id': 'dc-cablesensor',
 		'name': 'Cable Sensor Abs 307 1.6 16v/308 1.6 16v',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2386,7 +2386,7 @@ export const items = [
 		'id': 'dc-collarinhidraulico',
 		'name': 'Collarín Hidráulico Captur/Duster/Fluence 1.6/2.0 2003/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2402,7 +2402,7 @@ export const items = [
 		'id': 'dc-conmutadorluces',
 		'name': 'Conmutador Luces Logan/Sandero/Duster 2013/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2418,7 +2418,7 @@ export const items = [
 		'id': 'dc-filtros',
 		'name': 'Filtro Aceite P.107/1007/206/207/208/508 1.6 Hdi 16v 2002/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2434,7 +2434,7 @@ export const items = [
 		'id': 'dc-filtros2',
 		'name': 'Filtro Aceite P.107/1007/206/207/208/508 1.6 Hdi 16v 2002/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2450,7 +2450,7 @@ export const items = [
 		'id': 'dc-filtros3',
 		'name': 'Filtro Aceite P.206/207/208/Partner 1.4 Hdi/1.6 Hdi 2007/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2466,7 +2466,7 @@ export const items = [
 		'id': 'dc-filtros4',
 		'name': 'Filtro Aceite P.107/206/207/208/307/508 1.4/1.6 16v 2007/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2482,7 +2482,7 @@ export const items = [
 		'id': 'dc-filtros5',
 		'name': 'Filtro De Combustible Ducato/Boxer 3.0 Hdi 2011/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2498,7 +2498,7 @@ export const items = [
 		'id': 'dc-parrillasuspension',
 		'name': 'Parrilla Susp. Izq. Giulietta 2010/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2514,7 +2514,7 @@ export const items = [
 		'id': 'dc-parrillasuspension2',
 		'name': 'Parrilla Susp. Der. Giulietta 2010/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2530,7 +2530,7 @@ export const items = [
 		'id': 'dc-parrillasuspension3',
 		'name': 'Parrilla Susp. Izq. Partner/Berlingo 2019/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2546,7 +2546,7 @@ export const items = [
 		'id': 'dc-parrillasuspension4',
 		'name': 'Parrilla Susp. Der. Partner/Berlingo 2019/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2562,7 +2562,7 @@ export const items = [
 		'id': 'dc-parrillasuspension5',
 		'name': 'Parrilla Susp. Del. Inf. Izq. P.208/2008 2020/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2578,7 +2578,7 @@ export const items = [
 		'id': 'dc-parrillasuspension6',
 		'name': 'Parrilla Susp. Del. Inf. Der. P.208/2008 2020/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2594,7 +2594,7 @@ export const items = [
 		'id': 'dc-parrillasuspension7',
 		'name': 'Parrilla Susp. Del. Inf. Izq. Peugeot 206 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2610,7 +2610,7 @@ export const items = [
 		'id': 'dc-parrillasuspension8',
 		'name': 'Parrilla Susp. Del. Inf. Der. Peugeot 206 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2626,7 +2626,7 @@ export const items = [
 		'id': 'dc-parrillasuspension9',
 		'name': 'Parrilla Suspension 206 1.6',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2642,7 +2642,7 @@ export const items = [
 		'id': 'dc-parrillasuspension10',
 		'name': 'Parrilla Susp. Izq. Megane /R19 1992/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2658,7 +2658,7 @@ export const items = [
 		'id': 'dc-parrillasuspension11',
 		'name': 'Parrilla Susp. Der. Megane /R19 1992/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2674,7 +2674,7 @@ export const items = [
 		'id': 'dc-parrillasuspension12',
 		'name': 'Parrilla Der. Renault Megane III/Fluence',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2690,7 +2690,7 @@ export const items = [
 		'id': 'dc-parrillasuspension13',
 		'name': 'Parrilla Izq. Renault Megane III/Fluence',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3090,7 +3090,7 @@ export const items = [
 		'id': 'dc-inyectores',
 		'name': 'Inyector De Combustible 307/C4 2.0 16v',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3106,7 +3106,7 @@ export const items = [
 		'id': 'dc-inyectores2',
 		'name': 'Inyector Peugeot 206',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3474,7 +3474,7 @@ export const items = [
 		'id': 'dc-mangosuspension',
 		'name': 'Mango Susp. Izq. Clio',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3490,7 +3490,7 @@ export const items = [
 		'id': 'dc-mangosuspension2',
 		'name': 'Mango Susp. Der. Clio',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3506,7 +3506,7 @@ export const items = [
 		'id': 'dc-mangosuspension3',
 		'name': 'Mango Susp. Der. Kangoo/Clio II',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3522,7 +3522,7 @@ export const items = [
 		'id': 'dc-mangosuspension4',
 		'name': 'Mango Susp. Izq. Kangoo/Clio II',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3538,7 +3538,7 @@ export const items = [
 		'id': 'dc-mangosuspension5',
 		'name': 'Mango Susp. Der. Logan/Sandero 2004/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3554,7 +3554,7 @@ export const items = [
 		'id': 'dc-mangosuspension6',
 		'name': 'Mango Susp. Izq. Logan/Sandero 2004/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3570,7 +3570,7 @@ export const items = [
 		'id': 'dc-mangosuspension7',
 		'name': 'Mango Susp. Izq. Logan/Sandero Stepway 2015/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3586,7 +3586,7 @@ export const items = [
 		'id': 'dc-mangosuspension8',
 		'name': 'Mango Susp. Der. Logan/Sandero Stepway 2015/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3602,7 +3602,7 @@ export const items = [
 		'id': 'dc-mazarueda',
 		'name': 'Maza De Rueda Kangoo 1.6 16v 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4130,7 +4130,7 @@ export const items = [
 		'id': 'dc-molduraarcoderueda',
 		'name': 'Moldura Arco De Rueda - Mini Cooper Trasero Izquierdo  F55 / 56/57 2014 /…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4146,7 +4146,7 @@ export const items = [
 		'id': 'dc-motoventilador',
 		'name': 'Motoventilador Giulietta 1.4/2.0 Jtdm  2010/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4162,7 +4162,7 @@ export const items = [
 		'id': 'dc-motoventilador2',
 		'name': 'Motoventilador P.206/P.207 1.6 16v 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4178,7 +4178,7 @@ export const items = [
 		'id': 'dc-motoventilador3',
 		'name': 'Motoventilador P.207/P.301/Citroen C3 1.4/1.4 Hdi/1.6 16v 2003/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4194,7 +4194,7 @@ export const items = [
 		'id': 'dc-motoventilador4',
 		'name': 'Motoventilador P.307 1.6/2.0 16v 2000/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4210,7 +4210,7 @@ export const items = [
 		'id': 'dc-motoventilador5',
 		'name': 'Motoventilador Fluence/Megane III 1.6 16v 2013/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4226,7 +4226,7 @@ export const items = [
 		'id': 'dc-motoventilador6',
 		'name': 'Motoventilador Kwid 1.0 12v 2017/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4242,7 +4242,7 @@ export const items = [
 		'id': 'dc-motordearranque',
 		'name': 'Motor Arranque 206/301/307/2008/308 1.4 HDI/1.6 HDI 2007/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4258,7 +4258,7 @@ export const items = [
 		'id': 'dc-parachoques',
 		'name': 'Parachoques Delantero Inferior Mini Cooper F55 / 56/57 2014 /…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4274,7 +4274,7 @@ export const items = [
 		'id': 'dc-poleas',
 		'name': 'Polea Tensora Mini Clubman R55 Cooper',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4290,7 +4290,7 @@ export const items = [
 		'id': 'dc-poleas2',
 		'name': 'Polea Tensora Mini Mini (R50, R53) Cooper S',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4306,7 +4306,7 @@ export const items = [
 		'id': 'dc-poleas3',
 		'name': 'Polea Tensora Mini Mini R50 R53 Cooper',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4322,7 +4322,7 @@ export const items = [
 		'id': 'dc-poleas4',
 		'name': 'Polea Cigueñal Megane II/Megane III 1.9 DCI 2002/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4338,7 +4338,7 @@ export const items = [
 		'id': 'dc-poleas5',
 		'name': 'Polea Loca Clio II 1.4 16v /1.6 16v/Megane II 1.4 16v/Clio III 1.6 16v',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4354,7 +4354,7 @@ export const items = [
 		'id': 'dc-poleas6',
 		'name': 'Polea Tensora 207 1.4 16v 2009/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4514,7 +4514,7 @@ export const items = [
 		'id': 'dc-radiador',
 		'name': 'Radiador P.1007/207/208 1.6/1.6 HDI 2006/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4530,7 +4530,7 @@ export const items = [
 		'id': 'dc-radiador2',
 		'name': 'Radiador Partner/307/C4 1.4/1.6 HDI/1.6 Thp 16v 2004/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4546,7 +4546,7 @@ export const items = [
 		'id': 'dc-radiador3',
 		'name': 'Radiador P. 308/3008/508/Partner 1.6 HDI/1.6 16v 2013/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4562,7 +4562,7 @@ export const items = [
 		'id': 'dc-radiador4',
 		'name': 'Radiador Clio/Duster/Logan/Captur 1.2/1.3 2013/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4578,7 +4578,7 @@ export const items = [
 		'id': 'dc-radiador5',
 		'name': 'Radiador Captur/Duster/Logan 1.5 DCI/1.6 2013/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4594,7 +4594,7 @@ export const items = [
 		'id': 'dc-radiador6',
 		'name': 'Radiador Megane III/Fluence 1.9 DCI/2.0 16v 2009/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4610,7 +4610,7 @@ export const items = [
 		'id': 'dc-radiador7',
 		'name': 'Radiador Kwid 1.0 12v 2017/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4626,7 +4626,7 @@ export const items = [
 		'id': 'dc-radiador8',
 		'name': 'Radiador Logan 1.5 DCI/1.6 16v 2007/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4642,7 +4642,7 @@ export const items = [
 		'id': 'dc-resortes',
 		'name': 'Resorte Neumático De Manga (Bolsa Suspensión)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4658,7 +4658,7 @@ export const items = [
 		'id': 'dc-reguladorlevas',
 		'name': 'Regulador Árbol De Levas Clio II 2.0 16v/Megane II 2.0',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4674,7 +4674,7 @@ export const items = [
 		'id': 'dc-rejillacromada',
 		'name': 'Rejilla Cromada Mini Cooper F55 2014 /….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4690,7 +4690,7 @@ export const items = [
 		'id': 'dc-resistenciaelectroventilador',
 		'name': 'Resistencia Electroventilador Clio II/Megane 1997/… (0,69 OHM)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4706,7 +4706,7 @@ export const items = [
 		'id': 'dc-resistenciamotoventilador',
 		'name': 'Resistencia Motoventilador P.206/307/Partner/Citroen Berlingo 1.6 16v 2000/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4722,7 +4722,7 @@ export const items = [
 		'id': 'dc-resistenciamotoventilador2',
 		'name': 'Resistencia Motoventilador P.406/Partner 1.8/2.0 16v 1999/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4738,7 +4738,7 @@ export const items = [
 		'id': 'dc-resistenciamotoventilador3',
 		'name': 'Resistencia Motoventilador P.206/307/Partner 1.6/2.0 16v 2002/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4754,7 +4754,7 @@ export const items = [
 		'id': 'dc-resistenciamotoventilador4',
 		'name': 'Resistencia Motoventilador Laguna/Megane/Clio/Kangoo 1.6/1.8/2.0 16v 1993/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4770,7 +4770,7 @@ export const items = [
 		'id': 'dc-repartidordefrenado',
 		'name': 'Repartidor De Frenado Logan/Sandero 1.6 16v 2004/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4786,7 +4786,7 @@ export const items = [
 		'id': 'dc-rotulasuspension',
 		'name': 'Rotula Susp. Partner/Berlingo 16,7 Mm 2019/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5396,7 +5396,7 @@ export const items = [
 		'id': 'dc-soportemotor',
 		'name': 'Soporte Motor Tras. Giulietta  1.6 Jtdm/2.0 Jtdm  2010/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5412,7 +5412,7 @@ export const items = [
 		'id': 'dc-soportemotor2',
 		'name': 'Soporte Motor Izq. Giulietta  1.6 Jtdm/2.0 Jtdm  2010/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5428,7 +5428,7 @@ export const items = [
 		'id': 'dc-soportemotor3',
 		'name': 'Soporte Motor Der. Giulietta  1.6 Jtdm/2.0 Jtdm  2010/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5444,7 +5444,7 @@ export const items = [
 		'id': 'dc-soportemotor4',
 		'name': 'Soporte Mot. Tras. P.308/3008/508/Partner 1.6 HDI 2013/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5460,7 +5460,7 @@ export const items = [
 		'id': 'dc-soportemotor5',
 		'name': 'Soporte Mot. Izq. P.208/2008/308/3008/Partner 1.6 HDI 2013/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5476,7 +5476,7 @@ export const items = [
 		'id': 'dc-soportemotor6',
 		'name': 'Soporte Mot. Tras. (Buje) P.206/307/407/806/Partner 1994/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5492,7 +5492,7 @@ export const items = [
 		'id': 'dc-soportemotor7',
 		'name': 'Soporte Mot. Der. P.308/3008/508/5008/Partner 2009/2016',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5508,7 +5508,7 @@ export const items = [
 		'id': 'dc-soportemotor8',
 		'name': 'Soporte Mot. Tras. P.308/3008/508/5008 1.6 HDI 2018/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5524,7 +5524,7 @@ export const items = [
 		'id': 'dc-soportemotor9',
 		'name': 'Soporte Mot. Tras. P.206/307/308/Partner1.6/2.0 16v 1999/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5540,7 +5540,7 @@ export const items = [
 		'id': 'dc-sensorposicionciguenal',
 		'name': 'Sensor De Posición Del Cigüeñal BMW 7',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5556,7 +5556,7 @@ export const items = [
 		'id': 'dc-sensorposicionciguenal2',
 		'name': 'Sensor De Posición Del Cigüeñal Mini Cooper Clubman',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5572,7 +5572,7 @@ export const items = [
 		'id': 'dc-sensorposicionciguenal3',
 		'name': 'Sensor  Cigüeñal Mini Cooper (R50, R53)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5588,7 +5588,7 @@ export const items = [
 		'id': 'dc-sensordevelocidad',
 		'name': 'Sensor De Velocidad Fiat Palio 2010/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5604,7 +5604,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion',
 		'name': 'Tanque De Expansión Fiat Strada Palio/Idea 1.8/1.4 2013/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5620,7 +5620,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion2',
 		'name': 'Tanque De Expansión Mini S/R56 2002/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5636,7 +5636,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion3',
 		'name': 'Tanque De Expansión Mini (Mini 3) Clubman 1.6 1 2007/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5652,7 +5652,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion4',
 		'name': 'Tanque De Expansión Mini (Mini 3) Clubman 1.6 1 2007/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5668,7 +5668,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion5',
 		'name': 'Tanque Expansión P.206 1.4/1.6 16v 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5684,7 +5684,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion6',
 		'name': 'Tanque Expansión P.308/3008/5008/Partner 1.6/1.6 Thp 16v 2011/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5700,7 +5700,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion7',
 		'name': 'Tanque Expansión Peugeot 307',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5716,7 +5716,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion8',
 		'name': 'Tanque Expansión Peugeot 207',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5732,7 +5732,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion9',
 		'name': 'Tanque Expansión Peugeot 307',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5748,7 +5748,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion10',
 		'name': 'Tanque Expansión Peugeot Partner',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5764,7 +5764,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion11',
 		'name': 'Tanque Expansión Dokker/Captur/Clio IV/Duster/Logan/Sandero 1.2/1.5 DCI/1.6 16v 2013/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5780,7 +5780,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion12',
 		'name': 'Tanque Expansión Logan/Sandero/Clio Iv 1.0/1.2/1.6 16v 2014/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5796,7 +5796,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion13',
 		'name': 'Tanque Expansión Fluence/Megane III 1.6/2.0 16v 2013/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5812,7 +5812,7 @@ export const items = [
 		'id': 'dc-tanqueexpansion14',
 		'name': 'Tanque Expansión Renault Clio II/Kangoo',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5828,7 +5828,7 @@ export const items = [
 		'id': 'dc-termostatosdeagua',
 		'name': 'Termostato De Agua Fiat 500 /Doblo 1.4 8 Valv 06/.. 16 V10/…Uno Way',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5844,7 +5844,7 @@ export const items = [
 		'id': 'dc-termostatosdeagua2',
 		'name': 'Termostato Agua Mini R56/R57/R58/R59/R60/R61 1.6 2012/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5860,7 +5860,7 @@ export const items = [
 		'id': 'dc-termostatosdeagua3',
 		'name': 'Termostato Agua P.206/307/308/Partner 1.4/1.6 2000/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5876,7 +5876,7 @@ export const items = [
 		'id': 'dc-termostatosdeagua4',
 		'name': 'Termostato Agua P.206/307/407 1.6/1,6 HDI/2.0/2.2 HDI 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5892,7 +5892,7 @@ export const items = [
 		'id': 'dc-termostatosdeagua5',
 		'name': 'Termostato De Agua 206 1.6 16v /307 1.6 16v/Partner 1.6 90 Cv',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5908,7 +5908,7 @@ export const items = [
 		'id': 'dc-termostatosdeagua6',
 		'name': 'Termostato De Agua Logan 1.6 16v/Kangoo 1.6 16v/Clio II 1.6 16v',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5924,7 +5924,7 @@ export const items = [
 		'id': 'dc-termostatosdeagua7',
 		'name': 'Termostato De Agua Clio III 1.6 16v/Fluence 1.6 16v',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5940,7 +5940,7 @@ export const items = [
 		'id': 'dc-extremodireccion',
 		'name': 'Extremo Dir. Der. P.308/3008/Partner/508/5008 2009/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5956,7 +5956,7 @@ export const items = [
 		'id': 'dc-extremodireccion2',
 		'name': 'Extremo Dir. Izq. P.308/3008/Partner/508/5008 2009/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5972,7 +5972,7 @@ export const items = [
 		'id': 'dc-extremodireccion3',
 		'name': 'Bieleta Dir. Partner/Berlingo 14 X 1.5 Mm/280 Mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5988,7 +5988,7 @@ export const items = [
 		'id': 'dc-extremodireccion4',
 		'name': 'Bieleta De Caja De Cambios P. 206 1.6 16v',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6500,7 +6500,7 @@ export const items = [
 		'id': 'dc-volantebimasa',
 		'name': 'Alfa Romeo (Bimasa) Mito/Giulietta/Fiat Punto 1.4 T 2012/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
