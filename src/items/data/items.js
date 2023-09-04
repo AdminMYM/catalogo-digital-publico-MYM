@@ -7407,20 +7407,4 @@ export const items = [
 		'url': 'https://m.media-amazon.com/images/I/31DGDy6wOJL._AC_.jpg',
 		'categoria': 'Inducido',	
 	},
-
-	{
-		'id': 'dc-cazoleta',
-		'name': 'Inducido Arranque P.207/307 /L112/D44.3/E10/C23',
-		'publisher': 'otro',
-		'pais': 'Brasil',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
-
-		'oem': '929/5',
-		'marca': 'Peugeot',
-		'pesoNetoUnitario': '0,36',
-		'descripcion': 'lorem lorem',
-		'url': 'https://m.media-amazon.com/images/I/31DGDy6wOJL._AC_.jpg',
-		'categoria': 'Cazoleta Amortiguador',	
-	},
 ]
