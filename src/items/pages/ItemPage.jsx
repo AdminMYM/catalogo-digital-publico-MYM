@@ -32,6 +32,7 @@ export const ItemPage = () => {
 				<ul className="list-group list-group-flush">
 					<li className="list-group-item"><b>OEM:</b> {item.oem}</li>
 					<li className="list-group-item"><b>Marca:</b> {item.marca}</li>
+					<li className="list-group-item"><b>País:</b> {item.pais}</li>
 					{item.pesoNetoUnitario ? <li className="list-group-item"><b>Peso Neto Unitario:</b> {item.pesoNetoUnitario} kg</li> : '' } 
 					<li className="list-group-item"><b>Descripción</b> {item.descripcion}</li>
 				</ul>

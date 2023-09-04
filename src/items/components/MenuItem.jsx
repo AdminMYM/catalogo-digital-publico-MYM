@@ -1,8 +1,5 @@
 import { useNavigate } from "react-router-dom"
 import {useState, useEffect} from 'react'
-import {items} from '../data/items'
-import { ItemList } from "./ItemList"
-import { ItemCard } from "./ItemCard"
 import { useContext } from "react"
 import { AuthContext } from "../../auth/context/AuthContext"
 
