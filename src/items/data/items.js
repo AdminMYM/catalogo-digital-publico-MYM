@@ -10,9 +10,10 @@ export const items = [
 		'oem': '17422752632',
 		'marca': 'Mini',
 		'pesoNetoUnitario': 'PENDIENTE',
-		'descripcion': 'Electroventilador original Mini Cooper, hecho en Alemania, equipo original marca Mahle Hella.',
+		'descripcion': 'Electroventilador original Mini Cooper de 350W para Mini Cooper S y John Cooper Works 2009 al 2014 de los tipos R55 (Mini Clubman y Mini Clubman LCI), R56 (Mini y Mini LCI), R57 (Cabrio y Cabrio LCI), R58 (Mini Coupé) y R59 (Mini Roadster).',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_665761-MLA51152086278_082022-F.webp',
-		'categoria': 'Electroventiladores'
+		'categoria': 'Electroventiladores',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -26,14 +27,15 @@ export const items = [
 		'oem': '17101475577',
 		'marca': 'Mini',
 		'pesoNetoUnitario': 'PENDIENTE',
-		'descripcion': 'lorem lorem',
+		'descripcion': 'Electroventilador de enfriamiento original para Mini Cooper 17101475577. Alta calidad, funcionamiento estable y larga duración.',
 		'url': 'https://i.ebayimg.com/images/g/vPsAAOSwmsdgISJr/s-l500.jpg',
-		'categoria':'Electroventiladores'
+		'categoria':'Electroventiladores',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador3',
-		'name': 'Electroventilador  Sandero /Logan /Dacia Mcv 1.6 16v 1.5 E4',
+		'name': 'Electroventilador Sandero /Logan /Dacia Mcv 1.6 16v 1.5 E4',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -42,14 +44,15 @@ export const items = [
 		'oem': '6001550562',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
-		'descripcion': 'lorem lorem',
+		'descripcion': 'Electroventilador de refrigeración eléctrica para DACIA RENAULT LOGAN SANDERO 1.5. 1.6 6001550562. Calidad inigualable y diseño único. Aplica para los siguientes modelos: RENAULT Clio 1.2 1999–2012, RENAULT Clio 1.6 1991–1909, RENAULT Clio 1.9 Diesel 1993–2003, y RENAULT Clio 2.0 1999–2005.',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_608897-MLA70418192692_072023-F.webp',
-		'categoria':'Electroventiladores'
+		'categoria':'Electroventiladores',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador4',
-		'name': 'Electroventilador  Sandero / Logan /Dacia Mcv 1.4/1.6',
+		'name': 'Electroventilador Sandero / Logan /Dacia Mcv 1.4/1.6',
 		'publisher': 'otro',
 		'pais': 'Brasil',
 		'first_appearance': 'lorem lorem',
@@ -58,9 +61,10 @@ export const items = [
 		'oem': '6001550769',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
-		'descripcion': 'lorem lorem',
+		'descripcion': 'Ventilador de refrigeración de radiador completo con aspas para Renault SANDERO LOGAN DACIA.',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_782916-MLA40577836116_012020-F.webp',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -74,64 +78,68 @@ export const items = [
 		'oem': '7701070217/V9010780',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
-		'descripcion': 'lorem lorem',
+		'descripcion': 'Electroventilador (ventilador) Radiador 6 aspas Renault Clio 1.0 KANGOO SCENIC MEGANE LOGAN SANDERO - 1997 hasta 2012.',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_848789-MLA42519580077_072020-F.webp',
-		'categoria':'Electroventiladores'
+		'categoria':'Electroventiladores',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador6',
 		'name': 'Electroventilador Chevrolet Corsa 1.4 Nafta 94-96- 1.6',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
 		'oem': '9130451171',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '1,56',
-		'descripcion': 'lorem lorem',
+		'descripcion': 'Electroventilador Chevrolet Corsa 4 aspas 1.4L 1.6L 12V completo sin aire acondicionado.',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_601679-MLA54402480333_032023-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST500',
 	},
 
 	{
 		'id': 'dc-electroventilador7',
 		'name': 'Electroventilador Fiat Palio Fire - Uno 1.3 Mpi',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
 		'oem': '46816876',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': '1,21',
-		'descripcion': 'lorem lorem',
+		'descripcion': 'Electroventilador Fiat Palio Fire Strada con 7 aspas, aire acondicionado y aspiración en sentido horario. Aplica para los siguientes modelos: Idea 1.4 8V Fire (Flex ) 2011 en adelante, Palio (Fire) 1.3 1.4 1.5 1.6 2001 en adelante, Strada (Fire) 1.3 1.4 1.5 1.6 2001 en adelante, Corsa 1.0 1.8 2003 en adelante 2004, Montana 1. 8 8V 2004 En adelante y Nuevo Corsa 2002 En adelante.',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_874614-MLA33012274548_112019-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST520',
 	},
 
 	{
 		'id': 'dc-electroventilador8',
 		'name': 'Electroventilador Fiat Duna - Uno - 147 - Regatta Diesel',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
 		'oem': '9130451106',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': '2,02',
-		'descripcion': 'lorem lorem',
+		'descripcion': 'Electroventilador Fiat Duna motor grande, original y nuevo, con 6 aspas cuyo diámetro es de 31cm y profundidad de 12cm.',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_914448-MLB42334231296_062020-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST531 / FCH-1250',
 	},
 	
 	{
 		'id': 'dc-electroventilador9',
 		'name': 'Electroventilador Fiat Palio III Fire 1.4 (09/18)Sin A/A',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -141,13 +149,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/G08N31p/51804906.jpg',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST537',
 	},
 
 	{
 		'id': 'dc-electroventilador10',
 		'name': 'Electroventilador Fiesta 1.3 (94/99) Max 1.4 TDI (02/11)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -157,13 +166,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_731514-MLA44046434446_112020-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST513 / FCH-2250',
 	},
 
 	{
 		'id': 'dc-electroventilador11',
 		'name': 'Electroventilador Citroen Berlingo 1.4- Xsara 1.8 16v-1.9d',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -173,13 +183,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://a.allegroimg.com/original/11f77e/9beb07154357a6dab9197f3af9b4/WENTYLATOR-CHLODNICY-OE-1253-63-1253-66-1253-87-Producent-czesci-goRabbit',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST523 / FCH-1750',
 	},
 
 	{
 		'id': 'dc-electroventilador12',
 		'name': 'Electroventilador Citroen Berlingo 1.4 1.8',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -189,15 +200,16 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://a.allegroimg.com/original/11a98d/c37677c144398d05e9cf7a6cabe5/WENTYLATOR-CHLODNICY-OE-1253-63-1253-66-1253-87',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST527 / FCH-1400',
 	},
 
 	{
 		'id': 'dc-electroventilador13',
 		'name': 'Electroventilador Duster 2.0 (11/18) Megane 1.6-1.9td- Clio II',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
+		'characters': 'lorem lorem lorem',
 
 		'oem': '1341307',
 		'marca': 'Renault',
@@ -205,13 +217,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_710482-MLA32718805092_102019-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST502',
 	},
 
 	{
 		'id': 'dc-electroventilador14',
 		'name': 'Electroventilador Clio II 1.2 (99/11) 1.6/1.9d (99/03)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -221,13 +234,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_644858-MLA40865443945_022020-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST512',
 	},
 
 	{
 		'id': 'dc-electroventilador15',
 		'name': 'Electroventilador Volkswagen Polo Classic 1.6 - 1.8 Nafta',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -237,13 +251,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://productimages.hepsiburada.net/s/22/550/9952062832690.jpg/format:webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST505 / FCH-1500',
 	},
 
 	{
 		'id': 'dc-electroventilador16',
 		'name': 'Electroventilador Volkswagen Fox - Suran - Gol Trend Con Aire',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -253,13 +268,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://eadn-wc05-10061504.nxedge.io/wp-content/uploads/E2-003G-1.png',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST536 / FCH-2750',
 	},
 
 	{
 		'id': 'dc-electroventilador17',
 		'name': 'Electroventilador Astra - Corsa/ Volkswagen Gol 3rd Gen.',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -269,13 +285,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://elektra.vtexassets.com/arquivos/ids/3189534-800-auto?v=637650882417370000&width=800&height=auto&aspect=true',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST501',
 	},
 
 	{
 		'id': 'dc-electroventilador18',
 		'name': 'Electroventilador Gol 3rd Generation - Pointer/Saveiro Sin Aire Acondicionado',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -285,13 +302,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_859938-MLA31536486263_072019-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST507 / FCH-1100/1850',
 	},
 
 	{
 		'id': 'dc-electroventilador19',
 		'name': 'Electroventilador Chevrolet Corsa Spirit - Classic 2012 Completo (Nuevo)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -301,13 +319,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_712501-MLA28974402210_122018-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-3140',
 	},
 
 	{
 		'id': 'dc-electroventilador20',
 		'name': 'Electroventilador Corsa Spirit - Classic 2012 >',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -317,13 +336,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_712501-MLA28974402210_122018-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-4650',
 	},
 
 	{
 		'id': 'dc-electroventilador21',
 		'name': 'Electroventilador Chevrolet Corsa II 09> / Agile / Montana',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -333,13 +353,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_751408-MLA31114208511_062019-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-4330',
 	},
 
 	{
 		'id': 'dc-electroventilador22',
 		'name': 'Electroventilador Chevrolet S10',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -349,13 +370,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_664865-MLA41925925046_052020-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-4260',
 	},
 
 	{
 		'id': 'dc-electroventilador23',
 		'name': 'Electroventilador Sonic/Spin 1.3/1.8 Prisma 1.4 Onix 1.4- Cobalt 1.3/1.8 Ficha C/ Resistencia',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -365,13 +387,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_812024-MLA41583002881_042020-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-4590',
 	},
 
 	{
 		'id': 'dc-electroventilador24',
 		'name': 'Electroventilador Chevrolet Meriva 1.8 2003/....',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -381,13 +404,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/vm60QJ3/93341072.jpg',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador25',
 		'name': 'Electroventilador Chevrolet Aveo 1.6 16v 2009/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -397,13 +421,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_641751-MLA45139131935_032021-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador26',
 		'name': 'Duna-Uno-147 M.Tipo Aspirante',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -413,13 +438,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_914448-MLB42334231296_062020-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-1110',
 	},
 
 	{
 		'id': 'dc-electroventilador27',
 		'name': 'Electroventilador Palio 1.6 Sin A/A 230 W 1996/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -429,13 +455,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/MsxcCXJ/46815901.jpg',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-1880',
 	},
 
 	{
 		'id': 'dc-electroventilador28',
 		'name': 'Electroventilador Fire S/AA Uno 1.3 MPI- Celta 1.4 11/18',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -445,13 +472,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://apoloautopecas.com.br/site/wp-content/uploads/00003692.jpg',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-2310',
 	},
 
 	{
 		'id': 'dc-electroventilador29',
 		'name': 'Electroventilador Mobi - Uno Novo 1.0/1.4 2010/-> - Palio 2011/-> Fiorino 16/18 Mot. Evo',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -461,13 +489,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/k6krN1Y/51905874.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-4390',
 	},
 
 	{
 		'id': 'dc-electroventilador30',
 		'name': 'Electroventilador Mobi - Uno Novo 1.0/1.4 2010/-> - Palio 2011/-> Fiorino 16/18 Mot. Evo',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -477,13 +506,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/jRMWW61/51905874-2.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-5240',
 	},
 
 	{
 		'id': 'dc-electroventilador31',
 		'name': 'Electroventilador Toro/Renegade 1.4 D /2.0 JTD (Lado Izq.) 2016/….',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -493,13 +523,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/gV3Wmrc/52127332.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador32',
 		'name': 'Electroventilador Toro/Renegade 1.4 D /2.0 JTD (Lado Der.) 2016/….',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -509,13 +540,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/gV3Wmrc/52127332.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-1587',
 	},
 
 	{
 		'id': 'dc-electroventilador33',
 		'name': 'Electroventilador Fiat Uno/Fiorino/Palio/Siena 1.3/1.6 1996/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -525,13 +557,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_796021-MLA54226432211_032023-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-4910',
 	},
 
 	{
 		'id': 'dc-electroventilador34',
 		'name': 'Electroventilador Palio-Uno Fire Naf.S/A.A.-Corsa 1.6 Naf. S/AA',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -541,13 +574,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://fcbyfauci.com/imgs/productos/1001015.jpg',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-2270',
 	},
 
 	{
 		'id': 'dc-electroventilador35',
 		'name': 'Electroventilador Fiat Qubo/Fiorino 1.4 2015/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -557,13 +591,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/4NpZmYL/51091021.png',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador36',
 		'name': 'Electroventilador Fiesta 1.6 99/02 C A/A- Ka 1.0/1.3/1.6',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -573,13 +608,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_731514-MLA44046434446_112020-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-2110',
 	},
 
 	{
 		'id': 'dc-electroventilador37',
 		'name': 'Electroventilador Focus II 1.6/1.8/2.0 2008-2014 Comp.',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -589,13 +625,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_829712-MLA52070013042_102022-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-4250',
 	},
 
 	{
 		'id': 'dc-electroventilador38',
 		'name': 'Electroventilador Ecosport Kinetic C/Encauzador 2010/..',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -605,13 +642,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/GFsk7Yq/8-V51-8-C607-AF.jpg',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-4920',
 	},
 
 	{
 		'id': 'dc-electroventilador39',
 		'name': 'Electroventilador Ford Ranger',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -621,13 +659,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/LJnnntY/AB39-8-C607.png',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-4510',
 	},
 
 	{
 		'id': 'dc-electroventilador40',
 		'name': 'Electroventilador Ford Ecosport Kinetik 1.6/2.0 > 13',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -637,13 +676,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/MP0Dmv7/8-V518-C607-CK.jpg',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-5820',
 	},
 
 	{
 		'id': 'dc-electroventilador41',
 		'name': 'Electroventilador Nissan March',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -653,13 +693,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://gauss.com.br/produtos/wp-content/uploads/sites/2/2023/03/ge1197.jpg',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-8250',
 	},
 
 	{
 		'id': 'dc-electroventilador42',
 		'name': 'Electroventilador Nissan Kicks 1.6 16v Flex C/Aa 2017/….',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -669,13 +710,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_992350-MLM49654713799_042022-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador43',
 		'name': 'Electroventilador P. 206 Con Aire Acondicionado',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -685,13 +727,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_683076-MCO52221307953_102022-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-1490',
 	},
 
 	{
 		'id': 'dc-electroventilador44',
 		'name': 'Electroventilador Peugeot 206 Sin Aire Acondicionado',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -701,13 +744,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/NhoAAOSw8hlius1E/s-l1600.jpg',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-1730',
 	},
 
 	{
 		'id': 'dc-electroventilador45',
 		'name': 'Electroventilador Peugeot Partner/Berlingo HDI 1.6 16v 2010/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -717,13 +761,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/e730d56669a6b225923c6f3363621cbc/2/6/2643d7eddfea427d3ba1bd4262b280dc.png',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador46',
 		'name': 'Electroventilador Peugeot 206/207 1.6 C/Sin AA',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -733,13 +778,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/k3yHm4G/9643386780.jpg',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-2120',
 	},
 
 	{
 		'id': 'dc-electroventilador47',
 		'name': 'Electroventilador P.206/207 1.6 16v Comp. 1999/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -749,13 +795,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/QCR5tsW/1253-C6.jpg',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-1610',
 	},
 
 	{
 		'id': 'dc-electroventilador48',
 		'name': 'Electroventilador P.308/408/Partner - Berlingo C/Encauzador',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -765,13 +812,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/kKjZmS3/1250-F8.jpg',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-4450',
 	},
 
 	{
 		'id': 'dc-electroventilador49',
 		'name': 'Electroventilador Peugeot P.207/ Partner/Berlingo 1.6 HDI 2010/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -781,13 +829,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/c3w9n9Z/9463254680.png',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador50',
 		'name': 'Electroventilador P.306/Partner 1.9 D 1995/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -797,13 +846,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/JWY3vjw/1250-F1.png',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador51',
 		'name': 'Electroventilador Renault 19 C A/C …98',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -813,13 +863,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/J398rTQ/7700784652.jpg',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-1160',
 	},
 
 	{
 		'id': 'dc-electroventilador52',
 		'name': 'Electroventilador Renault Master 1998> C/Encauzador L/N Completo',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -829,13 +880,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_996782-MLA54851342870_042023-F.webp',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-8301/1102',
 	},
 
 	{
 		'id': 'dc-electroventilador53',
 		'name': 'Electroventilador Renault Fluence 2.0',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -845,13 +897,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://images.tcdn.com.br/img/img_prod/807158/eletroventilador_renault_fluence_2009_a_2021_214816369r_214819402r_214810898r_21_8431_1_f49e27226ce289495a50747319d248bc.jpeg',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-4410',
 	},
 
 	{
 		'id': 'dc-electroventilador54',
 		'name': 'Electroventilador Kangoo 1.9 D 1999/2009',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -861,13 +914,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_713820-MLA47248526977_082021-F.webp',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador55',
 		'name': 'Renault Logan 1.6 Nafta 2014> - Sandero Nafta 1.6 Sin Encausador',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -877,13 +931,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://gauss.com.br/produtos/wp-content/uploads/sites/2/2020/12/ge1155.jpg',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador56',
 		'name': 'Renault Logan 1.6 Nafta 2014> - Sandero Nafta 1.6 Con Encausador',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -893,13 +948,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://gauss.com.br/produtos/wp-content/uploads/sites/2/2020/12/ge1155.jpg',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador57',
 		'name': 'Electroventilador Renault Logan 2/Duster/Sandero 1.4/1.6 16v 2014/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -909,13 +965,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://desguacemalvarrosa.es/627390-large_default/electroventilador_214818009r_214818009r_renault_clio_iv_0_9_tce.jpg',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador58',
 		'name': 'Electroventilador Toyota Etios 1.5 Comp. C/Deposito',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -925,13 +982,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://desguacemalvarrosa.es/627390-large_default/electroventilador_214818009r_214818009r_renault_clio_iv_0_9_tce.jpg',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador59',
 		'name': 'Electroventilador Vw Gacel/Senda/Gol (Modelo Viejo)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -941,13 +999,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_709872-MLB69614499623_052023-F.webp',
 		'categoria':'Electroventiladores',
+		'codigoCliente': 'FCH-1020',
 	},
 
 	{
 		'id': 'dc-electroventilador60',
-		'name': 'Electroventilador Astra-Gol III- Gol Power- Pointer C/Aa',
+		'name': 'Electroventilador Astra-Gol III- Gol Power- Pointer C/AA',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -957,13 +1016,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_859938-MLA31536486263_072019-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-1800',
 	},
 
 	{
 		'id': 'dc-electroventilador61',
 		'name': 'Electroventilador Volkswagen Fox/Suran (Diam 350 Mm)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -973,13 +1033,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://productimages.hepsiburada.net/s/22/550/9952062832690.jpg/format:webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-2410',
 	},
 
 	{
 		'id': 'dc-electroventilador62',
 		'name': 'Electroventilador Volkswagen Fox/Suran (Diam 350 Mm)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -989,13 +1050,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://productimages.hepsiburada.net/s/22/550/9952062832690.jpg/format:webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-2410',
 	},
 
 	{
 		'id': 'dc-electroventilador63',
 		'name': 'Electroventilador Volkswagen Fox - Suran - Gol Trend S/AA Comp.',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1005,13 +1067,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://eadn-wc05-10061504.nxedge.io/wp-content/uploads/E2-003G-1.png',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'SITEC-ST536 / FCH-2880',
 	},
 
 	{
 		'id': 'dc-electroventilador64',
 		'name': 'Electroventilador Vw Bora/Golf/Audi A3 Grande',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1021,13 +1084,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://eadn-wc05-10061504.nxedge.io/wp-content/uploads/E2-003G-1.png',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-2780',
 	},
 
 	{
 		'id': 'dc-electroventilador65',
 		'name': 'Electroventilador Golf IV - Bora (Principal)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1037,13 +1101,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://eadn-wc05-10061504.nxedge.io/wp-content/uploads/E2-003G-1.png',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-2780',
 	},
 
 	{
 		'id': 'dc-electroventilador66',
 		'name': 'Electroventilador Vw Bora/Golf/Audi A3 Chico',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1053,13 +1118,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_773404-MLA48537064528_122021-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-2790',
 	},
 
 	{
 		'id': 'dc-electroventilador67',
 		'name': 'Electroventilador Polo Classic 1.6/1.8 - 1.9 D (Der)',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1069,13 +1135,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_740866-MLM48272849717_112021-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-1530',
 	},
 
 	{
 		'id': 'dc-electroventilador68',
 		'name': 'Electroventilador Vw Gol Trend /Voyage/Saveiro S/AA',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1085,13 +1152,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_696181-MCO70589310453_072023-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-4200',
 	},
 
 	{
 		'id': 'dc-electroventilador69',
 		'name': 'Electroventilador Vw Up 1.0 Comp.',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1101,13 +1169,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_644962-MLA31593410820_072019-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador70',
 		'name': 'Electroventilador Vw Up 1.0 S/Encauzador',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1117,13 +1186,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_772915-MLA43408422151_092020-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-5320',
 	},
 
 	{
 		'id': 'dc-electroventilador71',
 		'name': 'Electroventilador Vw Fox-Suran',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1133,13 +1203,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_913648-MLM47417054706_092021-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-2360',
 	},
 
 	{
 		'id': 'dc-electroventilador72',
 		'name': 'Electroventilador Vw Passat 1.9 TDI/Vento 2.5 06/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1149,13 +1220,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_948216-MLA30781145105_052019-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-4230',
 	},
 
 	{
 		'id': 'dc-electroventilador73',
 		'name': 'Electroventilador Vw Amarok 2.0 TDI 600wc/Encauz. 2012/…',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1165,13 +1237,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/K5ZdXjP/2-H012120-N.png',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador74',
 		'name': 'Electroventilador C3 Aircross/P.208 1.4/1.4 HDI/1.6 16v 2013/….',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1181,13 +1254,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/y4hJnMv/5020616.png',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador75',
 		'name': 'Electroventilador Toro - Jeep Renegade 1.8 Nafta - Completo 51965900/51966714',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1197,13 +1271,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_954257-MLA49773074621_042022-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador76',
 		'name': 'Electroventilador Jeep Cherokee 4.0 Comp. 1997/2001',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1213,13 +1288,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/jfMAAOSwtDNfoC-5/s-l1600.jpg',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-5330',
 	},
 
 	{
 		'id': 'dc-electroventilador77',
 		'name': 'Electroventilador Corsa 1.4/1.6 Comp. 1994/2002',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1229,13 +1305,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_804734-MLA70501286379_072023-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-electroventilador78',
 		'name': 'Electroventilador Argo/Cronos 1.3/1.8 8v/16v C/Encauz. 2018/….',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -1245,6 +1322,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_937538-MLA53103815548_122022-F.webp',
 		'categoria': 'Electroventiladores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
@@ -1260,7 +1338,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/-W0AAOSwhkFgQQ5b/s-l1200.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1276,7 +1355,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/-W0AAOSwhkFgQQ5b/s-l1200.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1292,7 +1372,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_804186-MLA48956169407_012022-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1308,7 +1389,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_804186-MLA48956169407_012022-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1324,7 +1406,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_804186-MLA48956169407_012022-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1340,7 +1423,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_619507-MLA70657027445_072023-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1356,14 +1440,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_690472-MLA49010676077_022022-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-kitembrague8',
 		'name': 'Kit Citroen Xsara Picasso (N68) 1.6 99-',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1372,7 +1457,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.autociudad.com.ar/common/showimage.aspx?s=600&img=clu-0-wo-logo-0.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'FCH-PENDIENTE / WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1388,7 +1474,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_778896-MLA26967699497_032018-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1404,7 +1491,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_778896-MLA26967699497_032018-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1420,7 +1508,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_778896-MLA26967699497_032018-F.webp',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1436,7 +1525,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://aglobalcars.com/wp-content/uploads/2023/02/24.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1452,14 +1542,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://aglobalcars.com/wp-content/uploads/2023/02/24.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-kitembrague14',
 		'name': 'Kit Embrague Chevrolet Corsa 1.6 I 8 V 93..',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1468,14 +1559,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/vVWm9tN/227650.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-kitembrague15',
 		'name': 'Kit Embrague Chevrolet Onix 1.4',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1484,14 +1576,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/x3vJNpw/801171.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-kitembrague16',
 		'name': 'Kit Embrague Corsa Classic/Prisma/Fun/Agile/Spirit 1.4 8v',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1500,14 +1593,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/DWwCFXr/801039.png',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-kitembrague17',
 		'name': 'Kit Embrague Corsa/Celta/Agile 09/../Prisma/1.4',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1516,14 +1610,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/2W2M0ss/93257288.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-kitembrague18',
 		'name': 'Kit Embrague Corsa II/Astra/Meriva/Montana 1.8',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1532,14 +1627,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/r5vDGQq/93194076.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-kitembrague19',
 		'name': 'Kit Embrague Fiat Fiorino 1.6 Caja 513  94… 20 Estrías',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1548,14 +1644,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/1bwY4ny/650338.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-kitembrague20',
 		'name': 'Kit Embrague Palio/Weekend 1.3 16v 8v Fire/',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1564,14 +1661,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/wRJKBvB/46810287.jpg',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-kitembrague21',
 		'name': 'Kit Embrague Palio/Siena (Grand Siena) 1.4 Mot',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1580,14 +1678,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/Mc2SXrt/55228690.png',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-kitembrague22',
 		'name': 'Kit Embrague Focus/Ecosport/Fiesta Max 1.6 8v',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1596,7 +1695,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/Mc2SXrt/55228690.png',
-		'categoria':'Kit de Embrague'
+		'categoria':'Kit de Embrague',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
@@ -1612,7 +1712,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/e730d56669a6b225923c6f3363621cbc/e/6/e687441674ae6a3bb5c6808cae60e10b.jpg',
-		'categoria':'Disco de Freno'
+		'categoria':'Disco de Freno',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1628,7 +1729,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_644013-MLA32418427278_102019-F.webp',
-		'categoria':'Disco de Freno'
+		'categoria':'Disco de Freno',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1644,7 +1746,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/1/0/10aa85cd40ac0c73bae97204aee248b9.jpg',
-		'categoria':'Disco de Freno'
+		'categoria':'Disco de Freno',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1660,7 +1763,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_978235-MCO68869216878_042023-F.webp',
-		'categoria':'Disco de Freno'
+		'categoria':'Disco de Freno',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 	
 	{
@@ -1676,14 +1780,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_876352-MLA49913666951_052022-F.webp',
-		'categoria':'Bomba Combustible'
+		'categoria':'Bomba Combustible',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bombacombustible2',
 		'name': 'Bomba De Combustible 1.0 Bar 150 L/H - A.Romeo-Daewoo',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1693,13 +1798,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_867114-MLA69071766729_042023-F.webp',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-BCBO104',
 	},
 
 	{
 		'id': 'dc-bombacombustible3',
 		'name': 'Bomba De Combustible S10- Blazer /Mwm 2.8TD',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1709,13 +1815,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_808869-MLA51394253223_092022-F.webp',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bombacombustible4',
 		'name': 'Bomba De Combustible Cruze 1.8 16v Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1725,13 +1832,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_927557-MLV69536325064_052023-F.webp',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bombacombustible5',
 		'name': 'Bomba Combustible 3 Bar Fiat',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1741,13 +1849,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_813056-MLA44548958819_012021-F.webp',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bombacombustible6',
 		'name': 'Bomba Combustible 3 Bar Fiat',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1757,13 +1866,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_633312-MLA51394671290_092022-F.webp',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bombacombustible7',
 		'name': 'Bomba De Combustible Palio 1.4 8v 2004> Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1773,13 +1883,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/ZWB1Fmw/51749599.jpg',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bombacombustible8',
 		'name': 'Bomba De Combustible 207-307 1.6-2.0 16v. Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1789,13 +1900,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51qhVMh4oEL._AC_SL1200_.jpg',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-1620',
 	},
 
 	{
 		'id': 'dc-bombacombustible9',
 		'name': 'Bomba De Combustible 307 1.6 2.0 HDI Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1805,13 +1917,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.auto-diel.sk/fotky46257/fotos/POMPA-PALIWA-KPL-C-C4-C5-P-307-2-0HDI-1525-Q5.jpg',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-1621',
 	},
 
 	{
 		'id': 'dc-bombacombustible10',
 		'name': 'Bomba De Combustible Renault Logan-Sandero',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1821,13 +1934,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/mbp3j1Q/TTP456.webp',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bombacombustible11',
 		'name': 'Bomba De Combustible Clio II 1.1 - 1.2 Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1837,13 +1951,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_922584-MLA47351849200_092021-F.webp',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-1624',
 	},
 
 	{
 		'id': 'dc-bombacombustible12',
 		'name': 'Bomba De Combustible Logan/Sandero Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1853,13 +1968,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_720502-MLA31120183854_062019-F.webp',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-1630',
 	},
 
 	{
 		'id': 'dc-bombacombustible13',
 		'name': 'Bomba De Combustible Hilux 2.5 TD 2008> Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1869,13 +1985,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_636102-MLA49649146212_042022-F.webp',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bombacombustible14',
 		'name': 'Bomba De Combustible Hilux Sw4 TD 2006 Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1885,13 +2002,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/X23N51X/770200-K070.jpg',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bombacombustible15',
 		'name': 'Bomba De Combustible Vw Gol Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1901,13 +2019,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_970128-MLA70730519608_072023-F.webp',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bombacombustible16',
 		'name': 'Bomba De Combustible Polo 1.6/1.8 99/.. Comp.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1917,13 +2036,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_602237-MLA49353425439_032022-F.webp',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-1633',
 	},
 
 	{
 		'id': 'dc-bombacombustible17',
 		'name': 'Bomba De Combustible 1.0 Bar 104 C/Kit Básico',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1933,13 +2053,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_602237-MLA49353425439_032022-F.webp',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-BCBO483',
 	},
 
 	{
 		'id': 'dc-bombacombustible18',
 		'name': 'Bomba De Combustible 3.0 Bar C/ Kit Básico',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -1949,6 +2070,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/cY1fXFp/0580453477.webp',
 		'categoria':'Bomba Combustible',
+		'codigoCliente': 'FCH-BCBO477',
 	},
 
 	{
@@ -1964,7 +2086,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/71w0JgDntSL._AC_SL1500_.jpg',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1980,7 +2103,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/c/b/cbf0a102d3eb727257e6f60d840b576d.jpg',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -1996,7 +2120,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/c/6/c6fcb26b77e6b6c65acc17f62b306b36.png',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2012,7 +2137,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.italianadesuspensiones.com/cdn/shop/products/IMG_0144_32a6a033-277d-4284-a923-ec6c3bb3c93a_480x480.JPG?v=1573777391',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2028,7 +2154,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.italianadesuspensiones.com/cdn/shop/products/IMG_0144_32a6a033-277d-4284-a923-ec6c3bb3c93a_480x480.JPG?v=1573777391',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2044,7 +2171,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.italianadesuspensiones.com/cdn/shop/products/IMG_0144_32a6a033-277d-4284-a923-ec6c3bb3c93a_480x480.JPG?v=1573777391',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2060,7 +2188,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.distrecol.com/wp-content/uploads/2017/04/2-13-1808-768x768.jpg',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2076,7 +2205,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.distrecol.com/wp-content/uploads/2017/04/2-13-180620v1-768x768.jpg',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2092,7 +2222,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_690945-MLA31112260661_062019-F.webp',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2108,7 +2239,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/f/e/fe6a0c94ceb16600cb327f71b5e6de68.jpg',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2124,7 +2256,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/0/c/0c7a9a82f33bad584c94d96b789df42b.jpg',
-		'categoria':'Base Amortiguador'
+		'categoria':'Base Amortiguador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2141,6 +2274,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_891776-MLA31351644623_072019-F.webp',
 		'categoria':'Base Amortiguador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2157,6 +2291,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_701460-MLA45308235093_032021-F.webp',
 		'categoria':'Base Amortiguador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2172,7 +2307,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51U5SgnUybL._AC_SL1000_.jpg',
-		'categoria':'Bomba Agua'
+		'categoria':'Bomba Agua',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2188,7 +2324,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/71z0X-w+Q0L._AC_SL1416_.jpg',
-		'categoria':'Bomba Agua'
+		'categoria':'Bomba Agua',
+		'codigoCliente': 'WILLHELM-WH0001',
 	},
 
 	{
@@ -2204,7 +2341,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/kaIAAOSwMiRjybJ6/s-l1600.jpg',
-		'categoria':'Bomba Agua'
+		'categoria':'Bomba Agua',
+		'codigoCliente': 'WILLHELM-WH0002',
 	},
 
 	{
@@ -2220,7 +2358,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/kaIAAOSwMiRjybJ6/s-l1600.jpg',
-		'categoria':'Bomba Agua'
+		'categoria':'Bomba Agua',
+		'codigoCliente': 'WILLHELM-WH0003',
 	},
 
 	{
@@ -2236,7 +2375,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_826915-MLA52468696596_112022-F.webp',
-		'categoria':'Bomba Agua'
+		'categoria':'Bomba Agua',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2252,6 +2392,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_826915-MLA52468696596_112022-F.webp',
+		'categoria':'Bomba Agua',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2267,7 +2409,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://autocity-image-repository.s3.us-east-2.amazonaws.com/products/08-2C4181%2000_400x400.jpg',
-		'categoria':'Aro Pistón'
+		'categoria':'Aro Pistón',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2283,7 +2426,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_954500-MLA53640944222_022023-F.webp',
-		'categoria':'Bomba Gasolina'
+		'categoria':'Bomba Gasolina',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2299,7 +2443,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_838280-MLA53255249970_012023-F.webp',
-		'categoria':'Bomba Gasolina'
+		'categoria':'Bomba Gasolina',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2315,7 +2460,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://img.xentra.com.mx/autopartescimaco/img/productos/BUJE%20HORQUILLA%20TRASERA%202/K-8658/K-8658_842_12_12_22_02_11.webp',
-		'categoria':'Buje Horquilla'
+		'categoria':'Buje Horquilla',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2331,7 +2477,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_854017-MLA47603524201_092021-F.webp',
-		'categoria':'Buje Horquilla'
+		'categoria':'Buje Horquilla',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2347,7 +2494,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_854017-MLA47603524201_092021-F.webp',
-		'categoria':'Buje Horquilla'
+		'categoria':'Buje Horquilla',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2363,7 +2511,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_624747-MLA53333268678_012023-F.webp',
-		'categoria':'Bujía de Precalentamiento'
+		'categoria':'Bujía de Precalentamiento',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2379,7 +2528,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_965135-MLA44793086142_022021-F.webp',
-		'categoria':'Cable Sensor'
+		'categoria':'Cable Sensor',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2395,7 +2545,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance.es/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/0/b/0bf619419f08acc8f95fdc7beed6b54a.jpg',
-		'categoria':'Collarín Hidráulico'
+		'categoria':'Collarín Hidráulico',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2411,7 +2562,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51EUaOHPt-L._AC_SL1000_.jpg',
-		'categoria':'Conmutador Luces'
+		'categoria':'Conmutador Luces',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2427,7 +2579,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51f-T1NttnL._AC_SL1000_.jpg',
-		'categoria':'Filtros'
+		'categoria':'Filtros',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2443,7 +2596,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51f-T1NttnL._AC_SL1000_.jpg',
-		'categoria':'Filtros'
+		'categoria':'Filtros',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2459,7 +2613,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance24.com/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/d/3/d3573b48180f85581b89277d4ccb9ea0.jpg',
-		'categoria':'Filtros'
+		'categoria':'Filtros',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2475,7 +2630,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance24.com/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/d/3/d3573b48180f85581b89277d4ccb9ea0.jpg',
-		'categoria':'Filtros'
+		'categoria':'Filtros',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2491,7 +2647,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance24.com/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/d/3/d3573b48180f85581b89277d4ccb9ea0.jpg',
-		'categoria':'Filtros'
+		'categoria':'Filtros',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2507,7 +2664,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/m0cAAOSwMBdbzWvA/s-l500.jpg',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2523,7 +2681,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_691523-MLA43219146857_082020-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2539,7 +2698,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2555,7 +2715,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2571,7 +2732,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2587,14 +2749,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://ecooparts.com//src/img/despiece/v4nd15/14322212/000002415541.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-parrillasuspension7',
 		'name': 'Parrilla Susp. Del. Inf. Izq. Peugeot 206 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2603,14 +2766,15 @@ export const items = [
 		'pesoNetoUnitario': '4,30',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/31kr5dH-ABL._AC_.jpg',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST709 / WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-parrillasuspension8',
 		'name': 'Parrilla Susp. Del. Inf. Der. Peugeot 206 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2619,7 +2783,8 @@ export const items = [
 		'pesoNetoUnitario': '4,30',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST710 / WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2635,7 +2800,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2651,7 +2817,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2667,7 +2834,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2683,7 +2851,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_16345-MLA20119003636_062014-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -2699,14 +2868,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_16345-MLA20119003636_062014-F.webp',
-		'categoria':'Parrilla Suspensión'
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-parrillasuspension14',
 		'name': 'Parrilla Susp. Del. Inf. Der. Chevrolet Cruze 2016/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2716,13 +2886,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_739459-MLA41359737550_042020-F.webp',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST817',
 	},
 
 	{
 		'id': 'dc-parrillasuspension15',
 		'name': 'Parrilla Susp. Del. Inf. Izq. Chevrolet Cruze 2016/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2732,13 +2903,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_775539-MLA41359740345_042020-F.webp',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST818',
 	},
 
 	{
 		'id': 'dc-parrillasuspension16',
 		'name': 'Parrilla Suspensión Chevrolet Aveo (05/11) / Daewoo Kalos Derecha C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2748,13 +2920,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_786143-MLA43988517527_112020-F.webp',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST616',
 	},
 
 	{
 		'id': 'dc-parrillasuspension17',
 		'name': 'Parrilla Suspensión Chevrolet Aveo (05/11) / Daewoo Kalos Izquierda C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2764,13 +2937,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_815111-MLA43988472329_112020-F.webp',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST615',
 	},
 
 	{
 		'id': 'dc-parrillasuspension18',
 		'name': 'Brazo Susp. Inf. Chevrolet Matiz/Spark/Daewoo 2005/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2780,13 +2954,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/KQkAAOSw8qBeYlry/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST880',
 	},
 
 	{
 		'id': 'dc-parrillasuspension19',
 		'name': 'Brazo Rotula Fiat Duna - Uno - Fiorino - Weekend - Fiorino 10mm L=290mm 88',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2796,13 +2971,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_900224-MLV50983376217_082022-F.webp',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST646',
 	},
 
 	{
 		'id': 'dc-parrillasuspension20',
 		'name': 'Parrilla Suspensión Palio - Siena - Strada - Uno Way Fire - Mobi Der. (Sin Rotula) 2001/..',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2812,13 +2988,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/bQ4AAOSw48tfQ5aE/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST649',
 	},
 
 	{
 		'id': 'dc-parrillasuspension21',
 		'name': 'Parrilla Suspensión Palio - Siena - Strada - Uno Way Fire - Mobi Izq. (Sin  Rotula) 2001/..',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2828,13 +3005,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_702284-MLA40595413168_012020-F.webp',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST650',
 	},
 
 	{
 		'id': 'dc-parrillasuspension22',
 		'name': 'Parrilla Suspensión Ranger 4x2 - 4x4 - Explorer 98/.. Superior Der. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2844,13 +3022,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/VIQAAOSwCjFkOyQt/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST670',
 	},
 
 	{
 		'id': 'dc-parrillasuspension23',
 		'name': 'Parrilla Suspensión Ranger 4x2 - 4x4 - Explorer 98/.. Superior Izq. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2860,13 +3039,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/jIEAAOSwjt1i9mM7/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST671',
 	},
 
 	{
 		'id': 'dc-parrillasuspension24',
 		'name': 'Parrilla Suspensión Del. Inf. Derecho (17/..) C/ Rotula Ford',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2876,13 +3056,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/QR8AAOSwRzFjMmfP/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST825',
 	},
 
 	{
 		'id': 'dc-parrillasuspension25',
 		'name': 'Parrilla Suspensión Del. Inf. Izq.  (17/..) C/ Rotula Ford',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2892,13 +3073,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/LZ73sZp/bjc08127m.jpg',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST826',
 	},
 
 	{
 		'id': 'dc-parrillasuspension26',
 		'name': 'Brazo Rotula Der. P.205/Citroen C 15 L= 310mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2908,13 +3090,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/Gv8G59H/91516337.webp',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST637',
 	},
 
 	{
 		'id': 'dc-parrillasuspension27',
 		'name': 'Brazo Rotula Izq. P.205 / Citroen C 15 L= 310mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2924,13 +3107,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/7YrgXVV/91516336.webp',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST638',
 	},
 
 	{
 		'id': 'dc-parrillasuspension28',
 		'name': 'Parrilla Suspensión Citroen Xsara - Picasso - Berlingo HDI / Peugeot Partner Derecha (Con Rotula 18 Mm) Buje Pico Pato',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2940,13 +3124,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/IvoAAOSwVbdk38XE/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST632',
 	},
 
 	{
 		'id': 'dc-parrillasuspension29',
 		'name': 'Parrilla Suspensión Citroen Xsara - Picasso - Berlingo HDI / Peugeot Partner Izquierda (Con Rotula 18 Mm) Buje Pico Pato',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2956,13 +3141,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/YNcAAOSwRLVjMlhF/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST631',
 	},
 
 	{
 		'id': 'dc-parrillasuspension30',
 		'name': 'Parrilla Suspensión Renault Kwid Delantera Der. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2972,13 +3158,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://static.rrparts.com.br/imagens_produtos/270/8bdb5ca0-b20b-49e1-8827-84167942a6de.jpg',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST823',
 	},
 
 	{
 		'id': 'dc-parrillasuspension31',
 		'name': 'Parrilla Suspensión Renault Kwid Delantera Izq. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -2988,13 +3175,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_986864-MLA29339950764_022019-F.webp',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST824',
 	},
 
 	{
 		'id': 'dc-parrillasuspension32',
 		'name': 'Parrilla Suspensión Renault Logan - Sandero .../2015 Delantera Inferior Derecha C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3004,13 +3192,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_847502-MLA70828804231_082023-F.webp',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST716',
 	},
 
 	{
 		'id': 'dc-parrillasuspension33',
 		'name': 'Parrilla Suspensión Renault Logan - Sandero …./2015 Delantera Inferior Izquierda C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3020,13 +3209,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/hHpxKNr/6001547520.jpg',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST715',
 	},
 
 	{
 		'id': 'dc-parrillasuspension34',
 		'name': 'Parrilla Suspensión Toyota Etios Delantera Der. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3036,13 +3226,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://spanish.carcontrolarm.com/photo/ps34078599-control_arm_on_toyota_yaris_48068_09230_48068_09240_48068_0d080_48068_0d081.jpg',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST821',
 	},
 
 	{
 		'id': 'dc-parrillasuspension35',
 		'name': 'Parrilla Suspensión Toyota Etios Delantera Izq. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3052,13 +3243,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://spanish.carcontrolarm.com/photo/ps34078621-control_arm_in_toyota_yaris_48069_09230_48069_09240_48069_0d080_48069_0d081.jpg',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST822',
 	},
 
 	{
 		'id': 'dc-parrillasuspension36',
 		'name': 'Parrilla Suspensión Volkswagen Fox - Cross Fox - Suran (04/..) / Seat Ibiza Derecha/Izquierda S/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3068,13 +3260,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/s1V94vh/6-Q0407151-E.jpg',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST748',
 	},
 
 	{
 		'id': 'dc-parrillasuspension37',
 		'name': 'Parrilla Suspensión Volkswagen Gol Agujero 12mm Der/Izq S/Rotula 93/2000',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3084,6 +3277,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_974778-MLA28607543926_112018-F.webp',
 		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'SITEC-ST742',
 	},
 
 	{
@@ -3099,7 +3293,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51Gggbv5wNL._AC_SL1002_.jpg',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -3115,14 +3310,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_950669-MLA32630921270_102019-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores3',
 		'name': 'Inyector Chevrolet Corsa 1.6 Mpfi',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3131,14 +3327,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_659802-MLA43939691953_102020-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores4',
 		'name': 'Inyector Fiat Palio Siena 1.6',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3147,14 +3344,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_729504-MLA31085539511_062019-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores5',
 		'name': 'Inyector Fiat Fire 1.3 Mpi',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3163,14 +3361,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.bragapecas.com.br/image/cache/data/eftr/Img_ftr_rp_544501-1160x1172.JPG?version=20230714204736',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores6',
 		'name': 'Inyector Fiat Palio-Siena 1.4',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3179,14 +3378,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_964782-MLA47781238241_102021-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores7',
 		'name': 'Inyector Fiat Palio - Siena 1.8',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3195,14 +3395,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_662672-MLA45923932278_052021-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores8',
 		'name': 'Inyector Fiat Palio Siena 1.3 Fire',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3211,14 +3412,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_827809-MLA43879967835_102020-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores9',
 		'name': 'Inyector Fiat Palio-Siena',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3227,14 +3429,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/nsEAAOSwRcRkNnzn/s-l1600.jpg',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores10',
 		'name': 'Inyector Fiat Palio/Siena 1.3/1.6',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3243,14 +3446,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_797710-MLA50110648316_052022-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores11',
 		'name': 'Inyector Ford Fiesta Ka Rocam 1.3 -1.0',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3259,14 +3463,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_743150-MLA49537384475_032022-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores12',
 		'name': 'Inyector Ford Fiesta 1.6',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3275,14 +3480,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_633383-MLA31018266198_062019-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores13',
 		'name': 'Inyector Peugeot 1.4-1.6 8v',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3291,14 +3497,15 @@ export const items = [
 		'pesoNetoUnitario': '0,05',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_817655-MLA50159554651_062022-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores14',
 		'name': 'Inyector Peugeot 1.6',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3307,14 +3514,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_681116-MLA47351928013_092021-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores15',
 		'name': 'Inyector Peugeot 208 1.5',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3323,14 +3531,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_764440-MLA53244088930_012023-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores16',
 		'name': 'Inyector Renault Clio 2.0',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3339,14 +3548,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_895869-MLA45258752201_032021-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores17',
 		'name': 'Inyector Renault Clio 1.6',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3355,14 +3565,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_713458-MLA31114656719_062019-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores18',
 		'name': 'Inyector Renault Clio 1.2 16v Aro Rosa',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3371,14 +3582,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_835997-MLA52802562582_122022-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores19',
 		'name': 'Inyector Vw Gol',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3387,14 +3599,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_695041-MLA49377447315_032022-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores20',
 		'name': 'Inyector Vw Gol 1.6 / 1.8',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3403,14 +3616,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_708856-MLA69452151426_052023-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores21',
 		'name': 'Inyector Vw Gol 1000 - 1.6',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3419,14 +3633,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_811870-MLA31295870443_072019-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores22',
 		'name': 'Inyector Vw Polo Gol',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3435,14 +3650,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_943562-MLA40242637400_122019-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores23',
 		'name': 'Inyector Vw Fox - Suran',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3451,14 +3667,15 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_754784-MLA53232548464_012023-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inyectores24',
 		'name': 'Inyector Vw Fox Msi',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3467,7 +3684,8 @@ export const items = [
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_741138-MLA53087641093_122022-F.webp',
-		'categoria':'Inyectores'
+		'categoria':'Inyectores',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
@@ -3483,7 +3701,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/2O0AAOSwQdBkvqpB/s-l1600.jpg',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'WILLHELM-MWG2036',
 	},
 
 	{
@@ -3499,7 +3718,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://cdn.pkwteile.de/thumb?id=18278876&m=0&n=0&lng=es&ccf=94077841',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'WILLHELM-MWG2035',
 	},
 
 	{
@@ -3515,7 +3735,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_926330-MLA46634095897_072021-F.webp',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'WILLHELM-MWG2041',
 	},
 
 	{
@@ -3531,7 +3752,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_615504-MLA69763535496_062023-F.webp',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'WILLHELM-MWG2042',
 	},
 
 	{
@@ -3547,7 +3769,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_700842-MLA43970876403_112020-F.webp',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'WILLHELM-MWG2039',
 	},
 
 	{
@@ -3563,7 +3786,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_832189-MLA43971152423_112020-F.webp',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'WILLHELM-MWG2040',
 	},
 
 	{
@@ -3579,7 +3803,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/7WMAAOSwvopjfg0s/s-l1600.jpg',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -3595,7 +3820,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.desguacealarcon.com/img-productos/imagenes/p-mangueta-delantera-derecha-dacia-sandero-stepway-essential-12018-122020_511479_id_787985-2.jpg',
-		'categoria':'Mango Suspensión'
+		'categoria':'Mango Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -3611,14 +3837,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_640184-MLA48278092772_112021-F.webp',
-		'categoria':'Maza Rueda'
+		'categoria':'Maza Rueda',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 	
 	{
 		'id': 'dc-mazarueda2',
 		'name': 'Maza Rueda Trasera Armada Chevrolet Cobalt 1.8 - Onix 1.4',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3628,13 +3855,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/RBDhHpq/13500590.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST1000',
 	},
 
 	{
 		'id': 'dc-mazarueda3',
 		'name': 'Ruleman Rueda Chevrolet Aveo /Kalos/Spark/Vectra 1.0/1.2',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3644,13 +3872,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/V2VNNzL/94536117.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST309726',
 	},
 
 	{
 		'id': 'dc-mazarueda4',
 		'name': 'Ruleman Rueda Chevrolet Corsa Wind GL 94/.. Delantera',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3660,13 +3889,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/HXFjPN3/1603195.webp',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST636114',
 	},
 
 	{
 		'id': 'dc-mazarueda5',
 		'name': 'Ruleman Rueda Fiat Duna - Uno /Fiorino/Regattta',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3676,13 +3906,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://az768999.vo.msecnd.net/images/products/475/opt800304_636918960091451357/opt800304_large_0.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST300123',
 	},
 
 	{
 		'id': 'dc-mazarueda6',
 		'name': 'Ruleman Rueda Fiat Palio/Siena/Idea/ Uno C/Abs (Chico)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3692,13 +3923,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/rLIAAOSweYZhwkxZ/s-l1600.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-STXG12132',
 	},
 
 	{
 		'id': 'dc-mazarueda7',
 		'name': 'Maza Rueda Trasero Armada Fiat Duna/Uno/147 C/Ruleman',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3708,13 +3940,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://ricambi.alfisti.net/images/product_images/popup_images/8290_0.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST1189',
 	},
 
 	{
 		'id': 'dc-mazarueda8',
 		'name': 'Maza De Rueda Tras. Fiat Toro/Renegade 4x2 C/Abs 2018/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3724,13 +3957,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_647655-MLA51818996736_102022-F.webp',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST6656',
 	},
 
 	{
 		'id': 'dc-mazarueda9',
 		'name': 'Maza De Rueda Del. Fiat Toro/Renegade 4x2 C/Abs 2018/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3740,13 +3974,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/415PfAGrkBL._AC_.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST6655',
 	},
 
 	{
 		'id': 'dc-mazarueda10',
 		'name': 'Ruleman Semieje Palier Ford Ecosport - Mondeo 1.8-2.0',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3756,13 +3991,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://cdn.spareto.com/variants/images/000/338/807/large/19945_1.jpg?1606236368',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST122901',
 	},
 
 	{
 		'id': 'dc-mazarueda11',
 		'name': 'Ruleman Rueda Ford Focus Trasera - Ecosport 4x2',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3772,13 +4008,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://cdn.spareto.com/variants/images/000/338/807/large/19945_1.jpg?1606236368',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST801023',
 	},
 
 	{
 		'id': 'dc-mazarueda12',
 		'name': 'Maza De Rueda Del. Comp. Ford Ranger 4x4 S/Abs 1997/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3788,13 +4025,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/61zvNVYUO7L._AC_SL1000_.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST930341',
 	},
 
 	{
 		'id': 'dc-mazarueda13',
 		'name': 'Maza De Rueda Del. Comp. Ford Ranger 4x4 C/Abs 1997/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3804,13 +4042,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://vehicleaftermarket.skf.com/images/products/m/BR930342_1.JPG',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-MT7016',
 	},
 
 	{
 		'id': 'dc-mazarueda14',
 		'name': 'Maza De Rueda Tras. Comp. Honda Fit C/Abs 2003/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3820,13 +4059,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://rukminim2.flixcart.com/image/832/832/kg40k280/car-wheel-bearing/z/v/k/28bwk19-smr-original-imafwem849yphpaz.jpeg?q=70',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-STWK19',
 	},
 
 	{
 		'id': 'dc-mazarueda15',
 		'name': 'Maza De Rueda Tras. Comp. Honda Fit/City C/Abs 2009/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3836,13 +4076,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/f4k33BS/HUB227-39.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-STHUB227',
 	},
 
 	{
 		'id': 'dc-mazarueda16',
 		'name': 'Maza De Rueda Del. Comp. Nissan Frontier C/Abs 2010/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3852,13 +4093,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/71MvtiPySLL._AC_SL1500_.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST515065',
 	},
 
 	{
 		'id': 'dc-mazarueda17',
 		'name': 'Kit Rodillo Peugeot 405 - Partner /Citroen Berlingo',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3868,13 +4110,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/PZAAAOSwFE1kv8hL/s-l1600.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST68933-34',
 	},
 
 	{
 		'id': 'dc-mazarueda18',
 		'name': 'Maza De Rueda Tras. Comp. P,205/405 S/Abs 1994/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3884,13 +4127,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_851982-MLA49718825056_042022-F.webp',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST12894',
 	},
 
 	{
 		'id': 'dc-mazarueda19',
 		'name': 'Ruleman Rueda Renault 12 -18- Delantero 72mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3900,13 +4144,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/t3Xkgbt/7701460639.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST6207NV',
 	},
 
 	{
 		'id': 'dc-mazarueda20',
 		'name': 'Ruleman Rueda Renault 9 - 11 - 19 - Express - Clio II Trasero',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3916,13 +4161,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/41xZ3Z4N20L._AC_.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-STFC12025',
 	},
 
 	{
 		'id': 'dc-mazarueda21',
 		'name': 'Ruleman Rueda Renault 9 - 11 - 19 (H/94) Delantero',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3932,13 +4178,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://cdn.spareto.com/variants/images/000/253/417/large/05526_1.jpg?1606226557',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-STFC12033',
 	},
 
 	{
 		'id': 'dc-mazarueda22',
 		'name': 'Ruleman Rueda Renault Trafic 1.4-1.6-1.7-2.0-2.1 D 84mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3948,13 +4195,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_651850-MLA31922101999_082019-F.webp',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-STGB10702',
 	},
 
 	{
 		'id': 'dc-mazarueda23',
 		'name': 'Ruleman Maza De Rueda Renault 18 - 21 - Fuego Delantero',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3964,13 +4212,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/m4wAAOSwWUVhJSUq/s-l1600.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-STTGB10872',
 	},
 
 	{
 		'id': 'dc-mazarueda24',
 		'name': 'Maza De Rueda Tras.Comp. Clio II/Kangoo S/Abs 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3980,13 +4229,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_876146-MLA49155333285_022022-F.webp',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST3030',
 	},
 
 	{
 		'id': 'dc-mazarueda25',
 		'name': 'Maza De Rueda Tras. Comp. Clio/Kangoo C/Abs 2014/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3996,13 +4246,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_877748-MLA45058201177_032021-F.webp',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST12095',
 	},
 
 	{
 		'id': 'dc-mazarueda26',
 		'name': 'Maza Rueda Delantera Toyota Etios 1.5 (13/..)C/Abs 4 Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4012,13 +4263,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_848471-MLA45852462716_052021-F.webp',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST43560',
 	},
 
 	{
 		'id': 'dc-mazarueda27',
 		'name': 'Maza Rueda Delantera Toyota Etios 1.5 (13/..) C/Abs 4 Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4028,13 +4280,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_728055-MLA51587157696_092022-F.webp',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST1003',
 	},
 
 	{
 		'id': 'dc-mazarueda28',
 		'name': 'Maza Rueda Trasera Armanda Volkswagen Gol 1.6 (08/..)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4044,13 +4297,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/kHWM5d4/5-U0501611.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST1005',
 	},
 
 	{
 		'id': 'dc-mazarueda29',
 		'name': 'Ruleman Rueda Volkswagen Gol - Gol Trend - Gacel',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4060,13 +4314,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/wyVLRgB/SKF-BAH-0036.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST311396',
 	},
 
 	{
 		'id': 'dc-mazarueda30',
 		'name': 'Ruleman Rueda Volkswagen Polo - Golf -Caddy-Vento',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4076,13 +4331,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/3kVqtWf/357498625-B.jpg',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST311443',
 	},
 
 	{
 		'id': 'dc-mazarueda31',
 		'name': 'Maza De Rueda Tras. Vw Fox/Suran C/Abs 2003/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4092,13 +4348,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_747294-MLA53703061318_022023-F.webp',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST0223',
 	},
 
 	{
 		'id': 'dc-mazarueda32',
 		'name': 'Maza De Rueda Tras. Bora/Golf Iv/Saveiro C/Abs 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4108,13 +4365,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_690916-MLA25989506595_092017-F.webp',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST800179',
 	},
 
 	{
 		'id': 'dc-mazarueda33',
 		'name': 'Maza De Rueda Tras. Vw Spacefox/Suran/Fox 2003/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4124,6 +4382,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_656314-MLA42804039221_072020-F.webp',
 		'categoria':'Maza Rueda',
+		'codigoCliente': 'SITEC-ST6036',
 	},
 
 	{
@@ -4139,7 +4398,8 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_955453-MLM31086819106_062019-F.webp',
-		'categoria':'Moldura Arco de Rueda'
+		'categoria':'Moldura Arco de Rueda',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4155,14 +4415,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/-S4AAOSwGTpiqIPq/s-l640.jpg',
-		'categoria':'Motoventilador'
+		'categoria':'Motoventilador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-motoventilador2',
 		'name': 'Motoventilador P.206/P.207 1.6 16v 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4171,7 +4432,8 @@ export const items = [
 		'pesoNetoUnitario': '2,67',
 		'descripcion': 'lorem lorem',
 		'url': 'https://gauss.com.br/produtos/wp-content/uploads/sites/2/2020/11/ge1018-2048x2048.jpg.webp',
-		'categoria':'Motoventilador'
+		'categoria':'Motoventilador',
+		'codigoCliente': 'FCH-2340 / SITEC-ST525 / WILLHELM-MW002',
 	},
 
 	{
@@ -4187,14 +4449,15 @@ export const items = [
 		'pesoNetoUnitario': '2,70',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_606290-MLA31098584032_062019-F.webp',
-		'categoria':'Motoventilador'
+		'categoria':'Motoventilador',
+		'codigoCliente': 'WILLHELM-MW003',
 	},
 	
 	{
 		'id': 'dc-motoventilador4',
 		'name': 'Motoventilador P.307 1.6/2.0 16v 2000/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4203,7 +4466,8 @@ export const items = [
 		'pesoNetoUnitario': '3,08',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/Ssm70nW/1253-K2.jpg',
-		'categoria':'Motoventilador'
+		'categoria':'Motoventilador',
+		'codigoCliente': 'FCH-1810 / SITEC-ST524 / WILLHELM-MW001',
 	},
 
 	{
@@ -4219,14 +4483,15 @@ export const items = [
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_947419-MLC51203450296_082022-F.webp',
-		'categoria':'Motoventilador'
+		'categoria':'Motoventilador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-motoventilador6',
 		'name': 'Motoventilador Kwid 1.0 12v 2017/...',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4235,7 +4500,8 @@ export const items = [
 		'pesoNetoUnitario': '1,80',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_625746-MLA53456476886_012023-F.webp',
-		'categoria':'Motoventilador'
+		'categoria':'Motoventilador',
+		'codigoCliente': 'FCH-1287 / WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4252,6 +4518,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_875486-MLA53147144029_012023-F.webp',
 		'categoria':'Motor de Arranque',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4268,6 +4535,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/vWoAAOSw7pFiZwX9/s-l1600.jpg',
 		'categoria':'Parachoques',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4284,6 +4552,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_633653-MLA48359933547_112021-F.webp',
 		'categoria':'Poleas',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4300,6 +4569,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/61hg1wFKeGL._AC_SL1500_.jpg',
 		'categoria':'Poleas',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4316,6 +4586,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_757183-MLA69803135513_062023-F.webp',
 		'categoria':'Poleas',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4332,6 +4603,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_757183-MLA69803135513_062023-F.webp',
 		'categoria':'Poleas',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4348,6 +4620,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://eurofrance24.com/media/catalog/product/cache/e730d56669a6b225923c6f3363621cbc/9/b/9b677d12a508869ee24d4791ca634da8.jpg',
 		'categoria':'Poleas',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4364,13 +4637,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_869940-MLA69264230109_052023-F.webp',
 		'categoria':'Poleas',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-poleas7',
 		'name': 'Polea Viscosa Chevrolet S10 - Blazer 2.8 Motor M.W.M (01/04)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4380,13 +4654,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/99btNxs/103-200-0322.jpg',
 		'categoria':'Poleas',
+		'codigoCliente': 'SITEC-ST405',
 	},
 
 	{
 		'id': 'dc-poleas8',
 		'name': 'Polea Viscosa Chevrolet S10/Trailblazer 2014/….',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4396,13 +4671,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_618534-MLA45658899556_042021-F.webp',
 		'categoria':'Poleas',
+		'codigoCliente': 'SITEC-ST410',
 	},
 
 	{
 		'id': 'dc-poleas9',
 		'name': 'Polea Viscosa Ford Ranger/ Aerostar 3.0lts V6',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4412,13 +4688,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/BgNvZs9/6-L55-8-A616-AA.jpg',
 		'categoria':'Poleas',
+		'codigoCliente': 'FCH-PENDIENTE / SITEC-ST404',
 	},
 
 	{
 		'id': 'dc-poleas10',
 		'name': 'Polea Viscosa Maxion 2.5/2.8 (4 Agujeros) 1997/2007',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4428,13 +4705,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/BgNvZs9/6-L55-8-A616-AA.jpg',
 		'categoria':'Poleas',
+		'codigoCliente': 'FCH-PENDIENTE / SITEC-ST403',
 	},
 
 	{
 		'id': 'dc-poleas11',
 		'name': 'Polea Viscosa Mercedes Sprinter/S10/Blazer 2.8/3.0 Mwm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4444,13 +4722,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_872717-MLA45169527272_032021-F.webp',
 		'categoria':'Poleas',
+		'codigoCliente': 'SITEC-ST402',
 	},
 
 	{
 		'id': 'dc-poleas12',
 		'name': 'Polea Viscosa Mitsubishi L200 4x4 2,4 96/L-300 (Oem 1320a009)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4460,13 +4739,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_737041-MLA27138760844_042018-F.webp',
 		'categoria':'Poleas',
+		'codigoCliente': 'FCH-PENDIENTE / SITEC-ST406',
 	},
 
 	{
 		'id': 'dc-poleas13',
 		'name': 'Polea Viscosa Suzuki Grand Vitara Nafta/Dsl Motor L4 1800',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4476,13 +4756,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/p46yL7r/17120-77-E00.jpg',
 		'categoria':'Poleas',
+		'codigoCliente': 'SITEC-ST409',
 	},
 
 	{
 		'id': 'dc-poleas14',
 		'name': 'Polea Viscosa Toyota Hilux 3,0 2,5 Motor 1kz / 2kz / 1kd (05/..)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4492,13 +4773,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/jvHDDp1/16210-67030.jpg',
 		'categoria':'Poleas',
+		'codigoCliente': 'FCH-PENDIENTE / SITEC-ST400',
 	},
 
 	{
 		'id': 'dc-poleas15',
 		'name': 'Polea Viscosa Toyota Hilux 2.4 -2.8 Lts Sr5 Diesel 95',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4508,6 +4790,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_934625-MLA25468665659_032017-F.webp',
 		'categoria':'Poleas',
+		'codigoCliente': 'FCH-PENDIENTE / SITEC-ST401',
 	},
 
 	{
@@ -4524,6 +4807,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_710711-MLA50090362097_052022-F.webp',
 		'categoria':'Radiador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4540,6 +4824,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_671276-MLA31012500023_062019-F.webp',
 		'categoria':'Radiador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4556,6 +4841,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_968071-MLA46441660349_062021-F.webp',
 		'categoria':'Radiador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4572,6 +4858,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/kGAAAOSweatejLWF/s-l500.png',
 		'categoria':'Radiador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4588,6 +4875,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_699924-MLA44280954621_122020-F.webp',
 		'categoria':'Radiador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 	
 	{
@@ -4604,6 +4892,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_996199-MLA49934208923_052022-F.webp',
 		'categoria':'Radiador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4620,6 +4909,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_992576-MLA52389135070_112022-F.webp',
 		'categoria':'Radiador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4636,6 +4926,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_956314-MLA42521337045_072020-F.webp',
 		'categoria':'Radiador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4652,6 +4943,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/-j8AAOSwC-5eMaHt/s-l500.jpg',
 		'categoria':'Resortes',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4668,6 +4960,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://media.partauto.fr/p/6/4/1/3/7/3/8/6413738-thickbox_default.jpg',
 		'categoria':'Regulador Árbol de Levas',
+		'codigoCliente': 'WILLHELM-WR1452',
 	},
 
 	{
@@ -4684,6 +4977,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/31aa04YvPUL._AC_.jpg',
 		'categoria':'Rejilla Cromada',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4700,6 +4994,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_743232-MLA52023980634_102022-F.webp',
 		'categoria':'Resistencia Electroventilador',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4716,6 +5011,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51pOP9x7tRL._AC_SL1002_.jpg',
 		'categoria':'Resistencia Motoventilador',
+		'codigoCliente': 'WILLHELM-WH2549',
 	},
 
 	{
@@ -4732,6 +5028,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_952644-MLA70789901654_082023-F.webp',
 		'categoria':'Resistencia Motoventilador',
+		'codigoCliente': 'WILLHELM-WH2550',
 	},
 
 	{
@@ -4748,6 +5045,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_706801-MLA54969066817_042023-F.webp',
 		'categoria':'Resistencia Motoventilador',
+		'codigoCliente': 'WILLHELM-WH2551',
 	},
 
 	{
@@ -4764,6 +5062,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_743232-MLA52023980634_102022-F.webp',
 		'categoria':'Resistencia Motoventilador',
+		'codigoCliente': 'WILLHELM-WH2547',
 	},
 
 	{
@@ -4780,6 +5079,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://cdn.distriauto.eu/assets/img/accessoire/big/7111395.jpg',
 		'categoria':'Repartidor de Frenado',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -4796,13 +5096,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/t8f1y56/rotulasusp.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-rotulasuspension2',
 		'name': 'Rotula Chevrolet Corsa - Combo - Classic - Tigra - Wagon 98',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4812,13 +5113,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.mirefaccion.com.mx/cdn/shop/products/new_1603202_syd_large_5cf8aa43-f2c5-46df-8730-df4fc4b2427f_1024x1024@2x.jpg?v=1609836960',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST749',
 	},
 
 	{
 		'id': 'dc-rotulasuspension3',
 		'name': 'Rotula Chevrolet Blazer - S10 4x4 (95/11) Superior',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4828,13 +5130,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_865642-MLB47311533374_082021-F.webp',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST801',
 	},
 
 	{
 		'id': 'dc-rotulasuspension4',
 		'name': 'Rotula Chevrolet Blazer - S10 4x2-4x4 (95/11) Inferior',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4844,13 +5147,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/KznVXQT/17980955.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST812',
 	},
 
 	{
 		'id': 'dc-rotulasuspension5',
 		'name': 'Rotula Chevrolet Pick Up/Brava/C 10 63/78 Diam.50.50mm Inf.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4860,13 +5164,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/KznVXQT/17980955.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST813',
 	},
 
 	{
 		'id': 'dc-rotulasuspension6',
 		'name': 'Rotula Chevrolet Cobalt - Onix - Prisma - Sonic - Spin',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4876,13 +5181,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_987430-MLA53160502911_012023-F.webp',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST834',
 	},
 
 	{
 		'id': 'dc-rotulasuspension7',
 		'name': 'Rotula Susp. Corsa Classic - Wagon - Celta/Prisma (10/..)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4892,13 +5198,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_618936-MLA31932460240_082019-F.webp',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST805',
 	},
 
 	{
 		'id': 'dc-rotulasuspension8',
 		'name': 'Rotula Fiat Palio/Weekend/Siena 96/99 Inferior (Cono 14mm)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4908,15 +5215,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/7jQAAOSwPxpizqoR/s-l500.jpg',
 		'categoria':'Rótula Suspensión',
-		'codigoCliente': 'ST752',
-		'cliente':'SITEC'
+		'codigoCliente': 'SITEC-ST752',
 	},
 
 	{
 		'id': 'dc-rotulasuspension9',
 		'name': 'Rotula Fiat Ducato 94/02 /Peugeot Boxer 96/02',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4926,13 +5232,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/JdMAAOSwjFleS80u/s-l500.png',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST753',
 	},
 
 	{
 		'id': 'dc-rotulasuspension10',
 		'name': 'Rotula Fiat Palio - Weekend - Siena - Strada 01/. Inclinada',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4942,13 +5249,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/K9wJhnr/46842581.webp',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST754',
 	},
 
 	{
 		'id': 'dc-rotulasuspension11',
 		'name': 'Rotula Fiat Palio - Idea - Strada - Adventure (06/..) Inf. Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4958,13 +5266,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_652137-MLA70730594374_072023-F.webp',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST802',
 	},
 
 	{
 		'id': 'dc-rotulasuspension12',
 		'name': 'Rotula Fiat Palio - Idea - Strada - Adventure (06/..) Inf. Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4974,13 +5283,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_962998-MLA70761125097_072023-F.webp',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST803',
 	},
 
 	{
 		'id': 'dc-rotulasuspension13',
 		'name': 'Rotula Fiat Punto - Linea - Qubo (08/..) / Alfa Romeo Mito Inf.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -4990,13 +5300,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_962998-MLA70761125097_072023-F.webp',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST814',
 	},
 
 	{
 		'id': 'dc-rotulasuspension14',
 		'name': 'Rotula Ford Escort - Xr3 - Rural - Orion (97/03)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5006,13 +5317,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/WnQ0RnY/1033616.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST775',
 	},
 
 	{
 		'id': 'dc-rotulasuspension15',
 		'name': 'Rotula Ford Ranger 4x2 4x4 - Explorer (98/..) Inferior',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5022,13 +5334,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://aftermarket.schaeffler.es/medias/csccProductZoom-825035910.JPG?context=bWFzdGVyfHByb2R1Y3RpbWFnZXN8Njk1MDd8aW1hZ2UvanBlZ3xwcm9kdWN0aW1hZ2VzL2gwOC9oNTAvOTIwMzQxNjkyNDE5MC5qcGd8YzcyMjQ1NDlhZWU4ZmQwNTdhN2Q1MzRiYzAzMDVkY2VkNDMyOGY2OTIzMmUwZjUwYjZlODhiMTI5ZjkyNjgzMg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST804',
 	},
 
 	{
 		'id': 'dc-rotulasuspension16',
 		'name': 'Rotula Ford Ecosport 4x2-4x4 (03/..) - Fiesta - Max',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5038,13 +5351,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/9cd39g0/25653395-AA.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST815',
 	},
 
 	{
 		'id': 'dc-rotulasuspension17',
 		'name': 'Rotula Ford Fiesta - Courier (89/94) - Ka (96/07) Inferior',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5054,13 +5368,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.kmotorshop.com/document/tecdoc/161/0161JBJ145.JPG',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST816',
 	},
 
 	{
 		'id': 'dc-rotulasuspension18',
 		'name': 'Rotula Ford Ranger 4x4 Superior (13/..) (Ø 46.05mm)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5070,13 +5385,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://static3.tcdn.com.br/img/img_prod/592590/pivo_suspensao_superior_first_ford_ranger_13_orig_eb3c3078c1b_4367811_1_20201211142943.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST858',
 	},
 
 	{
 		'id': 'dc-rotulasuspension19',
 		'name': 'Rotula Ford Focus Focus II Focus III - Cmax Inf. Der. 2014/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5086,13 +5402,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://mobiland.auto/upload/iblock/59a/k1kn2zckflk9a0vgfscv5nex437rcjwc.jpeg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST860',
 	},
 
 	{
 		'id': 'dc-rotulasuspension20',
 		'name': 'Rotula Ford Focus Focus II Focus III - Cmax Inf. Izq. 2014/…',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5102,13 +5419,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/810mTITAymL._AC_SL1500_.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST861',
 	},
 
 	{
 		'id': 'dc-rotulasuspension21',
 		'name': 'Rotula Peugeot 306 93/98 / Citroen Zx - Berlingo - Xsara',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5118,13 +5436,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.origine-pieces-auto.com/16209-large_default/peugeot-citroen-lower-front-suspension-ball-joint.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST750',
 	},
 
 	{
 		'id': 'dc-rotulasuspension22',
 		'name': 'Rotula Peugeot 306 - Partner 99/08 / Citroen Zx - Xsara',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5134,13 +5453,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.fitinpart.sg/image/data/products/bd0a89f8980a7a79f32ef82eefcfd527.JPG',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST751',
 	},
 
 	{
 		'id': 'dc-rotulasuspension23',
 		'name': 'Rotula Peugeot 405/Break 88/96 Inferior (Rm. 38x1.50)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5150,13 +5470,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/HXYtxPj/3640-21.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST756',
 	},
 
 	{
 		'id': 'dc-rotulasuspension24',
 		'name': 'Rotula Peugeot 504/505/Pick Up/Familiar 81/01 Inf.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5166,13 +5487,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/BfpTxrt/3640-15.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST757',
 	},
 
 	{
 		'id': 'dc-rotulasuspension25',
 		'name': 'Rotula Peugeot 306 93/01 Inferior Pivote 16mm (Larga)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5182,13 +5504,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/hLvpsnj/3640-30.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST758',
 	},
 
 	{
 		'id': 'dc-rotulasuspension26',
 		'name': 'Rotula Peugeot 208/ Citroen C3 II - C3 Picasso (Rm 38x1.5) Inf.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5198,13 +5521,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_649275-MLA53055651054_122022-F.webp',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST862',
 	},
 
 	{
 		'id': 'dc-rotulasuspension27',
 		'name': 'Rotula Renault 18/Fuego/Break 81/95 Inferior',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5214,13 +5538,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/KLDtcJc/7701461331.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST759',
 	},
 
 	{
 		'id': 'dc-rotulasuspension28',
 		'name': 'Rotula Renault 12/Dacia 71/94 Superior Ambas Manos',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5230,13 +5555,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/gg45zKf/7701455906.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST760',
 	},
 
 	{
 		'id': 'dc-rotulasuspension29',
 		'name': 'Rotula Renault 19 92/00  - Clio 92/.. - Express 98/00',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5246,13 +5572,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/vmmzdH5/7701462182.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST761',
 	},
 
 	{
 		'id': 'dc-rotulasuspension30',
 		'name': 'Rotula Renault 12/Dacia 71/94 Inferior Ambas Manos',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5262,13 +5589,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/R4XFMQB/7701455905.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST763',
 	},
 
 	{
 		'id': 'dc-rotulasuspension31',
 		'name': 'Rotula Toyota Hilux - Sw4 - Runner 05/.. Inferior 43.8mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5278,13 +5606,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://safezoneautospares.com/cdn/shop/products/43330-09510-removebg-preview_500x.png?v=1634212339',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST830',
 	},
 
 	{
 		'id': 'dc-rotulasuspension32',
 		'name': 'Rotula Volkswagen Senda/Gol 97/07 Recta Pivote 17mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5294,13 +5623,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.mirefaccion.com.mx/cdn/shop/products/new_377_407_365_c_syd_large_1d69b344-a915-4e1e-90a9-2465db075dc4_1024x1024@2x.jpg?v=1609828562',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST770',
 	},
 
 	{
 		'id': 'dc-rotulasuspension33',
 		'name': 'Rotula Volkswagen Senda/Gol/Saveiro 97/07 Inferior Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5310,13 +5640,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_989955-MLA27226996046_042018-F.webp',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST772',
 	},
 
 	{
 		'id': 'dc-rotulasuspension34',
 		'name': 'Rotula Volkswagen Senda - Saveiro 93/95 Izq. Pivote 15mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5326,13 +5657,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_656534-MLA50202095998_062022-F.webp',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST773',
 	},
 
 	{
 		'id': 'dc-rotulasuspension35',
 		'name': 'Rotula Volkswagen Senda - Gol - Saveiro 97/07 Inf. Izq Direc.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5342,13 +5674,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_985732-MLA54125557645_032023-F.webp',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST774',
 	},
 
 	{
 		'id': 'dc-rotulasuspension36',
 		'name': 'Rotula Volkswagen Polo - Caddy (96/07) - Golf (83/98) Inf.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5358,13 +5691,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.europaparts.com/media/catalog/product/cache/abf26066ecd46d435ee2486b4a5aee03/3/5/357407365.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST776',
 	},
 
 	{
 		'id': 'dc-rotulasuspension37',
 		'name': 'Rotula Volkswagen Amarok 4x4 2.0TDI Inferior Amb Manos',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5374,13 +5708,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.fitinpart.sg/image/data/products/1afd0858dd00e33803cbfc52be42639b.jpg',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST863',
 	},
 
 	{
 		'id': 'dc-rotulasuspension38',
 		'name': 'Rotula Volkswagen Amarok 4x4 2.0TDI Superior Amb Manos',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -5390,6 +5725,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://cdn.spareto.com/variants/images/000/659/289/large/converted-20230217-991433-6owk00.jpg?1676651382',
 		'categoria':'Rótula Suspensión',
+		'codigoCliente': 'SITEC-ST864',
 	},
 
 	{
@@ -5406,6 +5742,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/7KNcxfm/Soporte-Motor-Alfa-Romeo-Giulietta.jpg',
 		'categoria':'Soporte Motor',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5422,6 +5759,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://alfashop.s3.amazonaws.com/uploads/c/product/image/image/5286/4121034.png',
 		'categoria':'Soporte Motor',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5438,6 +5776,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://alfashop.s3.amazonaws.com/uploads/c/product/image/image/4890/4121026.jpg',
 		'categoria':'Soporte Motor',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5454,6 +5793,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/7Jq1B12/soportemotor4.jpg',
 		'categoria':'Soporte Motor',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5470,6 +5810,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/A~4AAOSw9hxiBqJc/s-l1600.jpg',
 		'categoria':'Soporte Motor',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5486,6 +5827,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/jGQx83w/soportemotor6.jpg',
 		'categoria':'Soporte Motor',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5502,6 +5844,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/6xYAAOSwDoFkGs7P/s-l1600.jpg',
 		'categoria':'Soporte Motor',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5518,6 +5861,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://cdn.proxyparts.com/parts/101293/16852724/large/d87e0ad2-b83a-4244-aa25-452bb31c1836.jpg',
 		'categoria':'Soporte Motor',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5534,6 +5878,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_935496-MLA47725636761_102021-F.webp',
 		'categoria':'Soporte Motor',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5550,6 +5895,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/513i1fSnIDS._AC_SL1500_.jpg',
 		'categoria':'Sensor de Posición del Cigüeñal',
+		'codigoCliente': 'WILLHELM-WH191422',
 	},
 
 	{
@@ -5566,6 +5912,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/414Nj2JRB5L._AC_SL1500_.jpg',
 		'categoria':'Sensor de Posición del Cigüeñal',
+		'codigoCliente': 'WILLHELM-WH191420',
 	},
 
 	{
@@ -5582,6 +5929,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51Pul44VvFL._AC_SL1500_.jpg',
 		'categoria':'Sensor de Posición del Cigüeñal',
+		'codigoCliente': 'WILLHELM-WH191421',
 	},
 
 	{
@@ -5598,6 +5946,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_755045-MLA47204476749_082021-F.webp',
 		'categoria':'Sensor de Velocidad',
+		'codigoCliente': 'WILLHELM-WH191424',
 	},
 
 	{
@@ -5614,6 +5963,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_919251-MLA42662231904_072020-F.webp',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-WH191425',
 	},
 
 	{
@@ -5630,6 +5980,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/61zWQdp-RiL._AC_SL1500_.jpg',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5646,6 +5997,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_609590-MLA42157510994_062020-F.webp',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5662,6 +6014,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_661879-MLA47981600116_102021-F.webp',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5678,6 +6031,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/YDHPjCj/tanqueexp5.jpg',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5694,6 +6048,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://images.2407.pl/media/images/products/2021/05/2021-01-05_01-20-44_8763198.jpg',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5710,6 +6065,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/nCwGXX9/tanque7.jpg',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5726,6 +6082,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_620298-MLA50985365197_082022-F.webp',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5742,6 +6099,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.autostanic.hr/content/images/thumbs/0802271_proizvod-novi-dio-1733972-802271_550.jpeg',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5758,6 +6116,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_810986-MLA47473408106_092021-F.webp',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5774,6 +6133,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/VB00VGr/tanque11.jpg',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5790,6 +6150,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/bR9823V/tanque12.png',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5806,6 +6167,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_879902-MLA42163352964_062020-F.webp',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5822,6 +6184,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_612722-MLA51583246968_092022-F.webp',
 		'categoria':'Tanque Expansión',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5838,6 +6201,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_681481-MLA44457488146_122020-F.webp',
 		'categoria':'Termostatos de Agua',
+		'codigoCliente': 'WILLHELM-WH191423',
 	},
 
 	{
@@ -5854,6 +6218,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_922283-MLA70438786155_072023-F.webp',
 		'categoria':'Termostatos de Agua',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5870,6 +6235,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_863146-MLA31047051685_062019-F.webp',
 		'categoria':'Termostatos de Agua',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5886,6 +6252,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/St4YXhG/TERMOSTATO4.jpg',
 		'categoria':'Termostatos de Agua',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5902,6 +6269,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/LvFzwPM/TERMOSTATO5.jpg',
 		'categoria':'Termostatos de Agua',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5918,6 +6286,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_914464-MLA41731125766_052020-F.webp',
 		'categoria':'Termostatos de Agua',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5934,6 +6303,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_649695-MLA52415808561_112022-F.webp',
 		'categoria':'Termostatos de Agua',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5950,6 +6320,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/k6KDFLs/terminaldireccion1.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5966,6 +6337,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://cdn.spareto.com/variants/images/000/385/095/large/31971_1.jpg?1606241961',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5982,6 +6354,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51LJ5lyEeAL._AC_SL1500_.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -5998,13 +6371,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/61MAl2xAfBL._AC_SL1500_.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-extremodireccion5',
 		'name': 'Extremo Dirección Chevrolet Corsa/Combo/Tigra/94/99',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6014,13 +6388,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.mirefaccion.com.mx/cdn/shop/products/new_1603009_syd_large_7f7680fb-7d44-4fe9-b66b-a7db243af1ed_1024x1024@2x.jpg?v=1609348954',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST777',
 	},
 
 	{
 		'id': 'dc-extremodireccion6',
 		'name': 'Extremo Dirección Chevrolet Onix - Cobalt - Prisma - Spin',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6030,13 +6405,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_611010-MLA52700604324_122022-F.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST867',
 	},
 
 	{
 		'id': 'dc-extremodireccion7',
 		'name': 'Extremo Dirección Chevrolet Cruze 1.4/1.8 Turbo Lzt',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6046,13 +6422,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51z6v6Z7naS._AC_SL1500_.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST868',
 	},
 
 	{
 		'id': 'dc-extremodireccion8',
 		'name': 'Extremo Dirección Chevrolet Cruze 1.4/1.8 Turbo Lzt',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6062,13 +6439,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51-6oA7PcIL._AC_SL1500_.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST869',
 	},
 
 	{
 		'id': 'dc-extremodireccion9',
 		'name': 'Extremo Dirección Fiat Palio/Weekend/Siena/Strada 96/.Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6078,13 +6456,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_737176-MLA31158386698_062019-F.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST795',
 	},
 
 	{
 		'id': 'dc-extremodireccion10',
 		'name': 'Extremo Dirección Fiat Palio/Weekend/Siena/Strada 96/. Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6094,13 +6473,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_651599-MLV47119562528_082021-F.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST796',
 	},
 
 	{
 		'id': 'dc-extremodireccion11',
 		'name': 'Extremo Dirección Fiat Duna/Uno/Fiorino/Weekend 93',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6110,13 +6490,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_621780-MLV53270044898_012023-F.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST797',
 	},
 
 	{
 		'id': 'dc-extremodireccion12',
 		'name': 'Extremo Dirección Fiat Ducato 2.8td 94/02',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6126,13 +6507,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_846501-MLB47101127593_082021-F.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST870',
 	},
 
 	{
 		'id': 'dc-extremodireccion13',
 		'name': 'Extremo Dirección Ford Fiesta/Courier 03/.. /Ka 08/.. Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6142,13 +6524,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_933826-MLA32748685285_112019-F.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST792',
 	},
 
 	{
 		'id': 'dc-extremodireccion14',
 		'name': 'Extremo Dirección Ford Fiesta/Courier 03/.. /Ka 08/.. Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6158,13 +6541,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_821353-MLA32748712372_112019-F.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST793',
 	},
 
 	{
 		'id': 'dc-extremodireccion15',
 		'name': 'Extremo Dirección Ford Escort/Xr3/Rural 88/96 /Fiesta',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6174,13 +6558,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.mirefaccion.com.mx/cdn/shop/products/new_1034417_syd_large_f324fffb-9fbc-496a-9b4a-73a1dcf002bf_1024x1024@2x.jpg?v=1609826532',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST794',
 	},
 
 	{
 		'id': 'dc-extremodireccion16',
 		'name': 'Extremo Dirección Peugeot 205 (83/99) - 504 (81/01) - 306',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6190,13 +6575,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/HTGbX0J/Extremo-direccion-peugeot.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST780',
 	},
 
 	{
 		'id': 'dc-extremodireccion17',
 		'name': 'Extremo Dirección Renault 19 92/00 Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6206,13 +6592,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_659377-MLA51574659511_092022-F.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST786',
 	},
 
 	{
 		'id': 'dc-extremodireccion18',
 		'name': 'Extremo Dirección Renault 19 92/00 Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6222,13 +6609,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_773925-MLA51605089770_092022-F.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST787',
 	},
 
 	{
 		'id': 'dc-extremodireccion19',
 		'name': 'Extremo Dirección Peugeot 106 - 206 - 207 - 306 - 307 - 605',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6238,13 +6626,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.fitinpart.sg/image/data/products/a362efb4f89551a08b686a84ce942272.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST790',
 	},
 
 	{
 		'id': 'dc-extremodireccion20',
 		'name': 'Extremo Dirección Peugeot 206 - 207 - 307 / Citroen C4 Hatch',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6254,13 +6643,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.fitinpart.sg/image/data/ts_images/e4/3c/1646082_0_e43c1d32a5fa57988b3168244708b3e6.gif',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST791',
 	},
 
 	{
 		'id': 'dc-extremodireccion21',
 		'name': 'Extremo Dirección Renault Clio Ii (99/..) - Megane (98/..) - Symbol Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6270,13 +6660,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_627862-MLA69220826968_052023-F.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST767',
 	},
 
 	{
 		'id': 'dc-extremodireccion22',
-		'name': 'Extremo Dirección Renault Clio Ii (99/..) - Megane (98/..) - Symbol Izq.',	
+		'name': 'Extremo Dirección Renault Clio II (99/..) - Megane (98/..) - Symbol Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6286,13 +6677,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/81mZnGIrrdL._AC_SL1500_.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST768',
 	},
 
 	{
 		'id': 'dc-extremodireccion23',
 		'name': 'Extremo Dirección Renault 9 - 11 (84/96) - R18 - Fuego',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6302,13 +6694,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/M1NvR5H/7701460955.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST781',
 	},
 
 	{
 		'id': 'dc-extremodireccion24',
 		'name': 'Extremo Dirección Renault 12/Dacia 71/94 Izq. L=236mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6318,13 +6711,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.elibuyukotomotiv.com/cdn/shop/products/23RN4081_1024x1024@2x.jpg?v=1612172504',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST783',
 	},
 
 	{
 		'id': 'dc-extremodireccion25',
 		'name': 'Extremo Dirección Renault 12/Dacia 71/94 Der. L=236mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6334,13 +6728,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/4KxgszK/7700571173.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST784',
 	},
 
 	{
 		'id': 'dc-extremodireccion26',
 		'name': 'Extremo Dirección Renault Clio 94/99 /Megane 95/99 Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6350,13 +6745,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_967732-MLA43220146878_082020-F.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST788',
 	},
 
 	{
 		'id': 'dc-extremodireccion27',
 		'name': 'Extremo Dirección Renault Clio 94/99 /Megane 95/99 Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6366,13 +6762,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/b2D8zKF/7701041311.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST789',
 	},
 
 	{
 		'id': 'dc-extremodireccion28',
 		'name': 'Extremo Renault Logan/Sandero/Stepway 07/.. Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6382,13 +6779,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/71q3F1prmsL._AC_SL1500_.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST871',
 	},
 
 	{
 		'id': 'dc-extremodireccion29',
 		'name': 'Extremo Renault Logan - Sandero - Stepway (07/..) Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6398,13 +6796,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/41ataqt3TYL._AC_SL1000_.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST872',
 	},
 
 	{
 		'id': 'dc-extremodireccion30',
 		'name': 'Extremo Toyota Hilux 4027 Lena',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6414,13 +6813,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://indufaros.com.co/wp-content/uploads/2022/09/45046-09800.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST873',
 	},
 
 	{
 		'id': 'dc-extremodireccion31',
 		'name': 'Extremo Dirección Volkswagen Senda - Gol - Saveiro 95',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6430,13 +6830,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_855977-MLA47661191766_092021-F.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST800',
 	},
 
 	{
 		'id': 'dc-extremodireccion32',
 		'name': 'Extremo Dirección Volkswagen Golf - Bora - New Beetle (99/11)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6444,15 +6845,16 @@ export const items = [
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,45',
 		'descripcion': 'lorem lorem',
-		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_855977-MLA47661191766_092021-F.webp',
+		'url': 'https://img.xentra.com.mx/autopartescimaco/img/productos/TERMINAL%20EXTERIOR%20L/1J0-422-811/1J0-422-811_842_12_12_22_01_51.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST807',
 	},
 
 	{
 		'id': 'dc-extremodireccion33',
 		'name': 'Extremo Dirección Volkswagen Golf - Bora - New Beetle',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6462,13 +6864,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.fitinpart.sg/image/data/products/f4b1d334a010ffe22ae1e7820db87bf5.jpg',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST876',
 	},
 
 	{
 		'id': 'dc-extremodireccion34',
 		'name': 'Extremo Dirección Volkswagen Golf - Bora - New Beetle',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6478,22 +6881,24 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://img.xentra.com.mx/autopartescimaco/img/productos/TERMINAL%20EXTERIOR%20L/1J0-422-811/1J0-422-811_842_12_12_22_01_51.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST877',
 	},
 
 	{
 		'id': 'dc-extremodireccion35',
-		'name': 'Extremo Dirección Volkswagen Golf - Bora - New Beetle',	
+		'name': 'Extremo Dirección Volkswagen Golf - Bora - New Beetle (99/11)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6N0423812C',
+		'oem': '6N0423811C',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,45',
 		'descripcion': 'lorem lorem',
-		'url': 'https://img.xentra.com.mx/autopartescimaco/img/productos/TERMINAL%20EXTERIOR%20L/1J0-422-811/1J0-422-811_842_12_12_22_01_51.webp',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_855977-MLA47661191766_092021-F.webp',
 		'categoria':'Extremo Dirección',
+		'codigoCliente': 'SITEC-ST808',
 	},
 
 	{
@@ -6510,13 +6915,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/M1QJ6ms/Volante-bimasa.jpg',
 		'categoria':'Volante Bimasa',
+		'codigoCliente': 'WILLHELM-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-portamazas',
 		'name': 'Montante Portamaza Peugeot 206 Motor 1.6 16v Disco Vent.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6526,13 +6932,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/9qxNnb9/364776.webp',
 		'categoria':'Portamazas',
+		'codigoCliente': 'SITEC-ST574',
 	},
 
 	{
 		'id': 'dc-portamazas2',
 		'name': 'Montante Portamaza Peugeot 206 Motor 1.4 Disco Solido (72mm) Lado Izquierdo',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6542,13 +6949,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_683587-MLA47016512583_082021-F.webp',
 		'categoria':'Portamazas',
+		'codigoCliente': 'SITEC-ST575',
 	},
 
 	{
 		'id': 'dc-portamazas3',
 		'name': 'Montante Portamaza Peugeot 306/Partner Rotula 16mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6558,13 +6966,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/qCoAAOSwL29h9TFh/s-l1600.jpg',
 		'categoria':'Portamazas',
+		'codigoCliente': 'SITEC-ST581',
 	},
 
 	{
 		'id': 'dc-portamazas4',
 		'name': 'Montante Portamaza Peugeot 306/Partner Rotula 16mm',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6574,13 +6983,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/MMn41pf/3647-53.jpg',
 		'categoria':'Portamazas',
+		'codigoCliente': 'SITEC-ST580',
 	},
 
 	{
 		'id': 'dc-portamazas5',
 		'name': 'Montante Portamaza Peugeot 206 Motor 1.6 16v Disco Vent.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6590,13 +7000,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/Jqx7SMB/3646-76.jpg',
 		'categoria':'Portamazas',
+		'codigoCliente': 'SITEC-ST594',
 	},
 
 	{
 		'id': 'dc-portamazas6',
 		'name': 'Montante Portamaza Peugeot 206 Motor 1.4 Disco Sólido',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6606,13 +7017,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_797809-MLA49920870406_052022-F.webp',
 		'categoria':'Portamazas',
+		'codigoCliente': 'SITEC-ST595',
 	},
 
 	{
 		'id': 'dc-portamazas7',
 		'name': 'Montante Portamaza Renault Logan/Sandero II Lado Izq.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6622,13 +7034,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_660003-MLA68893901978_042023-F.webp',
 		'categoria':'Portamazas',
+		'codigoCliente': 'SITEC-ST596',
 	},
 
 	{
 		'id': 'dc-portamazas8',
 		'name': 'Montante Portamaza Renault Logan II /Sandero II Lado Der.',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6638,13 +7051,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/b5sAAOSw3LxfafI-/s-l1600.jpg',
 		'categoria':'Portamazas',
+		'codigoCliente': 'SITEC-ST597',
 	},
 
 	{
 		'id': 'dc-portamazas9',
 		'name': 'Montante Portamaza Renault Clio-Kangoo Lado Izq. Dsl',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6654,13 +7068,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/rG5R5Nr/8200207307.jpg',
 		'categoria':'Portamazas',
+		'codigoCliente': 'SITEC-ST582',
 	},
 
 	{
 		'id': 'dc-portamazas10',
 		'name': 'Montante Portamaza Renault Clio-Kangoo Lado Der. Dsl',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6670,13 +7085,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/rusAAOSwWmZhES~6/s-l1600.jpg',
 		'categoria':'Portamazas',
+		'codigoCliente': 'SITEC-ST583',
 	},
 
 	{
 		'id': 'dc-portamazas11',
 		'name': 'Montante Portamaza Toyota Hilux 4x4 Izquierdo (05/16)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6686,13 +7102,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/5cpm76M/43212-0-K030.jpg',
 		'categoria':'Portamazas',
+		'codigoCliente': 'SITEC-ST588',
 	},
 
 	{
 		'id': 'dc-portamazas12',
 		'name': 'Montante Portamaza Toyota Hilux 4x4 Derecho (05/16)',	
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -6702,13 +7119,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/kBrd4dB/43211-0-K040.webp',
 		'categoria':'Portamazas',
+		'codigoCliente': 'SITEC-ST589',
 	},
 
 	{
 		'id': 'dc-bobinaignicion',
 		'name': 'Bobina Ignición Chevrolet Corsa 3 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6718,13 +7136,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_608701-MLA50682405951_072022-F.webp',
 		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bobinaignicion2',
 		'name': 'Bobina Ignición Chevrolet Corsa 4 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6734,13 +7153,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_998629-MLA70989122240_082023-F.webp',
 		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bobinaignicion3',
 		'name': 'Bobina Ignición Agile',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6750,13 +7170,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_938041-MLA69215322274_052023-F.webp',
 		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bobinaignicion4',
 		'name': 'Bobina Ignición Fiat Doblo/Palio/Siena 1,4 2 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6766,13 +7187,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_673774-MLA31551431571_072019-F.webp',
 		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bobinaignicion5',
 		'name': 'Bobina Ignición Fiat Idea/Palio 1,4 3 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6782,13 +7204,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_752123-MLA31536054512_072019-F.webp',
 		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bobinaignicion6',
 		'name': 'Bobina Ignición Ford Ka-Fiesta',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6798,13 +7221,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_946007-MLA31551445173_072019-F.webp',
 		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bobinaignicion7',
 		'name': 'Bobina Ignición Ford Fiesta/Ka 3 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6814,13 +7238,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_677445-MLA31578516448_072019-F.webp',
 		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bobinaignicion8',
 		'name': 'Bobina Ignición Renault Clio',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6830,13 +7255,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_735812-MLA32872328176_112019-F.webp',
 		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bobinaignicion9',
 		'name': 'Bobina Ignición Vw Golf/Bora 1,6 3 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6846,13 +7272,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_603700-MLA31551485189_072019-F.webp',
 		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bobinaignicion10',
 		'name': 'Bobina Ignición Vw',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6862,13 +7289,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_700076-MLA31296022507_072019-F.webp',
 		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bobinaignicion11',
 		'name': 'Bobina Ignición Vw Gol',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6878,13 +7306,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_941365-MLA49764774814_042022-F.webp',
 		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-bobinaignicion12',
 		'name': 'Bobina Ignición Vw Golf/Bora 1,6 4 Pines',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6894,13 +7323,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_800128-MLA45597061338_042021-F.webp',
 		'categoria': 'Bobina Ignición',
+		'codigoCliente': 'FCH-PENDIENTE',
 	},
 
 	{
 		'id': 'dc-inducido',
 		'name': 'Inducido Arranque T/Bosch Vw/Alfa Ph-925/6',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6910,13 +7340,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://nexand.com.ar/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/F/0/F000AL2763.jpg',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-925/6',
 	},
 
 	{
 		'id': 'dc-inducido2',
 		'name': 'Inducido Arranque T/Bosch Escor/Pointer Ph-925/3',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6926,13 +7357,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://rotofrance.com.ar/files/images_rf/IB1030.jpg',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-925',
 	},
 
 	{
 		'id': 'dc-inducido3',
 		'name': 'Inducido Arranque T/Bosch Palio/Siena Ph-925/ 7',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6942,13 +7374,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/gWvpTSt/1004011072.png',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-925/7',
 	},
 
 	{
 		'id': 'dc-inducido4',
 		'name': 'Inducido Arranque T/Bosch Fiesta Diesel Ph-925/2',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6958,13 +7391,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/0jyCKMc/1004011022.png',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-925/2',
 	},
 
 	{
 		'id': 'dc-inducido5',
 		'name': 'Inducido Arranque T/Bosch Escort/Pointer Ph-925/3',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6974,13 +7408,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://img.systemit.cz/fotografie/max/4843_153677.jpg',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-925/3',
 	},
 
 	{
 		'id': 'dc-inducido6',
 		'name': 'Inducido Arranque T/Bosch M. Benz180/Sprinter',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -6990,13 +7425,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_901200-MLB43461731596_092020-F.webp',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-925/5',
 	},
 
 	{
 		'id': 'dc-inducido7',
 		'name': 'Inducido Arranque T/Bosch Polo Diesel Ph-925/1',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7006,13 +7442,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51FdUsAmHKL._AC_SL1280_.jpg',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-925/1',
 	},
 
 	{
 		'id': 'dc-inducido8',
 		'name': 'Inducido',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7022,13 +7459,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_611508-MLB47710253550_092021-F.webp',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-990',
 	},
 
 	{
 		'id': 'dc-inducido9',
 		'name': 'Inducido',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7038,13 +7476,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/7y4qmXK/6033-AD0446.webp',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-991',
 	},
 
 	{
 		'id': 'dc-inducido10',
 		'name': 'Inducido Arranque T/Bosch Megane Ph-991/1',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7054,13 +7493,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/tXGjkSv/1004011089.webp',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-991/1',
 	},
 
 	{
 		'id': 'dc-inducido11',
 		'name': 'Inducido Arranque T/Bosch Peug Partner Ph-990/1',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7070,13 +7510,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://img.systemit.cz/fotografie/max/4843_64118.jpg',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-990/1',
 	},
 
 	{
 		'id': 'dc-inducido12',
 		'name': 'Inducido Arranque T/Remy Col Hueco Ph-977/1',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7086,13 +7527,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/x5kFXkc/10452361.jpg',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-977/1, 977/2',
 	},
 
 	{
 		'id': 'dc-inducido13',
 		'name': 'Inducido',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7102,13 +7544,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/x5kFXkc/10452361.jpg',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-940',
 	},
 
 	{
 		'id': 'dc-inducido14',
 		'name': 'Inducido Arranque Escort/Transit/Mondeo Ph-917/1',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7118,13 +7561,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_832490-MLA31258446256_062019-F.webp',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-917, 917/1',
 	},
 
 	{
 		'id': 'dc-inducido15',
 		'name': 'Inducido Arranque Ka/Fiesta Ph-980',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7134,13 +7578,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_832490-MLA31258446256_062019-F.webp',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-980',
 	},
 
 	{
 		'id': 'dc-inducido16',
 		'name': 'Inducido Arranque T/Hitachi D-Max  Ph-907/3',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7150,13 +7595,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/414gqsryXoL.jpg',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-907/3',
 	},
 
 	{
 		'id': 'dc-inducido17',
 		'name': 'Inducido Arranque T/Hitachi Corsa Diesel Ph-907/1',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7166,13 +7612,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/414gqsryXoL.jpg',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-907/1',
 	},
 
 	{
 		'id': 'dc-inducido18',
 		'name': 'Inducido Arranque T/Indiel M93r 12v F-1000 Ph-987',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7182,13 +7629,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://rotofrance.com.ar/files/images_rf/II8608.jpg',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-987',
 	},
 
 	{
 		'id': 'dc-inducido19',
 		'name': 'Inducido Arranque T/Marelli Palio/Siena/L2 Ph-928/1',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7198,13 +7646,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_759354-MLV32491741419_102019-F.webp',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-928/1',
 	},
 
 	{
 		'id': 'dc-inducido20',
 		'name': 'Inducido Arranque T/Marelli Palio Ph-953',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7214,13 +7663,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_759354-MLV32491741419_102019-F.webp',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-953',
 	},
 
 	{
 		'id': 'dc-inducido21',
 		'name': 'Inducido Arranque T/Mitsubishi Master Ph-942',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7230,13 +7680,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/t4zdZqC/M106-X43571.webp',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-942',
 	},
 
 	{
 		'id': 'dc-inducido22',
 		'name': 'Inducido',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7246,13 +7697,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/t4zdZqC/M106-X43571.webp',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-919/2',
 	},
 
 	{
 		'id': 'dc-inducido23',
 		'name': 'Inducido',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7262,13 +7714,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/ShAAAOSw61ZkfhvC/s-l1600.jpg',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-919',
 	},
 
 	{
 		'id': 'dc-inducido24',
 		'name': 'Inducido Arranque T/Mitsubishi Col/Hueco Ph-942/1',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7278,13 +7731,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/ShAAAOSw61ZkfhvC/s-l1600.jpg',
 		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-942/1',
 	},
 
 	{
 		'id': 'dc-inducido25',
 		'name': 'Inducido Arranque T/Valeo Frontal P.307/C4 2.0 16v Ph-929/4',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7293,14 +7747,15 @@ export const items = [
 		'pesoNetoUnitario': '0,33',
 		'descripcion': 'lorem lorem',
 		'url': 'https://nosso.com/public/uploads/producto/INN%20VAL001_1.webp',
-		'categoria': 'Inducido',	
+		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-929/4',	
 	},
 
 	{
 		'id': 'dc-inducido26',
 		'name': 'Inducido Arranque T/Valeo Ph-929/2',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7309,14 +7764,15 @@ export const items = [
 		'pesoNetoUnitario': '0,40',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/a9IAAOSwcktk3-28/s-l500.jpg',
-		'categoria': 'Inducido',	
+		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-929/2',	
 	},
 
 	{
 		'id': 'dc-inducido27',
 		'name': 'Inducido Arranque T/Valeo Frontal Ph-929/3',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7325,14 +7781,15 @@ export const items = [
 		'pesoNetoUnitario': '0,46',
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.micolini.com/mods/html/fil/Model/Product/25217/320-INNVAL006.jpg.webp',
-		'categoria': 'Inducido',	
+		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-929/3',	
 	},
 
 	{
 		'id': 'dc-inducido28',
 		'name': 'Inducido Arranque T/Valeo Frontal Peug/Ren Ph929/1',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7341,14 +7798,15 @@ export const items = [
 		'pesoNetoUnitario': '0,35',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/PYN5Jy0/594526.webp',
-		'categoria': 'Inducido',	
+		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-929/1',	
 	},
 
 	{
 		'id': 'dc-inducido29',
 		'name': 'Inducido Arranque T/Valeo Ph-983',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7357,14 +7815,15 @@ export const items = [
 		'pesoNetoUnitario': '0,58',
 		'descripcion': 'lorem lorem',
 		'url': 'https://nosso.com/public/uploads/producto/INN%20VAL007_1.webp',
-		'categoria': 'Inducido',	
+		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-983',	
 	},
 
 	{
 		'id': 'dc-inducido30',
 		'name': 'Inducido Arranque 12v Ecosport/Ka D7e',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7373,14 +7832,15 @@ export const items = [
 		'pesoNetoUnitario': '0,56',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/31DGDy6wOJL._AC_.jpg',
-		'categoria': 'Inducido',	
+		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-984',	
 	},
 
 	{
 		'id': 'dc-inducido31',
 		'name': 'Inducido Arranque T/Hitachi Diesel Ph-907/2',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7389,14 +7849,15 @@ export const items = [
 		'pesoNetoUnitario': '1,10',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/31DGDy6wOJL._AC_.jpg',
-		'categoria': 'Inducido',	
+		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-907/2',	
 	},
 
 	{
 		'id': 'dc-inducido32',
 		'name': 'Inducido Arranque P.207/307 /L112/D44.3/E10/C23',
 		'publisher': 'otro',
-		'pais': 'Brasil',
+		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
@@ -7405,6 +7866,7 @@ export const items = [
 		'pesoNetoUnitario': '0,36',
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/31DGDy6wOJL._AC_.jpg',
-		'categoria': 'Inducido',	
+		'categoria': 'Inducido',
+		'codigoCliente': 'FCH-929/5',	
 	},
 ]
