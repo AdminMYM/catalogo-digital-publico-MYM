@@ -6,6 +6,9 @@
 body{
 	overflow-x: hidden;
 }
+html {
+	/* background: #212529; */
+}
 h1 {
 	margin: 2rem 0 2rem 0;
 }
@@ -36,6 +39,7 @@ h1 {
 	justify-content: space-between;
 	align-items: center;
 	top: 4.7rem;
+	left: 40px;
 }
 .menu-item ul {
 	background-color: white;
@@ -81,6 +85,7 @@ h1 {
 @media (max-width: 576px){
 	.menu-item {
 		top: 9.7rem;
+		left: 0;
 	}
 	.menu-item ul {
 		left: -1rem;
