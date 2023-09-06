@@ -28,7 +28,7 @@ export const ItemPage = () => {
 					/>
 			</div>
 
-			<div className="col-8">
+			<div className="col-8 container-item-card">
 				<ul className="list-group list-group-flush">
 					<li className="list-group-item"><b>OEM:</b> {item.oem}</li>
 					{item.codigoCliente ? <li className="list-group-item"><b>Código cliente:</b> {item.codigoCliente} </li> : '' }
