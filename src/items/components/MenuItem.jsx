@@ -21,12 +21,17 @@ export const MenuItem = () => {
 			})
 		})
 
-
+		const menuItem = document.querySelector('.menu-item')
+		const background = document.querySelector('.menu-background')
+	
+		background.addEventListener('click', ()=>{
+			menuItem.classList.toggle('inactive')
+		})
 	},[e])
 	
 	return (
 		<div className="menu-item inactive" >
-			<ul>
+			<ul className="menu-item-ul">
 			<h2>Categorías de productos</h2>
 				<li className='list-item' >Aro Pistón</li>
 				<li className='list-item' >Base Amortiguador</li>
