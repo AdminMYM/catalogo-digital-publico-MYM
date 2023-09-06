@@ -60,7 +60,7 @@ export const MenuItem = () => {
 				<li className='list-item' >Parachoques</li>
 				<li className='list-item' >Parrilla Suspensión</li>
 				<li className='list-item' >Poleas</li>
-				<li className='list-item' >Portacarbón</li>
+				<li className='list-item' >Portacarbones</li>
 				<li className='list-item' >Portamazas</li>
 				<li className='list-item' >Radiador</li>
 				<li className='list-item' >Regulador Árbol de Levas</li>
