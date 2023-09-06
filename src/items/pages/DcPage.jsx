@@ -26,7 +26,7 @@ export const DcPage = () => {
 				arbi ?
 					<div>
 						<h1>{arbi}</h1>
-						<h5>Cantidad de productos: {flag}</h5>
+						<h3>Cantidad de productos: {flag}</h3>
 
 						<A />
 					</div>

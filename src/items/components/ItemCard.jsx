@@ -34,7 +34,7 @@ export const ItemCard = ({
 							{/* <p className="card-pais">{pais}</p> */}
 							{/* <CharactersByAutoPart alter_ego={pais} characters={etiqueta_familia} /> */}
 							<p className="card-text">
-								<small className="text-muted">{descripcion}</small>
+								{/* <small className="text-muted">{descripcion}</small> */}
 							</p>
 							<Link to={`/hero/${id}`}>
 								Más
