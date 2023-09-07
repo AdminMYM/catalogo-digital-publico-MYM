@@ -8500,23 +8500,6 @@ export const items = [
 	},
 
 	{
-		'id': 'dc-bobinaignicion47',
-		'name': 'Bobina Rio/Carens 1.5/1.6 16v 2000/...',
-		'publisher': 'otro',
-		'pais': 'Argentina',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
-
-		'oem': '0K30E1810X/0K30E1810XZ',
-		'marca': 'Kia',
-		'pesoNetoUnitario': '0,37',
-		'descripcion': 'lorem lorem',
-		'url': 'https://i.ibb.co/GFTYcFD/0-K247-18-100-A.jpg',
-		'categoria': 'Bobina Ignición',
-		'codigoCliente': 'RDS47236',
-	},
-
-	{
 		'id': 'dc-inducido',
 		'name': 'Inducido Arranque T/Bosch Vw/Alfa Ph-925/6',
 		'publisher': 'otro',
@@ -9534,90 +9517,5 @@ export const items = [
 		'url': 'https://i.ibb.co/dJDKB2w/1004336894.png',
 		'categoria': 'Portacarbones',
 		'codigoCliente': 'FCH-PENDIENTE',	
-	},
-
-	{
-		'id': 'dc-termostatos',
-		'name': 'Rotula Volkswagen Amarok 4x4 2.0tdi Inferior Amb Manos',
-		'publisher': 'otro',
-		'pais': 'México',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
-
-		'oem': '305407365-5',
-		'marca': 'Volkswagen',
-		'pesoNetoUnitario': '0,64',
-		'descripcion': 'lorem lorem',
-		'url': 'https://i.ibb.co/0tj252N/305407365-5.webp',
-		'categoria': 'Termostatos',
-		'codigoCliente': 'SITEC-44444 / WILLHELM-908',	
-	},
-
-	{
-		'id': 'dc-termostatos2',
-		'name': 'Rotula Volkswagen Amarok 4x4 2.0tdi Inferior Amb Manos',
-		'publisher': 'otro',
-		'pais': 'México',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
-
-		'oem': '305407365-5',
-		'marca': 'Volkswagen',
-		'pesoNetoUnitario': '0,64',
-		'descripcion': 'lorem lorem',
-		'url': 'https://i.ibb.co/0tj252N/305407365-5.webp',
-		'categoria': 'Termostatos',
-		'codigoCliente': 'SITEC-44444 / WILLHELM-908',	
-	},
-
-	{
-		'id': 'dc-termostatos3',
-		'name': 'Rotula Volkswagen Amarok 4x4 2.0tdi Inferior Amb Manos',
-		'publisher': 'otro',
-		'pais': 'México',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
-
-		'oem': '305407365-5',
-		'marca': 'Volkswagen',
-		'pesoNetoUnitario': '0,64',
-		'descripcion': 'lorem lorem',
-		'url': 'https://i.ibb.co/0tj252N/305407365-5.webp',
-		'categoria': 'Termostatos',
-		'codigoCliente': 'SITEC-44444 / WILLHELM-908',	
-	},
-
-	{
-		'id': 'dc-termostatos3',
-		'name': 'Rotula Volkswagen Amarok 4x4 2.0tdi Inferior Amb Manos',
-		'publisher': 'otro',
-		'pais': 'México',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
-
-		'oem': '305407365-5',
-		'marca': 'Volkswagen',
-		'pesoNetoUnitario': '0,64',
-		'descripcion': 'lorem lorem',
-		'url': 'https://i.ibb.co/0tj252N/305407365-5.webp',
-		'categoria': 'Termostatos',
-		'codigoCliente': 'SITEC-44444 / WILLHELM-908',	
-	},
-
-	{
-		'id': 'dc-termostatos3',
-		'name': 'Rotula Volkswagen Amarok 4x4 2.0tdi Inferior Amb Manos',
-		'publisher': 'otro',
-		'pais': 'México',
-		'first_appearance': 'lorem lorem',
-		'characters': 'lorem loren lorem',
-
-		'oem': '305407365-5',
-		'marca': 'Volkswagen',
-		'pesoNetoUnitario': '0,64',
-		'descripcion': 'lorem lorem',
-		'url': 'https://i.ibb.co/0tj252N/305407365-5.webp',
-		'categoria': 'Termostatos',
-		'codigoCliente': 'SITEC-44444 / WILLHELM-908',	
-	},
+	},	
 ]
