@@ -1,11 +1,5 @@
 import { Link } from "react-router-dom"
 
-// const CharactersByAutoPart = ({pais, characters})=> {
-// 	return (pais === characters)
-// 	? <></>
-// 	: <p>{characters}</p>
-// }
-
 export const ItemCard = ({
 	id,
 	url,
