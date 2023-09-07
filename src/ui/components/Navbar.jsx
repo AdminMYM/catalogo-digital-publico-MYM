@@ -35,9 +35,17 @@ export const Navbar = () => {
 
 						<NavLink
 							className={({ isActive }) => `nav-item nav-link  ${isActive ? 'active' : ''}`}
+							to="/products"
+						>
+							Todos Los Productos
+						</NavLink>
+
+						
+						<NavLink
+							className={({ isActive }) => `nav-item nav-link  ${isActive ? 'active' : ''}`}
 							to="/dc"
 						>
-							Autopartes
+							Productos Filtrados
 						</NavLink>
 
 						<NavLink
