@@ -9586,4 +9586,38 @@ export const items = [
 		'categoria': 'Termostatos',
 		'codigoCliente': 'SITEC-44444 / WILLHELM-908',	
 	},
+
+	{
+		'id': 'dc-termostatos3',
+		'name': 'Rotula Volkswagen Amarok 4x4 2.0tdi Inferior Amb Manos',
+		'publisher': 'otro',
+		'pais': 'México',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '305407365-5',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,64',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/0tj252N/305407365-5.webp',
+		'categoria': 'Termostatos',
+		'codigoCliente': 'SITEC-44444 / WILLHELM-908',	
+	},
+
+	{
+		'id': 'dc-termostatos3',
+		'name': 'Rotula Volkswagen Amarok 4x4 2.0tdi Inferior Amb Manos',
+		'publisher': 'otro',
+		'pais': 'México',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '305407365-5',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,64',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/0tj252N/305407365-5.webp',
+		'categoria': 'Termostatos',
+		'codigoCliente': 'SITEC-44444 / WILLHELM-908',	
+	},
 ]
