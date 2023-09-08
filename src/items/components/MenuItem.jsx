@@ -47,7 +47,7 @@ export const MenuItem = () => {
 				<li className='list-item' >Crapodina Hidráulica</li>
 				<li className='list-item' >Collarín Hidráulico</li>
 				<li className='list-item' >Conmutador Luces</li>
-				<li className='list-item' >Cuerpo Aceleración</li>
+				<li className='list-item' >Cuerpo de Aceleración</li>
 				<li className='list-item' >Disco de Freno</li>
 				<li className='list-item' >Electroventiladores</li>
 				<li className='list-item' >Extremo Dirección</li>
