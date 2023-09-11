@@ -313,13 +313,13 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '5020627',
+		'oem': '5020627/94722524/TK-037',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '2,74',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_712501-MLA28974402210_122018-F.webp',
 		'categoria': 'Electroventiladores',
-		'codigoCliente': 'FCH-3140',
+		'codigoCliente': 'FCH-3140 / RDS44861 - RDS44989',
 	},
 
 	{
@@ -4077,6 +4077,23 @@ export const items = [
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_741138-MLA53087641093_122022-F.webp',
 		'categoria':'Inyectores',
 		'codigoCliente': 'FCH-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-inyectores25',
+		'name': 'Inyector Combustible Palio/Punto/Siena 1.4 2010/…',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': '50103902/IWP046',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/bgY8j6j/IWP046.jpg',
+		'categoria':'Inyectores',
+		'codigoCliente': 'RDS-PENDIENTE',
 	},
 
 	{
@@ -8853,7 +8870,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://nexand.com.ar/media/catalog/product/cache/ecd051e9670bd57df35c8f0b122d8aea/F/0/F000AL2763.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-925/6',
+		'codigoCliente': 'FCH-925/6 / RDS-925/6',
 	},
 
 	{
@@ -8870,12 +8887,12 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://rotofrance.com.ar/files/images_rf/IB1030.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-925',
+		'codigoCliente': 'FCH-925 / RDS-925',
 	},
 
 	{
 		'id': 'dc-inducido3',
-		'name': 'Inducido Arranque T/Bosch Palio/Siena Ph-925/ 7',
+		'name': 'Inducido Arranque T/Bosch Palio/Siena Ph-925/7',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
@@ -8887,7 +8904,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/gWvpTSt/1004011072.png',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-925/7',
+		'codigoCliente': 'FCH-925/7 / RDS-925/7',
 	},
 
 	{
@@ -8904,7 +8921,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/0jyCKMc/1004011022.png',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-925/2',
+		'codigoCliente': 'FCH-925/2 / RDS-925/2',
 	},
 
 	{
@@ -8921,7 +8938,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://img.systemit.cz/fotografie/max/4843_153677.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-925/3',
+		'codigoCliente': 'FCH-925/3 / RDS-925/3',
 	},
 
 	{
@@ -8938,7 +8955,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_901200-MLB43461731596_092020-F.webp',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-925/5',
+		'codigoCliente': 'FCH-925/5 / RDS-925/5',
 	},
 
 	{
@@ -8955,7 +8972,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/51FdUsAmHKL._AC_SL1280_.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-925/1',
+		'codigoCliente': 'FCH-925/1 / RDS-925/1',
 	},
 
 	{
@@ -9006,7 +9023,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/tXGjkSv/1004011089.webp',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-991/1',
+		'codigoCliente': 'FCH-991/1 / RDS-991/1',
 	},
 
 	{
@@ -9023,7 +9040,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://img.systemit.cz/fotografie/max/4843_64118.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-990/1',
+		'codigoCliente': 'FCH-990/1 / RDS-990/1',
 	},
 
 	{
@@ -9040,7 +9057,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/x5kFXkc/10452361.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-977/1, 977/2',
+		'codigoCliente': 'FCH-977/1, FCH-977/2 / RDS-977/1, RDS-977/2',
 	},
 
 	{
@@ -9074,7 +9091,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_832490-MLA31258446256_062019-F.webp',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-917, 917/1',
+		'codigoCliente': 'FCH-917, 917/1 / RDS-917/1',
 	},
 
 	{
@@ -9091,7 +9108,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_832490-MLA31258446256_062019-F.webp',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-980',
+		'codigoCliente': 'FCH-980 / RDS-980',
 	},
 
 	{
@@ -9108,7 +9125,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/414gqsryXoL.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-907/3',
+		'codigoCliente': 'FCH-907/3 / RDS-907/3',
 	},
 
 	{
@@ -9125,7 +9142,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/414gqsryXoL.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-907/1',
+		'codigoCliente': 'FCH-907/1 / RDS-907/1',
 	},
 
 	{
@@ -9142,7 +9159,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://rotofrance.com.ar/files/images_rf/II8608.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-987',
+		'codigoCliente': 'FCH-987 / RDS-987',
 	},
 
 	{
@@ -9159,7 +9176,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_759354-MLV32491741419_102019-F.webp',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-928/1',
+		'codigoCliente': 'FCH-928/1 / RDS-928/1',
 	},
 
 	{
@@ -9176,7 +9193,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_759354-MLV32491741419_102019-F.webp',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-953',
+		'codigoCliente': 'FCH-953 / RDS-953',
 	},
 
 	{
@@ -9193,41 +9210,41 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/t4zdZqC/M106-X43571.webp',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-942',
+		'codigoCliente': 'FCH-942 / RDS-942',
 	},
 
 	{
 		'id': 'dc-inducido22',
-		'name': 'Inducido',
+		'name': 'Inducido Arranque T/Mitsubishi Peug/Rena Ph-919/2',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
 		'oem': '919/2',
-		'marca': 'PENDIENTE',
+		'marca': 'Peugeot',
 		'pesoNetoUnitario': '0,41',
 		'descripcion': 'lorem lorem',
-		'url': 'https://i.ibb.co/t4zdZqC/M106-X43571.webp',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_606953-MLA43569123579_092020-O.webp',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-919/2',
+		'codigoCliente': 'FCH-919/2 / RDS-919/2',
 	},
 
 	{
 		'id': 'dc-inducido23',
-		'name': 'Inducido',
+		'name': 'Inducido Arranque T/Mitsubishi Colec Hueco C4/P.307 Ph-919',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
 		'oem': 'M106X06971',
-		'marca': 'PENDIENTE',
+		'marca': 'Peugeot',
 		'pesoNetoUnitario': '0,40',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/ShAAAOSw61ZkfhvC/s-l1600.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-919',
+		'codigoCliente': 'FCH-919 / RDS-919',
 	},
 
 	{
@@ -9244,7 +9261,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/ShAAAOSw61ZkfhvC/s-l1600.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-942/1',
+		'codigoCliente': 'FCH-942/1 / RDS-942/1',
 	},
 
 	{
@@ -9261,7 +9278,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://nosso.com/public/uploads/producto/INN%20VAL001_1.webp',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-929/4',	
+		'codigoCliente': 'FCH-929/4 / RDS-929/4',	
 	},
 
 	{
@@ -9278,7 +9295,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/a9IAAOSwcktk3-28/s-l500.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-929/2',	
+		'codigoCliente': 'FCH-929/2 / RDS-929/2',	
 	},
 
 	{
@@ -9295,7 +9312,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://www.micolini.com/mods/html/fil/Model/Product/25217/320-INNVAL006.jpg.webp',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-929/3',	
+		'codigoCliente': 'FCH-929/3 / RDS-929/3',	
 	},
 
 	{
@@ -9312,7 +9329,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/PYN5Jy0/594526.webp',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-929/1',	
+		'codigoCliente': 'FCH-929/1 / RDS-929/1',	
 	},
 
 	{
@@ -9329,7 +9346,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://nosso.com/public/uploads/producto/INN%20VAL007_1.webp',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-983',	
+		'codigoCliente': 'FCH-983 / RDS-983',	
 	},
 
 	{
@@ -9346,7 +9363,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/31DGDy6wOJL._AC_.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-984',	
+		'codigoCliente': 'FCH-984 / RDS-984',	
 	},
 
 	{
@@ -9363,7 +9380,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/31DGDy6wOJL._AC_.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-907/2',	
+		'codigoCliente': 'FCH-907/2 / RDS-907/2',	
 	},
 
 	{
@@ -9380,7 +9397,160 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/31DGDy6wOJL._AC_.jpg',
 		'categoria': 'Inducido',
-		'codigoCliente': 'FCH-929/5',	
+		'codigoCliente': 'FCH-929/5 / RDS-929/5',	
+	},
+
+	{
+		'id': 'dc-inducido33',
+		'name': 'Inducido Arranque T/Indiel M7r4 Fiat/Ford/VW Ph-934',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '934',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '0,36',
+		'descripcion': 'lorem lorem',
+		'url': 'https://m.media-amazon.com/images/I/31DGDy6wOJL._AC_.jpg',
+		'categoria': 'Inducido',
+		'codigoCliente': 'RDS-934',	
+	},
+
+	{
+		'id': 'dc-inducido34',
+		'name': 'Inducido Arranque T/Bosch Palio 1.6 16v DS189/FF000CD1229',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'F000CD1229/DS189',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_711037-MLA31652880863_082019-O.webp',
+		'categoria': 'Inducido',
+		'codigoCliente': 'RDS47066',	
+	},
+
+	{
+		'id': 'dc-inducido35',
+		'name': 'Inducido Arranque T/Indiel Ph-980/1 Ka/Fiesta Colector Macizo',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '980/1',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '0,37',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/R4qBj5S/980-1.jpg',
+		'categoria': 'Inducido',
+		'codigoCliente': 'RDS-980/1',	
+	},
+
+	{
+		'id': 'dc-inducido36',
+		'name': 'Inducido Arranque T/Bosch Ph-955/3',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '955/3',
+		'marca': 'Isuzu',
+		'pesoNetoUnitario': '0,68',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/R27HrKY/955-3.jpg',
+		'categoria': 'Inducido',
+		'codigoCliente': 'RDS-955/3',	
+	},
+
+	{
+		'id': 'dc-inducido37',
+		'name': 'Inducido Arranque T/Bosch Ph-947/MD607924',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '947',
+		'marca': 'Mitsubishi',
+		'pesoNetoUnitario': '0,95',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/D7LcfdQ/Ph-947.jpg',
+		'categoria': 'Inducido',
+		'codigoCliente': 'RDS-947',	
+	},
+
+	{
+		'id': 'dc-inducido38',
+		'name': 'Inducido Arranque T/Valeo Peug/Ren 1.5 1201-MYV123',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1201-MYV123',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '0,37',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/6ZfwbX4/1201-MYV123.jpg',
+		'categoria': 'Inducido',
+		'codigoCliente': 'RDS-1201-MYV123',	
+	},
+
+	{
+		'id': 'dc-inducido39',
+		'name': 'Inducido Arranque T/Bosch Clio/Logan DS186 F000CD1133',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'F000CD1133/DS186',
+		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_699139-MLA31652957099_082019-O.webp',
+		'categoria': 'Inducido',
+		'codigoCliente': 'RDS47068',	
+	},
+
+	{
+		'id': 'dc-inducido40',
+		'name': 'Inducido Arranque T/Bosch Bora Ph-991/2',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '991/2',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,42',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/G04T2CL/991-2.jpg',
+		'categoria': 'Inducido',
+		'codigoCliente': 'RDS-991/2',	
+	},
+
+	{
+		'id': 'dc-inducido41',
+		'name': 'Inducido Arranque T/Bosch Gol/Voyage 1.0/1.6 DS305/F000AL1338',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'F000AL1338/DS305',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_639958-MLA31652960315_082019-O.webp',
+		'categoria': 'Inducido',
+		'codigoCliente': 'RDS47067',	
 	},
 
 	{
@@ -10095,5 +10265,651 @@ export const items = [
 		'url': 'https://i.ibb.co/6bth0wh/44-GTE3-F1-C.png',
 		'categoria': 'Cuerpo de Aceleración',
 		'codigoCliente': 'RDS47049',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion15',
+		'name': 'Cuerpo De Aceleración Palio Fire 1.3 / Siena 1.0, 1.3',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '46533515',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/kJNRH94/46533515.webp',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47035',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion16',
+		'name': 'Cuerpo De Aceleración Bravo/Idea/Línea/Punto',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '280750137',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_810232-MLA50985170064_082022-O.webp',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47044',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion17',
+		'name': 'Cuerpo De Aceleración Gran Siena / Línea /Idea',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '50GTE3F1D',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/yFf5Wg6/50-GTE3-F1-D.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47057',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion18',
+		'name': 'Cuerpo De Aceleración Fiesta V / Focus/ Mondeo IV',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1537636',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '1,2',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/48zmxM8/1537636.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47030',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion19',
+		'name': 'Cuerpo De Aceleración Ecosport - Fiesta /Focus/Mondeo',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '280750475',
+		'marca': 'Ford',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/48zmxM8/1537636.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47041',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion20',
+		'name': 'Cuerpo De Aceleración Fiesta 1.4 (Fxjb) / 1.6 (Fjyp)',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'VP4M5U-9E927-DC',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '1,5',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/ZMv5Bqj/VP4-M5-U-9-E927-DC.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47043',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion21',
+		'name': 'Cuerpo De Aceleración Tucson /Santa Fe /Sonata',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '35100-25400',
+		'marca': 'Hyundai',
+		'pesoNetoUnitario': '1,5',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/gd3LdKG/35100-25400.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47042',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion22',
+		'name': 'Cuerpo De Aceleración Mini Cooper',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'A2C59511709',
+		'marca': 'Mini',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/r231WrG/A2-C59511709.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47040',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion23',
+		'name': 'Cuerpo De Aceleración P.206 / 307 / Partner',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '1635.Q9',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': '1,6',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/R0xmMK7/1635-Q9.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47052',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion24',
+		'name': 'Cuerpo De Aceleración Megane 1.6 16v',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '7700102870',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,49',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/C90ybX5/7700102870.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47050',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion25',
+		'name': 'Cuerpo De Aceleración Clio 1.2 16v / Peugeot 206 1.2 16v',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'H8200067219',
+		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://eurofrance24.com/media/catalog/product/cache/f219e8731a53104eb3270b8aeeae66ca/6/1/61e13dcba84dbca9e73eb4aae2e1caf0.jpg',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47027',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion26',
+		'name': 'Cuerpo De Aceleración Laguna 2.0 16v / Megane I 2.0 16v',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '8200123061',
+		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/CMTvMkL/8200123061.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47031',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion27',
+		'name': 'Cuerpo De Aceleración Clio I / Twingo 1.2 16v',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '8200568712',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '0,94',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/hY24gLK/8200568712.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47032',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion28',
+		'name': 'Cuerpo De Aceleración Clio I 1.4 16v / 1.6 16v Megane',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '8200171134',
+		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_630190-MLA49565839147_042022-O.webp',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47059',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion29',
+		'name': 'Cuerpo De Aceleración Golf IV 2.0',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '037133064J',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/dm0B7qf/037133064-J.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47025',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion30',
+		'name': 'Cuerpo De Aceleración Cordoba / Ibiza / Vw Golf',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '030133064D',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,5',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/jrfCFq3/030133064-D.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47026',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion31',
+		'name': 'Cuerpo De Aceleración Gol Trend 1.6',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '036133062K',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,2',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_865812-MLA43786513209_102020-O.webp',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47029',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion32',
+		'name': 'Cuerpo De Aceleración Golf 1.8 / Bora 1.8t',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '06A133062BD',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_793924-MLA42345087973_062020-O.webp',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47037',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion33',
+		'name': 'Cuerpo De Aceleración Bora 1.8 - Golf IV 2.0 - New Beetle',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '06A133064H',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/Y84xRCp/06-A133064-H.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47038',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion34',
+		'name': 'Cuerpo De Aceleración Gol 1000 8v 96/00',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '408237730R2',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_948895-MLA31650161822_082019-O.webp',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47039',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion35',
+		'name': 'Cuerpo De Aceleración Bora/Golf 1.8',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '06A133064M',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_689325-MLA31586696816_072019-O.webp',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47045',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion36',
+		'name': 'Cuerpo De Aceleración A3 1.8 T - VW Bora & Golf IV 1.8 T',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '06A133063G',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,2',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_818726-MLA53039928141_122022-O.webp',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47046',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion37',
+		'name': 'Cuerpo De Aceleración A4 & A6 1.8 T - VW Passat 1.8 T',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '058133063Q',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,2',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_755166-MLA29251023140_012019-O.webp',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47047',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion38',
+		'name': 'Cuerpo De Aceleración Golf / Polo - VW Gol 1.6v Flex 2003',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '036133062P',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_702811-MLA71254793944_082023-F.webp',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47053',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion39',
+		'name': 'Cuerpo De Aceleración Gol Trend 1.6 2008>',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '030133062D',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_855385-MLA46751284578_072021-O.webp',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47054',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion40',
+		'name': 'Cuerpo De Aceleración A3 / Cordoba / Leon / Toledo',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '06A133064J',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '3,00',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_929193-MLA71286658228_082023-O.webp',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47055',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion41',
+		'name': 'Cuerpo De Aceleración Passat /Tiguan/Vento/ A3',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '06F133062T',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/HPnPWmC/06-F133062-T.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47056',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion42',
+		'name': 'Cuerpo De Aceleración Golf IV 2.0 99/',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '037133064F',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/cJjzgnj/037133064-F.png',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47060',	
+	},
+
+	{
+		'id': 'dc-cuerpodeaceleracion43',
+		'name': 'Cuerpo De Aceleración A4 2.4 - 2.8 97/07 - A6 3.0 - 2.8',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': '078133063A',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,2',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_879114-MLA45081892830_032021-O.webp',
+		'categoria': 'Cuerpo de Aceleración',
+		'codigoCliente': 'RDS47061',	
+	},
+
+	{
+		'id': 'dc-kitcadena',
+		'name': 'Cadena Distribución 2001-2006 A4 1.8t',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'TK-023',
+		'marca': 'Audi',
+		'pesoNetoUnitario': '2,25',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/fG8gX0B/kitcadena-generica.webp',
+		'categoria': 'Kit Cadena',
+		'codigoCliente': 'RDS44976',	
+	},
+
+	{
+		'id': 'dc-kitcadena2',
+		'name': 'Tensor Scirocco 1.4t 160cv …/2015 / Audi A1 1.4t, 03C109507R',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'TK-023-T',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '0,11',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/n1d7V4z/03-C109507-R.jpg',
+		'categoria': 'Kit Cadena',
+		'codigoCliente': 'RDS45028',	
+	},
+
+	{
+		'id': 'dc-kitcadena3',
+		'name': 'Cadena Distribución A4 / A6 99/05 (2.4/2.7/2.8) 7 Passat 99/05 (2.7/2.8)',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'TK-018-C',
+		'marca': 'Audi',
+		'pesoNetoUnitario': '0,30',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/2sp1W4j/TK-018-C.jpg',
+		'categoria': 'Kit Cadena',
+		'codigoCliente': 'RDS44778',	
+	},
+
+	{
+		'id': 'dc-kitcadena4',
+		'name': 'Kit Cadena Cobalt / Spin Motor 1.3 Jtd',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'TK-053',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '1,90',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/Y325zrw/tk-053.jpg',
+		'categoria': 'Kit Cadena',
+		'codigoCliente': 'RDS45005',	
+	},
+
+	{
+		'id': 'dc-kitcadena5',
+		'name': 'Kit Cadena Distribución Journey 2.4',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'TK-057',
+		'marca': 'Dodge',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_611734-MCO70158622642_062023-O.webp',
+		'categoria': 'Kit Cadena',
+		'codigoCliente': 'RDS45057',	
+	},
+
+	{
+		'id': 'dc-kitcadena6',
+		'name': 'Kit Cadena Argo/Cronos/Mobi/Uno Novo 1.3 Gse 2017/…',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'TK-013',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '1,23',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_884168-MLA50238296478_062022-O.webp',
+		'categoria': 'Kit Cadena',
+		'codigoCliente': 'RDS44356',	
+	},
+
+	{
+		'id': 'dc-kitcadena7',
+		'name': 'Kit Cadena Mercedes Sprinter 415/515 OM 651',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'TK-062',
+		'marca': 'Mercedes Benz',
+		'pesoNetoUnitario': '1,46',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_795966-MLA49600601472_042022-O.webp',
+		'categoria': 'Kit Cadena',
+		'codigoCliente': 'RDS45275',	
+	},
+
+	{
+		'id': 'dc-kitcadena8',
+		'name': 'Kit Cadena Ford Zetec/Rocam 8v 1.0/1.3/1.6 2000/...',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'TK-014',
+		'marca': 'Ford',
+		'pesoNetoUnitario': '1,04',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_812912-MLA54871159401_042023-O.webp',
+		'categoria': 'Kit Cadena',
+		'codigoCliente': 'RDS44970',	
+	},
+
+	{
+		'id': 'dc-kitcadena9',
+		'name': 'Kit Cadena Ranger Puma 2.2/ Transit V.347 2.4',
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'TK-011',
+		'marca': 'Ford',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_651267-MLA54007966219_022023-O.webp',
+		'categoria': 'Kit Cadena',
+		'codigoCliente': 'RDS44354',	
 	},
 ]
