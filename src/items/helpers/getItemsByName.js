@@ -5,5 +5,9 @@ export const getItemsByName = (name = '')=>{
 
 	if(name.length === 0 ) return []
 
-	return items.filter( hero => hero.name.toLocaleLowerCase().includes(name))
+	
+	return items.filter( item => (
+		item.pais.toLocaleLowerCase().includes(name) || item.name.toLocaleLowerCase().includes(name) || item.oem.toLocaleLowerCase().includes(name) || item.pais.toLocaleLowerCase().includes(name) || item.codigoCliente.toLocaleLowerCase().includes(name)
+	)
+	)
 }
