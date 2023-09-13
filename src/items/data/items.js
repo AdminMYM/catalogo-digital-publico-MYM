@@ -6205,6 +6205,23 @@ export const items = [
 	},
 
 	{
+		'id': 'dc-poleas75',
+		'name': 'Polea Viscosa Mitsubishi Montero/Pajero Motor 3.0 / 3.5 2000/2007',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'ME-303502',
+		'marca': 'Mitsubishi',
+		'pesoNetoUnitario': '1,68',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/vZj4qS2/ME-303502.jpg',
+		'categoria':'Poleas',
+		'codigoCliente': 'RDS44850',
+	},
+
+	{
 		'id': 'dc-radiador',
 		'name': 'Radiador P.1007/207/208 1.6/1.6 HDI 2006/…',	
 		'publisher': 'otro',
