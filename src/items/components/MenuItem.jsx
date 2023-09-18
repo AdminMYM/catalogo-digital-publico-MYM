@@ -79,12 +79,11 @@ export const MenuItem = () => {
 				<li className='list-item' >Sensor de Posición del Cigüeñal</li>
 				<li className='list-item' >Sensor de Velocidad</li>
 				<li className='list-item' >Sonda Lambda</li>
-				<li className='list-item' >Soportes Cardan</li>
-				<li className='list-item' >Soporte Motor</li>
+				<li className='list-item' >Soportes</li>
 				<li className='list-item' >Tanque Expansión</li>
 				<li className='list-item' >Termostatos</li>
 				<li className='list-item' >Termostatos de Agua</li>
-				<li className='list-item' >Tuercas Antirrobo</li>
+				<li className='list-item' >Tuercas</li>
 				<li className='list-item' >Volante Bimasa</li>
 			</ul>
 			<div className="menu-background"></div>
