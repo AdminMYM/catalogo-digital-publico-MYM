@@ -43,7 +43,6 @@ export const MenuItem = () => {
 				<li className='list-item' >Bujía de Precalentamiento</li>
 				<li className='list-item' >Cable Sensor</li>
 				<li className='list-item' >Caja Dirección</li>
-				<li className='list-item' >Cazoleta Amortiguador</li>
 				<li className='list-item' >Crapodina Hidráulica</li>
 				<li className='list-item' >Collarín Hidráulico</li>
 				<li className='list-item' >Conmutador Luces</li>
