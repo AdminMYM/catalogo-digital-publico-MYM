@@ -2192,7 +2192,7 @@ export const items = [
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
-		'url': 'https://www.auto-diel.sk/fotky46257/fotos/POMPA-PALIWA-KPL-C-C4-C5-P-307-2-0HDI-1525-Q5.jpg',
+		'url': 'https://i.ibb.co/KGvHry1/1525-Q5.png',
 		'categoria':'Bomba Combustible',
 		'codigoCliente': 'FCH-1621',
 	},
