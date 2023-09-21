@@ -12,7 +12,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '17422752632',
+		'oem': 'MYM1111257',
 		'marca': 'Mini',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'Electroventilador original Mini Cooper de 350W para Mini Cooper S y John Cooper Works 2009 al 2014 de los tipos R55 (Mini Clubman y Mini Clubman LCI), R56 (Mini y Mini LCI), R57 (Cabrio y Cabrio LCI), R58 (Mini Coupé) y R59 (Mini Roadster).',
