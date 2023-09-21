@@ -7,7 +7,7 @@ export const getItemsByName = (name = '')=>{
 
 	
 	return items.filter( item => (
-		item.name.toLocaleLowerCase().includes(name) || item.oem.toLocaleLowerCase().includes(name) || item.pais.toLocaleLowerCase().includes(name) || item.codigoCliente.toLocaleLowerCase().includes(name) || item.marca.toLocaleLowerCase().includes(name)
+		item.name.toLocaleLowerCase().includes(name) || item.oem.toLocaleLowerCase().includes(name) || item.pais.toLocaleLowerCase().includes(name) || item.marca.toLocaleLowerCase().includes(name)
 	)
 	)
 }

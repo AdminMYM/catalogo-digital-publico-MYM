@@ -29,10 +29,10 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '17101475577',
+		'oem': 'MYM1111258',
 		'marca': 'Mini',
 		'pesoNetoUnitario': 'PENDIENTE',
-		'descripcion': 'Electroventilador de enfriamiento original para Mini Cooper 17101475577. Alta calidad, funcionamiento estable y larga duración.',
+		'descripcion': 'Electroventilador de enfriamiento original para Mini Cooper MYM1111258. Alta calidad, funcionamiento estable y larga duración.',
 		'url': 'https://i.ebayimg.com/images/g/vPsAAOSwmsdgISJr/s-l500.jpg',
 		'categoria':'Electroventiladores',
 		'codigoCliente': 'WILLHELM-PENDIENTE',
@@ -46,10 +46,10 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6001550562',
+		'oem': 'MYM1111260',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
-		'descripcion': 'Electroventilador de refrigeración eléctrica para DACIA RENAULT LOGAN SANDERO 1.5. 1.6 6001550562. Calidad inigualable y diseño único. Aplica para los siguientes modelos: RENAULT Clio 1.2 1999–2012, RENAULT Clio 1.6 1991–1909, RENAULT Clio 1.9 Diesel 1993–2003, y RENAULT Clio 2.0 1999–2005.',
+		'descripcion': 'Electroventilador de refrigeración eléctrica para DACIA RENAULT LOGAN SANDERO 1.5. 1.6 MYM1111260. Calidad inigualable y diseño único. Aplica para los siguientes modelos: RENAULT Clio 1.2 1999–2012, RENAULT Clio 1.6 1991–1909, RENAULT Clio 1.9 Diesel 1993–2003, y RENAULT Clio 2.0 1999–2005.',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_608897-MLA70418192692_072023-F.webp',
 		'categoria':'Electroventiladores',
 		'codigoCliente': 'WILLHELM-PENDIENTE',
@@ -63,7 +63,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6001550769',
+		'oem': 'MYM1111261',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'Ventilador de refrigeración de radiador completo con aspas para Renault SANDERO LOGAN DACIA.',
@@ -80,7 +80,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7701070217/V9010780',
+		'oem': 'MYM1111262',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'Electroventilador (ventilador) Radiador 6 aspas Renault Clio 1.0 KANGOO SCENIC MEGANE LOGAN SANDERO - 1997 hasta 2012.',
@@ -1338,7 +1338,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '71794718',
+		'oem': 'MYM75753322',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1355,7 +1355,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2053.R3',
+		'oem': 'MYM75753323',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1372,7 +1372,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2050.J5/2050.R7',
+		'oem': 'MYM75753324',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1389,7 +1389,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2051.S7/95666915/2052.A0',
+		'oem': 'MYM75753325',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1406,7 +1406,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2052.T6',
+		'oem': 'MYM75753326',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1423,7 +1423,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2053.09',
+		'oem': 'MYM75753327',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1440,7 +1440,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '826211',
+		'oem': 'MYM75753328',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1457,7 +1457,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '826212',
+		'oem': 'MYM75753329',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': '3,98',
 		'descripcion': 'lorem lorem',
@@ -1474,7 +1474,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '302051060R',
+		'oem': 'MYM75753330',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1491,7 +1491,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '30 20 532 01R/30 62 014 73R',
+		'oem': 'MYM75753331',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1508,7 +1508,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7701476327/306200650R',
+		'oem': 'MYM75753332',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1525,7 +1525,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '302054789R/302051548R',
+		'oem': 'MYM75753333',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1542,7 +1542,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'FT806205U',
+		'oem': 'MYM75753334',
 		'marca': 'PENDIENTE',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1984,7 +1984,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '4249.G1/4246.W7',
+		'oem': 'MYM14148811',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2001,7 +2001,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '4249.17/ 4246.W2',
+		'oem': 'MYM14148812',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2018,7 +2018,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '4249.K1/4249.93',
+		'oem': 'MYM14148813',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2035,7 +2035,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '402063149R/40 20 676 15R',
+		'oem': 'MYM14148814',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2052,7 +2052,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6001547603/6001546860/6001543456',
+		'oem': 'MYM3131891',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2477,7 +2477,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '503177',
+		'oem': 'MYM1142262',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2494,7 +2494,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9817592480',
+		'oem': 'MYM1142263',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2505,13 +2505,13 @@ export const items = [
 
 	{
 		'id': 'dc-baseamortiguador3',
-		'name': 'Base Amort. 308/3008/508/5008/Partner R',	
+		'name': 'Base Amort. 308/3008/508/5008/Partner',	
 		'publisher': 'otro',
 		'pais': 'México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9800479780',
+		'oem': 'MYM1142264',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2528,7 +2528,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5031.A3',
+		'oem': 'MYM1142265',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2545,7 +2545,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5038.24',
+		'oem': 'MYM1142266',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2562,7 +2562,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9800479780',
+		'oem': 'MYM1142267',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2579,7 +2579,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7700827435',
+		'oem': 'MYM1142268',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2596,7 +2596,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7700829529',
+		'oem': 'MYM1142269',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2613,7 +2613,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '543A05804R/543200001R',
+		'oem': 'MYM1142270',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2630,7 +2630,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '543A00135R/543A03661R',
+		'oem': 'MYM1142271',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2647,7 +2647,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7701208891',
+		'oem': 'MYM1142272',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2664,7 +2664,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5038,40',
+		'oem': 'MYM1142273',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2681,7 +2681,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5038,36',
+		'oem': 'MYM1142274',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2698,7 +2698,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '11519455978',
+		'oem': 'MYM1842262',
 		'marca': 'BMW',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2715,7 +2715,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '11517513062',
+		'oem': 'MYM1842263',
 		'marca': 'Mini',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2732,7 +2732,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '11517520123',
+		'oem': 'MYM1842264',
 		'marca': 'Mini',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2749,7 +2749,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '11518512443',
+		'oem': 'MYM1842265',
 		'marca': 'Mini',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2766,7 +2766,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '120459/11 51 7 619 020',
+		'oem': 'MYM1842266',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2783,7 +2783,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8200146297',
+		'oem': 'MYM1842267',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2800,7 +2800,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2C4181',
+		'oem': 'MYM1112262',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2817,7 +2817,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9819938580/1920.RT',
+		'oem': 'MYM2121771',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2834,7 +2834,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9819938480/13 53 7 528 345',
+		'oem': 'MYM2121772',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2851,7 +2851,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5131.A9/5131.F8',
+		'oem': 'MYM4242965',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2868,7 +2868,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5131.94',
+		'oem': 'MYM4242966',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2885,7 +2885,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1809.21/1809.29/9613305380',
+		'oem': 'MYM4242967',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2902,7 +2902,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5960.E6',
+		'oem': 'MYM8484661',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2919,7 +2919,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '4545.K3',
+		'oem': 'MYM9494662',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2936,7 +2936,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '306206822R/8200805652',
+		'oem': 'MYM8787654',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2953,7 +2953,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '255403601R',
+		'oem': 'MYM87879654',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2970,7 +2970,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1109.AY/1109 Z5',
+		'oem': 'MYM96963528P',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2987,7 +2987,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1906.E6/9672314980',
+		'oem': 'MYM96963529P',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3004,7 +3004,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1901.97/9809721080',
+		'oem': 'MYM96963530P',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3021,7 +3021,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1109.CK/9467521180',
+		'oem': 'MYM96963531P',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3038,7 +3038,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1614157280',
+		'oem': 'MYM60683288F',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3055,7 +3055,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '50513444/50521046',
+		'oem': 'MYM757575632',
 		'marca': 'Alfa Romeo',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3072,7 +3072,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '50513442',
+		'oem': 'MYM757575633',
 		'marca': 'Alfa Romeo',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3089,7 +3089,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9815014680',
+		'oem': 'MYM757575634',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3106,7 +3106,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9815014380',
+		'oem': 'MYM757575635',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3123,7 +3123,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '98 316 264 80',
+		'oem': 'MYM757575636',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3140,7 +3140,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '98 320 392 80',
+		'oem': 'MYM757575637',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3153,11 +3153,11 @@ export const items = [
 		'id': 'dc-parrillasuspension7',
 		'name': 'Parrilla Susp. Del. Inf. Izq. Peugeot 206 1998/…',	
 		'publisher': 'otro',
-		'pais': 'México',
+		'pais': 'Argentina/México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '3520.G8',
+		'oem': 'MYM757575638',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': '4,30',
 		'descripcion': 'lorem lorem',
@@ -3170,11 +3170,11 @@ export const items = [
 		'id': 'dc-parrillasuspension8',
 		'name': 'Parrilla Susp. Del. Inf. Der. Peugeot 206 1998/…',	
 		'publisher': 'otro',
-		'pais': 'México',
+		'pais': 'Argentina/México',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '3521.C8',
+		'oem': 'MYM757575639',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': '4,30',
 		'descripcion': 'lorem lorem',
@@ -3191,7 +3191,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '3521.E7',
+		'oem': 'MYM757575640',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3208,7 +3208,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7700781034',
+		'oem': 'MYM757575641',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3225,7 +3225,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7700781035',
+		'oem': 'MYM757575642',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3242,7 +3242,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '545008682R',
+		'oem': 'MYM757575643',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3259,7 +3259,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '545014055R',
+		'oem': 'MYM757575644',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3684,7 +3684,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1984 F8',
+		'oem': 'MYM868685962',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3701,7 +3701,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '280158057',
+		'oem': 'MYM868685963',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4109,7 +4109,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8200207307/7700419547',
+		'oem': 'MYM595959254R',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4126,7 +4126,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8200207313/7700419548',
+		'oem': 'MYM595959255R',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4143,7 +4143,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8200150223/40014830412',
+		'oem': 'MYM595959256R',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4160,7 +4160,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8200150222/40015148112',
+		'oem': 'MYM595959257R',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4177,7 +4177,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6001548866',
+		'oem': 'MYM595959258R',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4194,7 +4194,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6001548864',
+		'oem': 'MYM595959259R',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4211,7 +4211,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '400155389R',
+		'oem': 'MYM595959260R',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4228,7 +4228,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '400149807R',
+		'oem': 'MYM595959261R',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4245,7 +4245,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7701205499',
+		'oem': 'MYM221522367',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4806,7 +4806,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51777300819',
+		'oem': 'MYM99916993214',
 		'marca': 'Mini',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4823,7 +4823,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '50514469',
+		'oem': 'MYM3636362571',
 		'marca': 'Alfa Romeo',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',

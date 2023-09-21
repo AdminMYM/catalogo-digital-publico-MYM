@@ -36,7 +36,7 @@ export const SearchPage = () => {
 					<form onSubmit={onSearchSubmit}>
 						<input
 							type="text"
-							placeholder="Buscar por código de la pieza, código cliente, nombre, marca y/o país"
+							placeholder="Buscar por código MYM de la pieza, nombre, marca y/o país"
 							className="form-control"
 							name="searchText"
 							autoComplete='off'
