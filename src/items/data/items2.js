@@ -7,7 +7,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '377199382',
+		'oem': 'MYM9159115',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,93',
 		'descripcion': 'lorem lorem',
@@ -24,7 +24,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1K0199262M',
+		'oem': 'MYM9159116',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,84',
 		'descripcion': 'lorem lorem',
@@ -41,7 +41,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5U0199167',
+		'oem': 'MYM9159117',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,14',
 		'descripcion': 'lorem lorem',
@@ -58,7 +58,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1J0199262B',
+		'oem': 'MYM9159118',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -75,7 +75,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1J0199851N',
+		'oem': 'MYM9159119',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,05',
 		'descripcion': 'lorem lorem',
@@ -92,7 +92,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1J0199555AH',
+		'oem': 'MYM9159120',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,86',
 		'descripcion': 'lorem lorem',
@@ -109,7 +109,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2H0511155',
+		'oem': 'MYM9159121',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,33',
 		'descripcion': 'lorem lorem',
@@ -126,7 +126,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1S0199262',
+		'oem': 'MYM9159122',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,87',
 		'descripcion': 'lorem lorem',
@@ -143,7 +143,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1S0199851',
+		'oem': 'MYM9159123',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,73',
 		'descripcion': 'lorem lorem',
@@ -160,7 +160,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1S0199555B/1S0199555A',
+		'oem': 'MYM9159124',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -177,7 +177,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2H0511155B',
+		'oem': 'MYM9159125',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,28',
 		'descripcion': 'lorem lorem',
@@ -194,7 +194,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1K0199867Q',
+		'oem': 'MYM9159126',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,20',
 		'descripcion': 'lorem lorem',
@@ -211,7 +211,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1K0199868Q',
+		'oem': 'MYM9159127',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,20',
 		'descripcion': 'lorem lorem',
@@ -228,7 +228,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1K0199555Q',
+		'oem': 'MYM9159128',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,58',
 		'descripcion': 'lorem lorem',
@@ -245,7 +245,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1S0199851',
+		'oem': 'MYM9159129',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,73',
 		'descripcion': 'lorem lorem',
@@ -262,7 +262,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1J0199555B',
+		'oem': 'MYM9159130',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,83',
 		'descripcion': 'lorem lorem',
@@ -279,7 +279,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1S0199851E',
+		'oem': 'MYM9159131',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,73',
 		'descripcion': 'lorem lorem',
@@ -296,7 +296,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1702983/AV61-3A42',
+		'oem': 'MYM9159132',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -313,7 +313,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51877337',
+		'oem': 'MYM9159133',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -330,7 +330,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51921213',
+		'oem': 'MYM9159134',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -347,7 +347,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52050501',
+		'oem': 'MYM9159135',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -364,7 +364,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52004316',
+		'oem': 'MYM9159136',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -381,7 +381,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52004329',
+		'oem': 'MYM9159137',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -398,7 +398,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52068556',
+		'oem': 'MYM9159138',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -415,7 +415,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1477858S1/1570284',
+		'oem': 'MYM9159139',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -432,7 +432,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '13248630',
+		'oem': 'MYM9159140',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -449,7 +449,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '26262289',
+		'oem': 'MYM9159141',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -466,7 +466,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '26298703',
+		'oem': 'MYM9159142',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -483,7 +483,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '46842704',
+		'oem': 'MYM9159143',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -500,7 +500,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51744579',
+		'oem': 'MYM9159144',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -517,7 +517,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51750603',
+		'oem': 'MYM9159145',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -534,7 +534,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51761602',
+		'oem': 'MYM9159146',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -551,7 +551,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51761607',
+		'oem': 'MYM9159147',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -568,7 +568,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51765196',
+		'oem': 'MYM9159148',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -585,7 +585,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51795195',
+		'oem': 'MYM9159149',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -602,7 +602,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51831078',
+		'oem': 'MYM9159150',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -619,7 +619,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51834103',
+		'oem': 'MYM9159151',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -636,7 +636,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51834107',
+		'oem': 'MYM9159152',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -653,7 +653,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51834114',
+		'oem': 'MYM9159153',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -670,7 +670,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51843060',
+		'oem': 'MYM9159154',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -687,7 +687,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51844475',
+		'oem': 'MYM9159155',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -704,7 +704,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51845230',
+		'oem': 'MYM9159156',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -721,7 +721,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51845495',
+		'oem': 'MYM9159157',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -738,7 +738,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51845497',
+		'oem': 'MYM9159158',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -755,7 +755,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51879121',
+		'oem': 'MYM9159159',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -772,7 +772,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51884895',
+		'oem': 'MYM9159160',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -789,7 +789,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51921214',
+		'oem': 'MYM9159161',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -806,7 +806,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51940090',
+		'oem': 'MYM9159162',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -823,7 +823,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51963175',
+		'oem': 'MYM9159163',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -840,7 +840,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51987500',
+		'oem': 'MYM9159164',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -857,7 +857,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51987509',
+		'oem': 'MYM9159165',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -874,7 +874,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51991080',
+		'oem': 'MYM9159166',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -891,7 +891,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52034711',
+		'oem': 'MYM9159167',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -908,7 +908,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52045705',
+		'oem': 'MYM9159168',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -925,7 +925,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52045706',
+		'oem': 'MYM9159169',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -942,7 +942,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52083762',
+		'oem': 'MYM9159170',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -959,7 +959,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52086864',
+		'oem': 'MYM9159171',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -976,7 +976,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '93384856',
+		'oem': 'MYM9159172',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -993,7 +993,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '95090589',
+		'oem': 'MYM9159173',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1010,7 +1010,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '95190896',
+		'oem': 'MYM9159174',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '1,64',
 		'descripcion': 'lorem lorem',
@@ -1027,7 +1027,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '95265891',
+		'oem': 'MYM9159175',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1044,7 +1044,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '95327800',
+		'oem': 'MYM9159176',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1061,7 +1061,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '95463563',
+		'oem': 'MYM9159177',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1078,7 +1078,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '95493722',
+		'oem': 'MYM9159178',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '2,90',
 		'descripcion': 'lorem lorem',
@@ -1095,7 +1095,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '96852643',
+		'oem': 'MYM9159179',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1112,7 +1112,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1326573080',
+		'oem': 'MYM9159180',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1129,7 +1129,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1335129080',
+		'oem': 'MYM9159181',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1146,7 +1146,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1350788080',
+		'oem': 'MYM9159182',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1163,7 +1163,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1368668080',
+		'oem': 'MYM9159183',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1180,7 +1180,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7700489715',
+		'oem': 'MYM9159184',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1197,7 +1197,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7700832256',
+		'oem': 'MYM9159185',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1214,7 +1214,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8200222463',
+		'oem': 'MYM9159186',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1231,7 +1231,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8200688875',
+		'oem': 'MYM9159187',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1248,7 +1248,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9814854280',
+		'oem': 'MYM9159188',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1265,7 +1265,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9814854380',
+		'oem': 'MYM9159189',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1282,7 +1282,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '112101292R/113751934R',
+		'oem': 'MYM9159190',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1299,7 +1299,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '112106541R/112101292R',
+		'oem': 'MYM9159191',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1316,7 +1316,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '112108798R/112107050R',
+		'oem': 'MYM9159192',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1333,7 +1333,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '112212175R/112338423R',
+		'oem': 'MYM9159193',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1350,7 +1350,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '112381035R',
+		'oem': 'MYM9159194',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1367,7 +1367,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '112387053R/8200805813',
+		'oem': 'MYM9159195',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1384,7 +1384,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '113605631R/113609519R',
+		'oem': 'MYM9159196',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1401,7 +1401,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1224042/3M516F012AG',
+		'oem': 'MYM9159197',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1418,7 +1418,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '13347455/13248875',
+		'oem': 'MYM9159198',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1435,7 +1435,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1350789080/5038.89',
+		'oem': 'MYM9159199',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1452,7 +1452,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1806.96/1806.59',
+		'oem': 'MYM9159200',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1469,7 +1469,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1806.96/1806.84',
+		'oem': 'MYM9159201',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1486,7 +1486,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1806A6/180693/1806J8',
+		'oem': 'MYM9159202',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1503,7 +1503,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1807.GJ/1807.FF',
+		'oem': 'MYM9159203',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1520,7 +1520,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1M526068AA',
+		'oem': 'MYM9159204',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1537,7 +1537,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '25947935/96852608/682079',
+		'oem': 'MYM9159205',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1554,7 +1554,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2N15/6F012/LA',
+		'oem': 'MYM9159206',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1571,7 +1571,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2N156F012NA/75456F012AA',
+		'oem': 'MYM9159207',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1588,7 +1588,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2N156P082CA',
+		'oem': 'MYM9159208',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1605,7 +1605,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2Q0199555AB/2QB199555E',
+		'oem': 'MYM9159209',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1622,7 +1622,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2Q0199851AD',
+		'oem': 'MYM9159210',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1639,7 +1639,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2Q0199851AF',
+		'oem': 'MYM9159211',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1656,7 +1656,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2QB199262A',
+		'oem': 'MYM9159212',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1673,7 +1673,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2QB199262B',
+		'oem': 'MYM9159213',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1690,7 +1690,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2QB199555D/2QB199555C',
+		'oem': 'MYM9159214',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1707,7 +1707,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2S416F012AA/1139257',
+		'oem': 'MYM9159215',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1724,7 +1724,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2S557M124AB',
+		'oem': 'MYM9159216',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1741,7 +1741,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2S657M121AB/2N157M121AA',
+		'oem': 'MYM9159217',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1758,7 +1758,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '3M513K155DC',
+		'oem': 'MYM9159218',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1775,7 +1775,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '48752-0D070',
+		'oem': 'MYM9159219',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1792,7 +1792,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5038.78/5038.22',
+		'oem': 'MYM9159220',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1809,7 +1809,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5142.34/5142.32',
+		'oem': 'MYM9159221',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1826,7 +1826,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51761609/51782160',
+		'oem': 'MYM9159222',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1843,7 +1843,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51761830/51788532',
+		'oem': 'MYM9159223',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1860,7 +1860,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52068330/52068329',
+		'oem': 'MYM9159224',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1877,7 +1877,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52079901/51987497',
+		'oem': 'MYM9159225',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1894,7 +1894,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '543207065R',
+		'oem': 'MYM9159226',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -1915,7 +1915,7 @@ export const items2 = [
 		'marca': 'BMW',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
-		'url': 'https://m.media-amazon.com/images/I/513i1fSnIDS._AC_SL1500_.jpg',
+		'url': 'https://i.ibb.co/xLwXdsX/1920-LR.png',
 		'categoria':'Sensor de Posición del Cigüeñal',
 		'codigoCliente': 'WILLHELM-WH191422',
 	},
@@ -3356,7 +3356,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '93248876',
+		'oem': 'MYM01027201',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3373,7 +3373,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '12638824/099700-0850',
+		'oem': 'MYM01027202',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '0,218',
 		'descripcion': 'lorem lorem',
@@ -3390,7 +3390,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '55230507/F000ZS0236',
+		'oem': 'MYM01027203',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3407,7 +3407,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '099700-072/30520-P8E-A01',
+		'oem': 'MYM01027204',
 		'marca': 'Honda',
 		'pesoNetoUnitario': '0,20',
 		'descripcion': 'lorem lorem',
@@ -3424,7 +3424,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '9970018',
+		'oem': 'MYM01027207',
 		'marca': 'Honda',
 		'pesoNetoUnitario': '0,21',
 		'descripcion': 'lorem lorem',
@@ -3441,7 +3441,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '30520-RNA-A01',
+		'oem': 'MYM01027208',
 		'marca': 'Honda',
 		'pesoNetoUnitario': '0,186',
 		'descripcion': 'lorem lorem',
@@ -3458,7 +3458,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '30520-R40007',
+		'oem': 'MYM01027209',
 		'marca': 'Honda',
 		'pesoNetoUnitario': '0,19',
 		'descripcion': 'lorem lorem',
@@ -3475,7 +3475,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '30520-PGKA01/30520-PDK-A01',
+		'oem': 'MYM01027210',
 		'marca': 'Honda',
 		'pesoNetoUnitario': '0,195',
 		'descripcion': 'lorem lorem',
@@ -3492,7 +3492,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '30520-5A2-A01',
+		'oem': 'MYM01027211',
 		'marca': 'Honda',
 		'pesoNetoUnitario': '0,188',
 		'descripcion': 'lorem lorem',
@@ -3509,7 +3509,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '99700101',
+		'oem': 'MYM01027212',
 		'marca': 'Honda',
 		'pesoNetoUnitario': '0,186',
 		'descripcion': 'lorem lorem',
@@ -3526,7 +3526,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-3C100/27301-3C000',
+		'oem': 'MYM01027213',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,20',
 		'descripcion': 'lorem lorem',
@@ -3543,7 +3543,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-26600',
+		'oem': 'MYM01027214',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,85',
 		'descripcion': 'lorem lorem',
@@ -3560,7 +3560,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27300-3F100',
+		'oem': 'MYM01027215',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,21',
 		'descripcion': 'lorem lorem',
@@ -3577,7 +3577,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-2B100',
+		'oem': 'MYM01027216',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,186',
 		'descripcion': 'lorem lorem',
@@ -3594,7 +3594,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-23700',
+		'oem': 'MYM01027217',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '1,01',
 		'descripcion': 'lorem lorem',
@@ -3611,7 +3611,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-03200',
+		'oem': 'MYM01027218',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,19',
 		'descripcion': 'lorem lorem',
@@ -3628,7 +3628,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-22600/27301-23710',
+		'oem': 'MYM01027219',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,837',
 		'descripcion': 'lorem lorem',
@@ -3645,7 +3645,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-03200/27301-03110',
+		'oem': 'MYM01027220',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,19',
 		'descripcion': 'lorem lorem',
@@ -3662,7 +3662,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-38020',
+		'oem': 'MYM01027221',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,34',
 		'descripcion': 'lorem lorem',
@@ -3679,7 +3679,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27300-2E000',
+		'oem': 'MYM01027222',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,19',
 		'descripcion': 'lorem lorem',
@@ -3696,7 +3696,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-23500/27301-23510',
+		'oem': 'MYM01027223',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3713,7 +3713,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-37120/2730137110',
+		'oem': 'MYM01027224',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3730,7 +3730,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-3E100',
+		'oem': 'MYM01027225',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,19',
 		'descripcion': 'lorem lorem',
@@ -3747,7 +3747,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-3C000/37301-3C000',
+		'oem': 'MYM01027226',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,24',
 		'descripcion': 'lorem lorem',
@@ -3764,7 +3764,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-13715/27301-2B010',
+		'oem': 'MYM01027227',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3781,7 +3781,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-2B000',
+		'oem': 'MYM01027228',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,18',
 		'descripcion': 'lorem lorem',
@@ -3798,7 +3798,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-3E400',
+		'oem': 'MYM01027229',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,19',
 		'descripcion': 'lorem lorem',
@@ -3815,7 +3815,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-23700/27301-23710',
+		'oem': 'MYM01027230',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '1,01',
 		'descripcion': 'lorem lorem',
@@ -3832,7 +3832,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-22040',
+		'oem': 'MYM01027231',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '1,00',
 		'descripcion': 'lorem lorem',
@@ -3849,7 +3849,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-37100',
+		'oem': 'MYM01027232',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3866,7 +3866,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-2B010',
+		'oem': 'MYM01027233',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '0,18',
 		'descripcion': 'lorem lorem',
@@ -3883,7 +3883,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-3E400',
+		'oem': 'MYM01027234',
 		'marca': 'Kia',
 		'pesoNetoUnitario': '0,19',
 		'descripcion': 'lorem lorem',
@@ -3900,7 +3900,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-04000',
+		'oem': 'MYM01027235',
 		'marca': 'Kia',
 		'pesoNetoUnitario': '0,19',
 		'descripcion': 'lorem lorem',
@@ -3917,7 +3917,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '0K247-18-100A/0K247-18100',
+		'oem': 'MYM01027236',
 		'marca': 'Kia',
 		'pesoNetoUnitario': '0,37',
 		'descripcion': 'lorem lorem',
@@ -3934,7 +3934,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '0K30E1810X/0K30E1810XZ',
+		'oem': 'MYM01027237',
 		'marca': 'Kia',
 		'pesoNetoUnitario': '1,15',
 		'descripcion': 'lorem lorem',
@@ -3951,7 +3951,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '37301-23400/0324622194',
+		'oem': 'MYM01027238',
 		'marca': 'Kia',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -3968,7 +3968,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27301-26640',
+		'oem': 'MYM01027239',
 		'marca': 'Kia',
 		'pesoNetoUnitario': '0,18',
 		'descripcion': 'lorem lorem',
@@ -3985,7 +3985,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'MR994643/MR994642',
+		'oem': 'MYM01027240',
 		'marca': 'Mitsubishi',
 		'pesoNetoUnitario': '0,17',
 		'descripcion': 'lorem lorem',
@@ -4002,7 +4002,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '22448-4M500',
+		'oem': 'MYM01027241',
 		'marca': 'Nissan',
 		'pesoNetoUnitario': '0,23',
 		'descripcion': 'lorem lorem',
@@ -4019,7 +4019,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '90919-02238',
+		'oem': 'MYM01027242',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4036,7 +4036,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '90919-02255/90919-02251',
+		'oem': 'MYM01027243',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4053,7 +4053,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '90919-02250',
+		'oem': 'MYM01027244',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4070,7 +4070,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '90919-02244',
+		'oem': 'MYM01027245',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4087,7 +4087,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '90919-02236/90919-05087',
+		'oem': 'MYM01027246',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': '0,22',
 		'descripcion': 'lorem lorem',
@@ -4104,7 +4104,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '90919-02164/94404545',
+		'oem': 'MYM01027247',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4121,7 +4121,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '04E 905 110 L/04E 905 110 D',
+		'oem': 'MYM01027248',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4138,7 +4138,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '3705100-E01-00/2036001200',
+		'oem': 'MYM01027249',
 		'marca': 'Geely',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4699,7 +4699,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '934',
+		'oem': 'MYM6254501',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': '0,36',
 		'descripcion': 'lorem lorem',
@@ -4710,13 +4710,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-inducido34',
-		'name': 'Inducido Arranque T/Bosch Palio 1.6 16v DS189/FF000CD1229',
+		'name': 'Inducido Arranque T/Bosch Palio 1.6 16v MYM6254502',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'F000CD1229/DS189',
+		'oem': 'MYM6254502',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4733,7 +4733,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '980/1',
+		'oem': 'MYM6254503',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,37',
 		'descripcion': 'lorem lorem',
@@ -4750,7 +4750,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '955/3',
+		'oem': 'MYM6254504',
 		'marca': 'Isuzu',
 		'pesoNetoUnitario': '0,68',
 		'descripcion': 'lorem lorem',
@@ -4761,13 +4761,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-inducido37',
-		'name': 'Inducido Arranque T/Bosch Ph-947/MD607924',
+		'name': 'Inducido Arranque T/Bosch Ph-947',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '947',
+		'oem': 'MYM6254505',
 		'marca': 'Mitsubishi',
 		'pesoNetoUnitario': '0,95',
 		'descripcion': 'lorem lorem',
@@ -4778,13 +4778,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-inducido38',
-		'name': 'Inducido Arranque T/Valeo Peug/Ren 1.5 1201-MYV123',
+		'name': 'Inducido Arranque T/Valeo Peug/Ren 1.5 MYM6254506',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '1201-MYV123',
+		'oem': 'MYM6254506',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': '0,37',
 		'descripcion': 'lorem lorem',
@@ -4795,13 +4795,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-inducido39',
-		'name': 'Inducido Arranque T/Bosch Clio/Logan DS186 F000CD1133',
+		'name': 'Inducido Arranque T/Bosch Clio/Logan MYM6254507',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'F000CD1133/DS186',
+		'oem': 'MYM6254507',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -4818,7 +4818,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '991/2',
+		'oem': 'MYM6254508',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,42',
 		'descripcion': 'lorem lorem',
@@ -4829,13 +4829,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-inducido41',
-		'name': 'Inducido Arranque T/Bosch Gol/Voyage 1.0/1.6 DS305/F000AL1338',
+		'name': 'Inducido Arranque T/Bosch Gol/Voyage 1.0/1.6 MYM6254509',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'F000AL1338/DS305',
+		'oem': 'MYM6254509',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5328,7 +5328,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '06F133062E',
+		'oem': 'MYM05532401',
 		'marca': 'Audi',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5339,13 +5339,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-cuerpodeaceleracion2',
-		'name': 'Cuerpo De Aceleración Agile 1.4 94703005',
+		'name': 'Cuerpo De Aceleración Agile 1.4 MYM05532402',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '94703005',
+		'oem': 'MYM05532402',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5356,13 +5356,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-cuerpodeaceleracion3',
-		'name': 'Cuerpo De Aceleración Corsa 1.6 8v Mpfi. Completo 17202032',
+		'name': 'Cuerpo De Aceleración Corsa 1.6 8v Mpfi. Completo MYM05532403',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '17202032',
+		'oem': 'MYM05532403',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '0,90',
 		'descripcion': 'lorem lorem',
@@ -5379,7 +5379,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '280750237',
+		'oem': 'MYM05532404',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5396,7 +5396,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '55577375',
+		'oem': 'MYM05532405',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5413,7 +5413,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TB10043',
+		'oem': 'MYM05532406',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5430,7 +5430,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '24579417',
+		'oem': 'MYM05532407',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5447,7 +5447,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TB10044',
+		'oem': 'MYM05532408',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5464,7 +5464,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '93313785',
+		'oem': 'MYM05532410',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5481,7 +5481,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '00001635R8',
+		'oem': 'MYM05532409',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5492,13 +5492,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-cuerpodeaceleracion11',
-		'name': 'Cuerpo De Aceleración Palio / Siena / Idea 1.4 Fire Flex 73502387',
+		'name': 'Cuerpo De Aceleración Palio / Siena / Idea 1.4 Fire Flex MYM05532411',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '73502387',
+		'oem': 'MYM05532411',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5515,13 +5515,13 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '46747248',
+		'oem': 'MYM05532412',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_627977-MLA29130714498_012019-O.webp',
 		'categoria': 'Cuerpo de Aceleración',
-		'codigoCliente': 'PENDIENTE',	
+		'codigoCliente': 'RDS-PENDIENTE',	
 	},
 
 	{
@@ -5532,13 +5532,13 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '46747246/38SXBF04/SXBF0402',
+		'oem': 'MYM05532413',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_627977-MLA29130714498_012019-O.webp',
 		'categoria': 'Cuerpo de Aceleración',
-		'codigoCliente': 'PENDIENTE',	
+		'codigoCliente': 'RDS-PENDIENTE',	
 	},
 
 	{
@@ -5549,7 +5549,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '44GTE3F1/C',
+		'oem': 'MYM05532414',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': '0,90',
 		'descripcion': 'lorem lorem',
@@ -5566,7 +5566,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '46533515',
+		'oem': 'MYM05532415',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5583,7 +5583,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '280750137',
+		'oem': 'MYM05532416',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5600,7 +5600,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '50GTE3F1D',
+		'oem': 'MYM05532417',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5617,7 +5617,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '1537636',
+		'oem': 'MYM05532418',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '1,2',
 		'descripcion': 'lorem lorem',
@@ -5634,7 +5634,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '280750475',
+		'oem': 'MYM05532419',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5651,7 +5651,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'VP4M5U-9E927-DC',
+		'oem': 'MYM05532420',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '1,5',
 		'descripcion': 'lorem lorem',
@@ -5668,7 +5668,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '35100-25400',
+		'oem': 'MYM05532421',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '1,5',
 		'descripcion': 'lorem lorem',
@@ -5685,7 +5685,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'A2C59511709',
+		'oem': 'MYM05532422',
 		'marca': 'Mini',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5702,7 +5702,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '1635.Q9',
+		'oem': 'MYM05532423',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': '1,6',
 		'descripcion': 'lorem lorem',
@@ -5719,7 +5719,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '7700102870',
+		'oem': 'MYM05532424',
 		'marca': 'Renault',
 		'pesoNetoUnitario': '0,49',
 		'descripcion': 'lorem lorem',
@@ -5736,7 +5736,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'H8200067219',
+		'oem': 'MYM05532425',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5753,7 +5753,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '8200123061',
+		'oem': 'MYM05532426',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5770,7 +5770,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '8200568712',
+		'oem': 'MYM05532427',
 		'marca': 'Renault',
 		'pesoNetoUnitario': '0,94',
 		'descripcion': 'lorem lorem',
@@ -5787,7 +5787,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '8200171134',
+		'oem': 'MYM05532428',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5804,7 +5804,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '037133064J',
+		'oem': 'MYM05532429',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5821,7 +5821,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '030133064D',
+		'oem': 'MYM05532430',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,5',
 		'descripcion': 'lorem lorem',
@@ -5838,7 +5838,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '036133062K',
+		'oem': 'MYM05532431',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,2',
 		'descripcion': 'lorem lorem',
@@ -5855,7 +5855,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '06A133062BD',
+		'oem': 'MYM05532432',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5872,7 +5872,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '06A133064H',
+		'oem': 'MYM05532433',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5889,7 +5889,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '408237730R2',
+		'oem': 'MYM05532434',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5906,7 +5906,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '06A133064M',
+		'oem': 'MYM05532435',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5923,7 +5923,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '06A133063G',
+		'oem': 'MYM05532436',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,2',
 		'descripcion': 'lorem lorem',
@@ -5940,7 +5940,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '058133063Q',
+		'oem': 'MYM05532437',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,2',
 		'descripcion': 'lorem lorem',
@@ -5957,7 +5957,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '036133062P',
+		'oem': 'MYM05532438',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5974,7 +5974,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '030133062D',
+		'oem': 'MYM05532439',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5991,7 +5991,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '06A133064J',
+		'oem': 'MYM05532440',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '3,00',
 		'descripcion': 'lorem lorem',
@@ -6008,7 +6008,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '06F133062T',
+		'oem': 'MYM05532441',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6025,7 +6025,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '037133064F',
+		'oem': 'MYM05532442',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6042,7 +6042,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '078133063A',
+		'oem': 'MYM05532443',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,2',
 		'descripcion': 'lorem lorem',
@@ -6059,7 +6059,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-023',
+		'oem': 'MYM08945701',
 		'marca': 'Audi',
 		'pesoNetoUnitario': '2,25',
 		'descripcion': 'lorem lorem',
@@ -6076,7 +6076,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-023-T',
+		'oem': 'MYM08945702',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,11',
 		'descripcion': 'lorem lorem',
@@ -6093,7 +6093,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-018-C',
+		'oem': 'MYM08945703',
 		'marca': 'Audi',
 		'pesoNetoUnitario': '0,30',
 		'descripcion': 'lorem lorem',
@@ -6110,7 +6110,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-053',
+		'oem': 'MYM08945704',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '1,90',
 		'descripcion': 'lorem lorem',
@@ -6127,7 +6127,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-057',
+		'oem': 'MYM08945706',
 		'marca': 'Dodge',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6144,7 +6144,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-013',
+		'oem': 'MYM08945707',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': '1,23',
 		'descripcion': 'lorem lorem',
@@ -6161,7 +6161,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-062',
+		'oem': 'MYM08945708',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': '1,46',
 		'descripcion': 'lorem lorem',
@@ -6178,7 +6178,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-014',
+		'oem': 'MYM08945709',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '1,04',
 		'descripcion': 'lorem lorem',
@@ -6195,7 +6195,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-011',
+		'oem': 'MYM08945710',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6212,7 +6212,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-020',
+		'oem': 'MYM08945711',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '4,80',
 		'descripcion': 'lorem lorem',
@@ -6229,7 +6229,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-063',
+		'oem': 'MYM08945712',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '2,10',
 		'descripcion': 'lorem lorem',
@@ -6246,7 +6246,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-009',
+		'oem': 'MYM08945713',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '2,30',
 		'descripcion': 'lorem lorem',
@@ -6263,7 +6263,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-047',
+		'oem': 'MYM08945714',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '2,10',
 		'descripcion': 'lorem lorem',
@@ -6280,7 +6280,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-002',
+		'oem': 'MYM08945715',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,91',
 		'descripcion': 'lorem lorem',
@@ -6291,13 +6291,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-kitcadena15',
-		'name': 'Kit Cadena Endura Courier/Fiesta/Ka /Ohv 8v 1.0l/1.3l 90-96',
+		'name': 'Kit Cadena Endura Courier/Fiesta/Ka /Ohv 8v 1.0l/1.3l 1990-1996',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-006',
+		'oem': 'MYM08945716',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,82',
 		'descripcion': 'lorem lorem',
@@ -6308,13 +6308,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-kitcadena16',
-		'name': 'Tensor Cadena Endura Courier/Fiesta/Ka /Ohv 8v 1.0l/1.3l 90-96',
+		'name': 'Tensor Cadena Endura Courier/Fiesta/Ka /Ohv 8v 1.0l/1.3l 1990-1996',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-006-T2',
+		'oem': 'MYM08945717',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,15',
 		'descripcion': 'lorem lorem',
@@ -6331,7 +6331,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-028',
+		'oem': 'MYM08945718',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '1,30',
 		'descripcion': 'lorem lorem',
@@ -6348,7 +6348,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-008',
+		'oem': 'MYM08945719',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '5,30',
 		'descripcion': 'lorem lorem',
@@ -6365,7 +6365,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-014-T2, XS6E6M256AD',
+		'oem': 'MYM08945720',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,10',
 		'descripcion': 'lorem lorem',
@@ -6382,7 +6382,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-009-T1/70420025',
+		'oem': 'MYM08945721',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
@@ -6399,7 +6399,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-009-T2/70420026',
+		'oem': 'MYM08945722',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
@@ -6416,7 +6416,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-009-T4/70810070',
+		'oem': 'MYM08945723',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,08',
 		'descripcion': 'lorem lorem',
@@ -6433,7 +6433,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-009-T3/70810069',
+		'oem': 'MYM08945724',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,07',
 		'descripcion': 'lorem lorem',
@@ -6444,13 +6444,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-kitcadena24',
-		'name': 'Guía Cadena De Distribución XS6E6K255AA Motor Zetec/Rocam',
+		'name': 'Guía Cadena De Distribución MYM08945725 Motor Zetec/Rocam',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-014-T1/XS6E6K255AA',
+		'oem': 'MYM08945725',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,08',
 		'descripcion': 'lorem lorem',
@@ -6461,13 +6461,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-kitcadena25',
-		'name': 'Tensor Ford 1561781',
+		'name': 'Tensor Ford MYM08945726',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-006-T1/1561781',
+		'oem': 'MYM08945726',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,01',
 		'descripcion': 'lorem lorem',
@@ -6484,7 +6484,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-014-T3/XS6E6L266AE',
+		'oem': 'MYM08945727',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,15',
 		'descripcion': 'lorem lorem',
@@ -6501,7 +6501,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-004',
+		'oem': 'MYM08945728',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6518,7 +6518,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-003',
+		'oem': 'MYM08945729',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6535,7 +6535,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-032',
+		'oem': 'MYM08945730',
 		'marca': 'Honda',
 		'pesoNetoUnitario': '1,95',
 		'descripcion': 'lorem lorem',
@@ -6552,7 +6552,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-034',
+		'oem': 'MYM08945731',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '2,05',
 		'descripcion': 'lorem lorem',
@@ -6569,7 +6569,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-024-C',
+		'oem': 'MYM08945732',
 		'marca': 'Jeep',
 		'pesoNetoUnitario': '0,30',
 		'descripcion': 'lorem lorem',
@@ -6586,7 +6586,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-033',
+		'oem': 'MYM08945733',
 		'marca': 'Jeep',
 		'pesoNetoUnitario': '4,10',
 		'descripcion': 'lorem lorem',
@@ -6603,7 +6603,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-026',
+		'oem': 'MYM08945734',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,00',
 		'descripcion': 'lorem lorem',
@@ -6620,7 +6620,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-048',
+		'oem': 'MYM08945735',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': '3,00',
 		'descripcion': 'lorem lorem',
@@ -6637,7 +6637,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-037',
+		'oem': 'MYM08945736',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': '1,55',
 		'descripcion': 'lorem lorem',
@@ -6654,7 +6654,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-012',
+		'oem': 'MYM08945737',
 		'marca': 'Mini',
 		'pesoNetoUnitario': '1,30',
 		'descripcion': 'lorem lorem',
@@ -6671,7 +6671,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-058',
+		'oem': 'MYM08945738',
 		'marca': 'Mini',
 		'pesoNetoUnitario': '1,20',
 		'descripcion': 'lorem lorem',
@@ -6688,7 +6688,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-046',
+		'oem': 'MYM08945739',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': '1,60',
 		'descripcion': 'lorem lorem',
@@ -6705,7 +6705,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-036',
+		'oem': 'MYM08945741',
 		'marca': 'Suzuki',
 		'pesoNetoUnitario': '1,87',
 		'descripcion': 'lorem lorem',
@@ -6722,7 +6722,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-052',
+		'oem': 'MYM08945742',
 		'marca': 'Suzuki',
 		'pesoNetoUnitario': '3,94',
 		'descripcion': 'lorem lorem',
@@ -6739,7 +6739,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-040',
+		'oem': 'MYM08945743',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': '1,55',
 		'descripcion': 'lorem lorem',
@@ -6756,7 +6756,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-017-C',
+		'oem': 'MYM08945744',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,30',
 		'descripcion': 'lorem lorem',
@@ -6773,7 +6773,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-043',
+		'oem': 'MYM08945745',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': '2,34',
 		'descripcion': 'lorem lorem',
@@ -6790,7 +6790,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-022-T',
+		'oem': 'MYM08945746',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,11',
 		'descripcion': 'lorem lorem',
@@ -6807,7 +6807,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-067-T2/13550-0E010',
+		'oem': 'MYM08945747',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': '0,12',
 		'descripcion': 'lorem lorem',
@@ -6824,7 +6824,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-016',
+		'oem': 'MYM08945748',
 		'marca': 'Nissan',
 		'pesoNetoUnitario': '1,77',
 		'descripcion': 'lorem lorem',
@@ -6841,7 +6841,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-FT013',
+		'oem': 'MYM08945749',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': '1,13',
 		'descripcion': 'lorem lorem',
@@ -6858,7 +6858,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-030',
+		'oem': 'MYM08945750',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': '0,50',
 		'descripcion': 'lorem lorem',
@@ -6875,7 +6875,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-017',
+		'oem': 'MYM08945751',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,90',
 		'descripcion': 'lorem lorem',
@@ -6892,7 +6892,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'TK-067-T1/13540-0E010',
+		'oem': 'MYM08945752',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': '0,12',
 		'descripcion': 'lorem lorem',
@@ -6909,7 +6909,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'BM002-V',
+		'oem': 'MYM08945753',
 		'marca': 'Mini',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6926,7 +6926,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'BM003-V',
+		'oem': 'MYM08945754',
 		'marca': 'Mini',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6937,13 +6937,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-sondalambda',
-		'name': 'Sonda Lambda Corsa (25162753)',
+		'name': 'Sonda Lambda Corsa (MYM03205101)',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '25162753',
+		'oem': 'MYM03205101',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '0,90',
 		'descripcion': 'lorem lorem',
@@ -6960,7 +6960,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'DENSO 24581407',
+		'oem': 'MYM03205102',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '0,12',
 		'descripcion': 'lorem lorem',
@@ -6977,7 +6977,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': 'DOX0106/DOX0109',
+		'oem': 'MYM03205103',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '0,12',
 		'descripcion': 'lorem lorem',
@@ -6994,7 +6994,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '10042013/24585554',
+		'oem': 'MYM03205104',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7011,7 +7011,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '0ZA624-E1/0 258 986 501',
+		'oem': 'MYM03205105',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7028,7 +7028,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '258005703',
+		'oem': 'MYM03205106',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7045,7 +7045,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '0ZA532-A10',
+		'oem': 'MYM03205107',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7062,7 +7062,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '8F9A 9Y460 GA/1812573',
+		'oem': 'MYM03205108',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7079,7 +7079,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '8F9A-9Y460-BA/96 507 738',
+		'oem': 'MYM03205109',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7090,13 +7090,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-sondalambda10',
-		'name': 'Sonda Lambda P307/206/207 Ver Tip Bosch (0258006028)',
+		'name': 'Sonda Lambda P307/206/207 Ver Tip Bosch (MYM03205110)',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '258006028',
+		'oem': 'MYM03205110',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': '0,12',
 		'descripcion': 'lorem lorem',
@@ -7107,13 +7107,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-sondalambda11',
-		'name': 'Sonda Lambda Clio II 1.6 Negr T/Bosch (028006791)',
+		'name': 'Sonda Lambda Clio II 1.6 Negr T/Bosch (MYM03205111)',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '0258006791',
+		'oem': 'MYM03205111',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7130,7 +7130,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '0258986602',
+		'oem': 'MYM03205112',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7147,7 +7147,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '0ZA624-E3/0258005726',
+		'oem': 'MYM03205113',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7158,13 +7158,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-sondalambda14',
-		'name': 'Sonda Lambda 4 Cables Universal 280mm (0258001032)',
+		'name': 'Sonda Lambda 4 Cables Universal 280mm',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '258001032/0ZA624-E4',
+		'oem': 'MYM03205114',
 		'marca': 'Universal',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7181,7 +7181,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '258027029',
+		'oem': 'MYM03205115',
 		'marca': 'Universal',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7192,13 +7192,13 @@ export const items2 = [
 
 	{
 		'id': 'dc-sondalambda16',
-		'name': 'Sonda Lambda Bora/Vento/Passat (06A-906262-AK)',
+		'name': 'Sonda Lambda Bora/Vento/Passat (MYM03205116)',
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '06A-906262-AK',
+		'oem': 'MYM03205116',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,13',
 		'descripcion': 'lorem lorem',
@@ -7215,7 +7215,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '0ZA624-E4/OZA114V3',
+		'oem': 'MYM03205117',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7232,7 +7232,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '03G906262G/0281004150/03L906262L',
+		'oem': 'MYM03205118',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,23',
 		'descripcion': 'lorem lorem',
@@ -7249,7 +7249,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '258003439',
+		'oem': 'MYM03205119',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7266,7 +7266,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '55275929/55199542/0281004047/LS44047',
+		'oem': 'MYM03205120',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7283,7 +7283,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27170',
+		'oem': 'MYM0480721',
 		'marca': 'Alfa Romeo',
 		'pesoNetoUnitario': '0,55',
 		'descripcion': 'lorem lorem',
@@ -7300,7 +7300,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '28018',
+		'oem': 'MYM0480722',
 		'marca': 'Audi',
 		'pesoNetoUnitario': '0,69',
 		'descripcion': 'lorem lorem',
@@ -7317,7 +7317,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27216',
+		'oem': 'MYM0480723',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': '0,69',
 		'descripcion': 'lorem lorem',
@@ -7334,7 +7334,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '24157',
+		'oem': 'MYM0480724',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,47',
 		'descripcion': 'lorem lorem',
@@ -7351,7 +7351,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '24154',
+		'oem': 'MYM0480725',
 		'marca': 'Nissan',
 		'pesoNetoUnitario': '0,47',
 		'descripcion': 'lorem lorem',
@@ -7368,7 +7368,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '26002',
+		'oem': 'MYM0480726',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': '0,69',
 		'descripcion': 'lorem lorem',
@@ -7385,7 +7385,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '27179',
+		'oem': 'MYM0480727',
 		'marca': 'Renault',
 		'pesoNetoUnitario': '0,69',
 		'descripcion': 'lorem lorem',
@@ -7402,7 +7402,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '24152',
+		'oem': 'MYM0480728',
 		'marca': 'Suzuki',
 		'pesoNetoUnitario': '0,47',
 		'descripcion': 'lorem lorem',
@@ -7419,7 +7419,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '24195',
+		'oem': 'MYM0480729',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': '0,47',
 		'descripcion': 'lorem lorem',
@@ -7436,7 +7436,7 @@ export const items2 = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem loren lorem',
 
-		'oem': '21156',
+		'oem': 'MYM0480730',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': '0,47',
 		'descripcion': 'lorem lorem',

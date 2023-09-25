@@ -1,9 +1,13 @@
 import { items2 } from "./items2"
 import { items3 } from "./items3"
+import { items4 } from "./items4"
+import { items5 } from "./items5"
 
 export const items = [
 	...items2,
 	...items3,
+	...items4,
+	...items5,
 	{
 		'id': 'dc-electroventilador',
 		'name': 'Electroventilador Mini Cooper Clubman 350watt 3 Pins',
@@ -2358,7 +2362,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '77020-0K020',
+		'oem': 'MYM02004304',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2375,7 +2379,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7L6919087G',
+		'oem': 'MYM02004305',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2392,7 +2396,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7L6919087F',
+		'oem': 'MYM02004306',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2409,7 +2413,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '3C0 919 050A',
+		'oem': 'MYM02004307',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2426,7 +2430,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5U0919051A',
+		'oem': 'MYM02004308',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2443,7 +2447,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2H0919050A',
+		'oem': 'MYM02004309',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -2454,19 +2458,19 @@ export const items = [
 
 	{
 		'id': 'dc-bombacombustible25',
-		'name': 'Flotante C/Bomba Chevrolet Aveo 1.6 96447642',	
+		'name': 'Flotante C/Bomba Chevrolet Aveo 1.6 MYM02004315',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '96447642',
+		'oem': 'MYM02004315',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/b5rWyXx/96447642.png',
 		'categoria':'Bomba Combustible',
-		'codigoCliente': 'PENDIENTE',
+		'codigoCliente': 'RDS-PENDIENTE',
 	},
 
 	{
@@ -4092,7 +4096,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '50103902/IWP046',
+		'oem': 'MYM07286601',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5140,7 +5144,7 @@ export const items = [
 
 	{
 		'id': 'dc-poleas12',
-		'name': 'Polea Viscosa Mitsubishi L200 4x4 2,4 96/L-300 (Oem 1320a009)',	
+		'name': 'Polea Viscosa Mitsubishi L200 4x4 2,4 96/L-300',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
@@ -5231,13 +5235,13 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'E3DZ-8A616-B',
+		'oem': 'MYM151617104',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '1,11',
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_934625-MLA25468665659_032017-F.webp',
 		'categoria':'Poleas',
-		'codigoCliente': 'FCH-PENDIENTE',
+		'codigoCliente': 'FCH-PENDIENTE / SITEC-ST403',
 	},
 
 	{
@@ -5412,13 +5416,13 @@ export const items = [
 
 	{
 		'id': 'dc-poleas28',
-		'name': 'Polea Viscosa A4/A6A/A8/Passat V6 078121350A',	
+		'name': 'Polea Viscosa A4/A6A/A8/Passat V6',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '078121350A / 078 121 350',
+		'oem': 'MYM09255801',
 		'marca': 'Audi',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5435,7 +5439,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '06B 121 347',
+		'oem': 'MYM09255802',
 		'marca': 'Audi',
 		'pesoNetoUnitario': '0,96',
 		'descripcion': 'lorem lorem',
@@ -5452,7 +5456,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '11 52 7 505 302',
+		'oem': 'MYM09255803',
 		'marca': 'BMW',
 		'pesoNetoUnitario': '1,05',
 		'descripcion': 'lorem lorem',
@@ -5469,7 +5473,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '15154901',
+		'oem': 'MYM09255804',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '1,39',
 		'descripcion': 'lorem lorem',
@@ -5486,7 +5490,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52028879AD/AF',
+		'oem': 'MYM09255805',
 		'marca': 'Dodge',
 		'pesoNetoUnitario': '2,80',
 		'descripcion': 'lorem lorem',
@@ -5503,7 +5507,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '55056840AC',
+		'oem': 'MYM09255806',
 		'marca': 'Dodge',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5520,7 +5524,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '55116813AA',
+		'oem': 'MYM09255807',
 		'marca': 'Dodge',
 		'pesoNetoUnitario': '1,08',
 		'descripcion': 'lorem lorem',
@@ -5531,13 +5535,13 @@ export const items = [
 
 	{
 		'id': 'dc-poleas35',
-		'name': 'Polea Viscosa Cargo Cummins Ds 06/11 6C45-8A616-BA',	
+		'name': 'Polea Viscosa Cargo Cummins Ds 06/11 MYM09255808',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6C45-8A616-BA',
+		'oem': 'MYM09255808',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5554,7 +5558,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6L2Z-8A616-BA',
+		'oem': 'MYM09255809',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '1,35',
 		'descripcion': 'lorem lorem',
@@ -5565,13 +5569,13 @@ export const items = [
 
 	{
 		'id': 'dc-poleas37',
-		'name': 'Polea Viscosa Transit 06 2.4L Tdci 6C11-8C617-CC',	
+		'name': 'Polea Viscosa Transit 06 2.4L Tdci MYM09255810',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6C11-8C617-CC',
+		'oem': 'MYM09255810',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,72',
 		'descripcion': 'lorem lorem',
@@ -5588,7 +5592,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'F87Z 8A616 BA',
+		'oem': 'MYM09255811',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5605,7 +5609,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'E3SZ 8A616-A',
+		'oem': 'MYM09255812',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '1,28',
 		'descripcion': 'lorem lorem',
@@ -5622,7 +5626,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'F4TZ 8A616-A',
+		'oem': 'MYM09255813',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '1,25',
 		'descripcion': 'lorem lorem',
@@ -5639,7 +5643,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'E3TZ 8A616-T',
+		'oem': 'MYM09255814',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '1,07',
 		'descripcion': 'lorem lorem',
@@ -5656,7 +5660,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '98HU-8A616-BA',
+		'oem': 'MYM09255816',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '0,83',
 		'descripcion': 'lorem lorem',
@@ -5673,7 +5677,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '4C45-8A616-CA',
+		'oem': 'MYM09255817',
 		'marca': 'Ford',
 		'pesoNetoUnitario': '1,10',
 		'descripcion': 'lorem lorem',
@@ -5690,7 +5694,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8-97102-903-0',
+		'oem': 'MYM09255819',
 		'marca': 'Honda',
 		'pesoNetoUnitario': '1,62',
 		'descripcion': 'lorem lorem',
@@ -5707,7 +5711,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '25237-42921',
+		'oem': 'MYM09255820',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '1,26',
 		'descripcion': 'lorem lorem',
@@ -5724,7 +5728,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '25237-42921',
+		'oem': 'MYM09255821',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '1,30',
 		'descripcion': 'lorem lorem',
@@ -5741,7 +5745,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '25237-42050',
+		'oem': 'MYM09255822',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '1,30',
 		'descripcion': 'lorem lorem',
@@ -5758,7 +5762,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '25720-43660',
+		'oem': 'MYM09255823',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': '1,26',
 		'descripcion': 'lorem lorem',
@@ -5775,7 +5779,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '116 200 06 22',
+		'oem': 'MYM09255824',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': '0,89',
 		'descripcion': 'lorem lorem',
@@ -5792,7 +5796,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '41213991',
+		'oem': 'MYM09255825',
 		'marca': 'Iveco',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5809,7 +5813,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '3236 738 / 3239 377',
+		'oem': 'MYM09255826',
 		'marca': 'Jeep',
 		'pesoNetoUnitario': '1,07',
 		'descripcion': 'lorem lorem',
@@ -5826,7 +5830,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52079625/52027892',
+		'oem': 'MYM09255827',
 		'marca': 'Jeep',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5843,7 +5847,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '55116882AA',
+		'oem': 'MYM09255828',
 		'marca': 'Jeep',
 		'pesoNetoUnitario': '1,02',
 		'descripcion': 'lorem lorem',
@@ -5854,13 +5858,13 @@ export const items = [
 
 	{
 		'id': 'dc-poleas54',
-		'name': 'Polea Viscosa Kia Sportage OK011-15-140/OK013-15-140',	
+		'name': 'Polea Viscosa Kia Sportage MYM09255829',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'OK011-15-140/OK013-15-140',
+		'oem': 'MYM09255829',
 		'marca': 'Kia',
 		'pesoNetoUnitario': '1,21',
 		'descripcion': 'lorem lorem',
@@ -5871,13 +5875,13 @@ export const items = [
 
 	{
 		'id': 'dc-poleas55',
-		'name': 'Polea Viscosa Kia Besta Motor Nb-1 Ok770-15-140',	
+		'name': 'Polea Viscosa Kia Besta Motor Nb-1 MYM09255830',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'OK770-15-140',
+		'oem': 'MYM09255830',
 		'marca': 'Kia',
 		'pesoNetoUnitario': '1,23',
 		'descripcion': 'lorem lorem',
@@ -5894,7 +5898,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '25215-4Z100',
+		'oem': 'MYM09255831',
 		'marca': 'Kia',
 		'pesoNetoUnitario': '1,23',
 		'descripcion': 'lorem lorem',
@@ -5911,7 +5915,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '25215-4Z100',
+		'oem': 'MYM09255832',
 		'marca': 'Kia',
 		'pesoNetoUnitario': '1,28',
 		'descripcion': 'lorem lorem',
@@ -5928,7 +5932,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'OK01W-15-140',
+		'oem': 'MYM09255833',
 		'marca': 'Kia',
 		'pesoNetoUnitario': '1,28',
 		'descripcion': 'lorem lorem',
@@ -5945,7 +5949,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '25237-4A000',
+		'oem': 'MYM09255834',
 		'marca': 'Kia',
 		'pesoNetoUnitario': '1,22',
 		'descripcion': 'lorem lorem',
@@ -5956,13 +5960,13 @@ export const items = [
 
 	{
 		'id': 'dc-poleas60',
-		'name': 'Polea Viscosa Mercedes Benz Sprinter 310/312-Ranger 2.5  1L55 8A616-AA',	
+		'name': 'Polea Viscosa Mercedes Benz Sprinter 310/312-Ranger 2.5  MYM09255835',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1L55 8A616-AA',
+		'oem': 'MYM09255835',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5979,7 +5983,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'A475.205.0106',
+		'oem': 'MYM09255836',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -5996,7 +6000,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '000 200 58 22 / 000.200.5922',
+		'oem': 'MYM09255837',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6013,7 +6017,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9042001122',
+		'oem': 'MYM09255838',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': '1,34',
 		'descripcion': 'lorem lorem',
@@ -6030,7 +6034,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '904 200 06 22',
+		'oem': 'MYM09255839',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6047,7 +6051,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9042000323',
+		'oem': 'MYM09255840',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6064,7 +6068,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'A906.200.0723',
+		'oem': 'MYM09255841',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6081,7 +6085,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9062001522',
+		'oem': 'MYM09255842',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6098,7 +6102,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'A000.200.2823',
+		'oem': 'MYM09255843',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6115,7 +6119,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9062001822',
+		'oem': 'MYM09255844',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6132,7 +6136,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '000.200.9222',
+		'oem': 'MYM09255845',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6149,7 +6153,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9042001122V',
+		'oem': 'MYM09255846',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6160,13 +6164,13 @@ export const items = [
 
 	{
 		'id': 'dc-poleas72',
-		'name': 'Polea Viscosa Iveco Euro Tech MT199201 99479094',	
+		'name': 'Polea Viscosa Iveco Euro Tech MT199201 MYM09255847',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '99479094',
+		'oem': 'MYM09255847',
 		'marca': 'Iveco',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6183,7 +6187,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'A9062001623',
+		'oem': 'MYM09255848',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': '2,50',
 		'descripcion': 'lorem lorem',
@@ -6200,7 +6204,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'MD-359040',
+		'oem': 'MYM09255849',
 		'marca': 'Mitsubishi',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6217,7 +6221,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'ME-303502',
+		'oem': 'MYM09255850',
 		'marca': 'Mitsubishi',
 		'pesoNetoUnitario': '1,68',
 		'descripcion': 'lorem lorem',
@@ -6234,7 +6238,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'MD-326227',
+		'oem': 'MYM09255851',
 		'marca': 'Mitsubishi',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6251,7 +6255,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'MD050472',
+		'oem': 'MYM09255852',
 		'marca': 'Mitsubishi',
 		'pesoNetoUnitario': '1,22',
 		'descripcion': 'lorem lorem',
@@ -6268,7 +6272,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '21082-EA200',
+		'oem': 'MYM09255853',
 		'marca': 'Nissan',
 		'pesoNetoUnitario': '1,69',
 		'descripcion': 'lorem lorem',
@@ -6285,7 +6289,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '21082-0W000',
+		'oem': 'MYM09255854',
 		'marca': 'Nissan',
 		'pesoNetoUnitario': '1,36',
 		'descripcion': 'lorem lorem',
@@ -6302,7 +6306,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '21082-6P00A',
+		'oem': 'MYM09255855',
 		'marca': 'Nissan',
 		'pesoNetoUnitario': '1,66',
 		'descripcion': 'lorem lorem',
@@ -6319,7 +6323,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '93322211',
+		'oem': 'MYM09255856',
 		'marca': 'Suzuki',
 		'pesoNetoUnitario': '0,96',
 		'descripcion': 'lorem lorem',
@@ -6330,13 +6334,13 @@ export const items = [
 
 	{
 		'id': 'dc-poleas82',
-		'name': 'Polea Viscosa Toyota Hilux 3.0 H 2005 16210-0L010',	
+		'name': 'Polea Viscosa Toyota Hilux 3.0 H 2005 MYM09255857',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '16210-0L010',
+		'oem': 'MYM09255857',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6353,7 +6357,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2VP121431',
+		'oem': 'MYM09255858',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6370,7 +6374,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2TC.121.431A',
+		'oem': 'MYM09255859',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6387,7 +6391,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2T0.121.302',
+		'oem': 'MYM09255860',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '2,16',
 		'descripcion': 'lorem lorem',
@@ -6404,7 +6408,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'TJ3121431',
+		'oem': 'MYM09255861',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,80',
 		'descripcion': 'lorem lorem',
@@ -6421,7 +6425,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '20765700',
+		'oem': 'MYM09255862',
 		'marca': 'Volvo',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6438,7 +6442,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '20765694',
+		'oem': 'MYM09255863',
 		'marca': 'Volvo',
 		'pesoNetoUnitario': '4,33',
 		'descripcion': 'lorem lorem',
@@ -6455,7 +6459,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8149396',
+		'oem': 'MYM09255864',
 		'marca': 'Volvo',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6472,7 +6476,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8149972',
+		'oem': 'MYM09255865',
 		'marca': 'Volvo',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6489,7 +6493,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9802015',
+		'oem': 'MYM09255866',
 		'marca': 'Volvo',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6506,7 +6510,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '18421-1',
+		'oem': 'MYM09255867',
 		'marca': 'Caterpillar',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6523,7 +6527,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '25790867',
+		'oem': 'MYM09255868',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6540,7 +6544,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '15651265',
+		'oem': 'MYM09255869',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6557,7 +6561,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6007274',
+		'oem': 'MYM09255870',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6574,7 +6578,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52123271',
+		'oem': 'MYM09255871',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6591,7 +6595,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '15130067',
+		'oem': 'MYM09255872',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6608,7 +6612,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9802012',
+		'oem': 'MYM09255873',
 		'marca': 'International',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6625,7 +6629,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5202 8894AA',
+		'oem': 'MYM09255874',
 		'marca': 'Dodge',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6642,7 +6646,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5505 6990-AA',
+		'oem': 'MYM09255875',
 		'marca': 'Dodge',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6659,7 +6663,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'E5TZ 8A616-C',
+		'oem': 'MYM09255876',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6676,7 +6680,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7L1Z 8A616-A',
+		'oem': 'MYM09255877',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6693,7 +6697,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7L2Z-8A616-A',
+		'oem': 'MYM09255878',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6710,7 +6714,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '98HU 8A616-AA',
+		'oem': 'MYM09255879',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6727,7 +6731,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'TAV121431',
+		'oem': 'MYM09255880',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6738,13 +6742,13 @@ export const items = [
 
 	{
 		'id': 'dc-poleas106',
-		'name': 'Polea Viscosa Ranger 3.0 Power Stroke 6L55 8A616-AA',	
+		'name': 'Polea Viscosa Ranger 3.0 Power Stroke MYM09255881',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6L55 8A616-AA',
+		'oem': 'MYM09255881',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6761,7 +6765,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'F2TZ 8A616-C',
+		'oem': 'MYM09255882',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6778,7 +6782,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'F4TZ 8A616-C/19189619',
+		'oem': 'MYM09255883',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6795,7 +6799,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6C45 8A616-CA/2T2 121 302',
+		'oem': 'MYM09255884',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6812,7 +6816,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '14032392',
+		'oem': 'MYM09255885',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6829,7 +6833,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9802009',
+		'oem': 'MYM09255886',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6846,7 +6850,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '20822-3460/9803000',
+		'oem': 'MYM09255887',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6863,7 +6867,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1236096',
+		'oem': 'MYM09255888',
 		'marca': 'DAF',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6880,7 +6884,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '15152298',
+		'oem': 'MYM09255889',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6897,7 +6901,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6802000226',
+		'oem': 'MYM09255890',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6914,7 +6918,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9802000',
+		'oem': 'MYM09255891',
 		'marca': 'Freightliner',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6931,7 +6935,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '16250-E0070/16250-1211',
+		'oem': 'MYM09255892',
 		'marca': 'Hino',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6948,7 +6952,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '11Q6-00260',
+		'oem': 'MYM09255893',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6965,7 +6969,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8-98119-742-0',
+		'oem': 'MYM09255894',
 		'marca': 'Isuzu',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6982,7 +6986,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '504029738',
+		'oem': 'MYM09255895',
 		'marca': 'Iveco',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -6993,13 +6997,13 @@ export const items = [
 
 	{
 		'id': 'dc-poleas121',
-		'name': 'Polea Viscosa Iveco (8MV376731-431)',	
+		'name': 'Polea Viscosa Iveco',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '500342517',
+		'oem': 'MYM09255896',
 		'marca': 'Iveco',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7016,7 +7020,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '504038113',
+		'oem': 'MYM09255897',
 		'marca': 'Iveco',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7033,7 +7037,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '99487209',
+		'oem': 'MYM09255898',
 		'marca': 'Iveco',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7050,7 +7054,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '16210-38070',
+		'oem': 'MYM09255899',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7067,7 +7071,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'LR023392/LR021990',
+		'oem': 'MYM09255900',
 		'marca': 'Land Rover',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7084,7 +7088,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '38MH416P2',
+		'oem': 'MYM09255901',
 		'marca': 'Mack',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7101,7 +7105,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '38MH414M',
+		'oem': 'MYM09255902',
 		'marca': 'Mack',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7118,7 +7122,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51 06630 0037',
+		'oem': 'MYM09255903',
 		'marca': 'MAN',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7135,7 +7139,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51 06630 0073',
+		'oem': 'MYM09255904',
 		'marca': 'MAN',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7152,7 +7156,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '000 200 67 22',
+		'oem': 'MYM09255905',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7169,7 +7173,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '000 200 82 22',
+		'oem': 'MYM09255906',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7186,7 +7190,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '906 2000 823/EV-18801-01',
+		'oem': 'MYM09255907',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7203,7 +7207,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '906 2000 823',
+		'oem': 'MYM09255908',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7220,7 +7224,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '906 200 09 22',
+		'oem': 'MYM09255909',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7237,7 +7241,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9062001522',
+		'oem': 'MYM09255910',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7254,7 +7258,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '390 200 0022',
+		'oem': 'MYM09255911',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7271,7 +7275,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '904 200 03 23',
+		'oem': 'MYM09255912',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7288,7 +7292,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9062001923',
+		'oem': 'MYM09255913',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7305,7 +7309,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'ME-065702',
+		'oem': 'MYM09255914',
 		'marca': 'Mitsubishi',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7322,7 +7326,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9802004',
+		'oem': 'MYM09255915',
 		'marca': 'Navistar',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7339,7 +7343,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2601975C1',
+		'oem': 'MYM09255916',
 		'marca': 'Navistar',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7356,7 +7360,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '3540116C4',
+		'oem': 'MYM09255917',
 		'marca': 'Navistar',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7373,7 +7377,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2599312C1',
+		'oem': 'MYM09255918',
 		'marca': 'Navistar',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7390,7 +7394,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2602037C91',
+		'oem': 'MYM09255919',
 		'marca': 'Navistar',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7407,7 +7411,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2602037C91',
+		'oem': 'MYM09255920',
 		'marca': 'Navistar',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7424,7 +7428,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1 423 891',
+		'oem': 'MYM09255922',
 		'marca': 'Scania',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7441,7 +7445,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '55116813AA-izq',
+		'oem': 'MYM09255923',
 		'marca': 'Dodge',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7775,13 +7779,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador9',
-		'name': 'Resistencia Electroventilador Serie3 X5 64116929540',	
+		'name': 'Resistencia Electroventilador Serie3 X5 MYM09007201',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '64116929540',
+		'oem': 'MYM09007201',
 		'marca': 'BMW',
 		'pesoNetoUnitario': '0,03',
 		'descripcion': 'lorem lorem',
@@ -7798,7 +7802,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'A21-3600081',
+		'oem': 'MYM09007202',
 		'marca': 'Chery',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7809,13 +7813,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador11',
-		'name': 'Resistencia Electroventilador Tracker /Sonic 16479474/59E5373',	
+		'name': 'Resistencia Electroventilador Tracker /Sonic MYM09007203',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '16479474',
+		'oem': 'MYM09007203',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7832,7 +7836,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '52118932',
+		'oem': 'MYM09007204',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7843,13 +7847,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador13',
-		'name': 'Resistencia Electroventilador Prisma/Celta 93337584',	
+		'name': 'Resistencia Electroventilador Prisma/Celta MYM09007205',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '93337584',
+		'oem': 'MYM09007205',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7866,7 +7870,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '15094285/15652873',
+		'oem': 'MYM09007206',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7877,13 +7881,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador15',
-		'name': 'Resistencia Electroventilador Meriva 93341907',	
+		'name': 'Resistencia Electroventilador Meriva MYM09007207',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '93341907',
+		'oem': 'MYM09007207',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': '0,08',
 		'descripcion': 'lorem lorem',
@@ -7900,7 +7904,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '90559834',
+		'oem': 'MYM09007208',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7911,13 +7915,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador17',
-		'name': 'Resistencia Electroventilador Aveo 2005/2011 96435889',	
+		'name': 'Resistencia Electroventilador Aveo 2005/2011 MYM09007209',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '96435889',
+		'oem': 'MYM09007209',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7934,7 +7938,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6441.CT',
+		'oem': 'MYM09007210',
 		'marca': 'Citroen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7951,7 +7955,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9673999980',
+		'oem': 'MYM09007211',
 		'marca': 'Citroen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -7962,13 +7966,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador20',
-		'name': 'Resistencia Electroventilador C3/Xsara Picasso A51002100',	
+		'name': 'Resistencia Electroventilador C3/Xsara Picasso MYM09007212',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'A51002100',
+		'oem': 'MYM09007212',
 		'marca': 'Citroen',
 		'pesoNetoUnitario': '0,05',
 		'descripcion': 'lorem lorem',
@@ -7979,13 +7983,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador21',
-		'name': 'Resistencia Electroventilador Ducato/Fiorino 6450.XR/77364555/77364061',	
+		'name': 'Resistencia Electroventilador Ducato/Fiorino MYM09007213',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6450.XR/77364555/77364061',
+		'oem': 'MYM09007213',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8002,7 +8006,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51905875',
+		'oem': 'MYM09007214',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
@@ -8019,7 +8023,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '55722780',
+		'oem': 'MYM09007215',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
@@ -8036,7 +8040,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51890981',
+		'oem': 'MYM09007216',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8053,7 +8057,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51736774',
+		'oem': 'MYM09007217',
 		'marca': 'Fiat',
 		'pesoNetoUnitario': '0,05',
 		'descripcion': 'lorem lorem',
@@ -8064,13 +8068,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador26',
-		'name': 'Resistencia Electroventilador Ka/Ecosport AV1118B647AB',	
+		'name': 'Resistencia Electroventilador Ka/Ecosport MYM09007218',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'AV1118B647AB',
+		'oem': 'MYM09007218',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8087,7 +8091,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '137328567',
+		'oem': 'MYM09007219',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8104,7 +8108,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '3M5H18B647AB',
+		'oem': 'MYM09007220',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8121,7 +8125,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'AB3919A706AA',
+		'oem': 'MYM09007221',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8138,7 +8142,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '940002904',
+		'oem': 'MYM09007222',
 		'marca': 'Ford',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8149,13 +8153,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador31',
-		'name': 'Resistencia Electroventilador Civic/Accord/CR-V 79330-TR0-A01/Z',	
+		'name': 'Resistencia Electroventilador Civic/Accord/CR-V MYM09007223',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '79330-TR0-A01',
+		'oem': 'MYM09007223',
 		'marca': 'Honda',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8172,7 +8176,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'R383R111R24',
+		'oem': 'MYM09007224',
 		'marca': 'Honda',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8189,7 +8193,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '97179-2D000',
+		'oem': 'MYM09007225',
 		'marca': 'Hyundai',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8206,7 +8210,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '51926262',
+		'oem': 'MYM09007226',
 		'marca': 'Jeep',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8223,7 +8227,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '789452149457',
+		'oem': 'MYM09007227',
 		'marca': 'Kia',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8240,7 +8244,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': 'RC420107',
+		'oem': 'MYM09007228',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8257,7 +8261,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '0000870009',
+		'oem': 'MYM09007229',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8274,7 +8278,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5133432AA',
+		'oem': 'MYM09007230',
 		'marca': 'Mercedes Benz',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8285,13 +8289,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador39',
-		'name': 'Resistencia Electroventilador Sentra/Tiida Variador 27150ED70A',	
+		'name': 'Resistencia Electroventilador Sentra/Tiida Variador MYM09007231',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '27150ED70A',
+		'oem': 'MYM09007231',
 		'marca': 'Nissan',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8302,13 +8306,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador40',
-		'name': 'Resistencia Electroventilador Tiida (27150-AX115)',	
+		'name': 'Resistencia Electroventilador Tiida (MYM09007232)',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '27150-AX115',
+		'oem': 'MYM09007232',
 		'marca': 'Nissan',
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
@@ -8319,13 +8323,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador41',
-		'name': 'Resistencia Electroventilador X-Terra 27150-2M105',	
+		'name': 'Resistencia Electroventilador X-Terra MYM09007233',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '27150-2M105',
+		'oem': 'MYM09007233',
 		'marca': 'Nissan',
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
@@ -8342,7 +8346,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '27150-EY00A',
+		'oem': 'MYM09007234',
 		'marca': 'Nissan',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8353,13 +8357,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador43',
-		'name': 'Resistencia Electroventilador Sentra 27150-4M401',	
+		'name': 'Resistencia Electroventilador Sentra MYM09007235',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '27150-4M401',
+		'oem': 'MYM09007235',
 		'marca': 'Nissan',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8370,13 +8374,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador44',
-		'name': 'Resistencia Electroventilador X-Terra 27150-08001',	
+		'name': 'Resistencia Electroventilador X-Terra MYM09007236',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '27150-08001',
+		'oem': 'MYM09007236',
 		'marca': 'Nissan',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8387,13 +8391,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador45',
-		'name': 'Resistencia Variador 3008/5008/Captur 271500017R/1609171180',	
+		'name': 'Resistencia Variador 3008/5008/Captur MYM09007237',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '271500017R',
+		'oem': 'MYM09007237',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8404,13 +8408,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador46',
-		'name': 'Resistencia Electroventilador P.206 9641212480',	
+		'name': 'Resistencia Electroventilador P.206 MYM09007238',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9641212480',
+		'oem': 'MYM09007238',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': '0,04',
 		'descripcion': 'lorem lorem',
@@ -8427,7 +8431,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9662872380',
+		'oem': 'MYM09007239',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8438,13 +8442,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador48',
-		'name': 'Resistencia Electroventilador P.207/301/407/508 1267.J6',	
+		'name': 'Resistencia Electroventilador P.207/301/407/508 MYM09007240',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1267.J6',
+		'oem': 'MYM09007240',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8455,13 +8459,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador49',
-		'name': 'Resistencia Electroventilador P.308/3008/5008 96492474680',	
+		'name': 'Resistencia Electroventilador P.308/3008/5008 MYM09007241',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '96492474680',
+		'oem': 'MYM09007241',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8472,13 +8476,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador50',
-		'name': 'Resistencia Electroventilador Partner/Berlingo 9663558880',	
+		'name': 'Resistencia Electroventilador Partner/Berlingo MYM09007242',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9663558880',
+		'oem': 'MYM09007242',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8489,13 +8493,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador51',
-		'name': 'Resistencia Electroventilador Megane 1.9 DTI 7701046941',	
+		'name': 'Resistencia Electroventilador Megane 1.9 DTI MYM09007243',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7701046941',
+		'oem': 'MYM09007243',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8512,7 +8516,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7701046061',
+		'oem': 'MYM09007244',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8523,13 +8527,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador53',
-		'name': 'Resistencia Electroventilador Megane 97/03 7701046943',	
+		'name': 'Resistencia Electroventilador Megane 97/03 MYM09007245',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7701046943',
+		'oem': 'MYM09007245',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8540,13 +8544,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador54',
-		'name': 'Resistencia Electroventilador Clio II/Kangoo 7701206351',	
+		'name': 'Resistencia Electroventilador Clio II/Kangoo MYM09007246',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7701059205/7701206351',
+		'oem': 'MYM09007246',
 		'marca': 'Renault',
 		'pesoNetoUnitario': '0,13',
 		'descripcion': 'lorem lorem',
@@ -8557,13 +8561,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador55',
-		'name': 'Resistencia Electroventilador Clio II 7701050890',	
+		'name': 'Resistencia Electroventilador Clio II MYM09007247',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7701050890',
+		'oem': 'MYM09007247',
 		'marca': 'Renault',
 		'pesoNetoUnitario': '0,13',
 		'descripcion': 'lorem lorem',
@@ -8574,13 +8578,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador56',
-		'name': 'Resistencia Variador Kwid 271505589R',	
+		'name': 'Resistencia Variador Kwid MYM09007248',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '271505589R',
+		'oem': 'MYM09007248',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8591,13 +8595,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador57',
-		'name': 'Resistencia Electroventilador Logan/Sandero 8200612908',	
+		'name': 'Resistencia Electroventilador Logan/Sandero MYM09007249',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8200612908',
+		'oem': 'MYM09007249',
 		'marca': 'Renault',
 		'pesoNetoUnitario': '0,05',
 		'descripcion': 'lorem lorem',
@@ -8614,7 +8618,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8200045082',
+		'oem': 'MYM09007250',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8631,7 +8635,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '255502585R',
+		'oem': 'MYM09007251',
 		'marca': 'Renault',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8642,13 +8646,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador60',
-		'name': 'Resistencia Electroventilador Scania 1425070',	
+		'name': 'Resistencia Electroventilador Scania MYM09007252',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1425070',
+		'oem': 'MYM09007252',
 		'marca': 'Scania',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8659,13 +8663,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador61',
-		'name': 'Resistencia Variador Hilux/SW4 2,4/2,8 499300-2250',	
+		'name': 'Resistencia Variador Hilux/SW4 2,4/2,8 MYM09007253',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '499300-2250',
+		'oem': 'MYM09007253',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8676,13 +8680,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador62',
-		'name': 'Resistencia Electroventilador Corolla/Mazda 8925712010',	
+		'name': 'Resistencia Electroventilador Corolla/Mazda MYM09007254',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '8925712010',
+		'oem': 'MYM09007254',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8699,7 +8703,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '87138-02060',
+		'oem': 'MYM09007255',
 		'marca': 'Toyota',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8710,13 +8714,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador64',
-		'name': 'Resistencia Electroventilador Gol/Parati 377959493F',	
+		'name': 'Resistencia Electroventilador Gol/Parati MYM09007256',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '377959493F',
+		'oem': 'MYM09007256',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,07',
 		'descripcion': 'lorem lorem',
@@ -8727,13 +8731,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador65',
-		'name': 'Resistencia Electroventilador Polo/Fox/Skoda 6Q0959263A',	
+		'name': 'Resistencia Electroventilador Polo/Fox/Skoda MYM09007257',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6Q0959263A',
+		'oem': 'MYM09007257',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,05',
 		'descripcion': 'lorem lorem',
@@ -8744,13 +8748,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador66',
-		'name': 'Resistencia Variador Amarok/Sirocco/Tiguan 3C0907521D /CG',	
+		'name': 'Resistencia Variador Amarok/Sirocco/Tiguan MYM09007258 /CG',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '3C0907521D',
+		'oem': 'MYM09007258',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8761,13 +8765,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador67',
-		'name': 'Resistencia Electroventilador Golf/Passat/Caddy 1K0959263A',	
+		'name': 'Resistencia Electroventilador Golf/Passat/Caddy MYM09007259',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1K0959263A',
+		'oem': 'MYM09007259',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,03',
 		'descripcion': 'lorem lorem',
@@ -8784,7 +8788,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '7E0959263C',
+		'oem': 'MYM09007260',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8795,13 +8799,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador69',
-		'name': 'Resistencia Electroventilador Polo/Fox/Skoda 6Q0959263A',	
+		'name': 'Resistencia Electroventilador Polo/Fox/Skoda MYM09007261',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6Q0959263A',
+		'oem': 'MYM09007261',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,05',
 		'descripcion': 'lorem lorem',
@@ -8812,13 +8816,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador70',
-		'name': 'Resistencia De Electro Peugeot 307  9658508980',	
+		'name': 'Resistencia De Electro Peugeot 307  MYM09007262',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9658508980',
+		'oem': 'MYM09007262',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8835,7 +8839,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '9658508980/9649247680/1308.CN',
+		'oem': 'MYM09007263',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8846,13 +8850,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador72',
-		'name': 'Resistencia De Electro Partner/Berlingo 6450.GV',	
+		'name': 'Resistencia De Electro Partner/Berlingo MYM09007264',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '6450.GV',
+		'oem': 'MYM09007264',
 		'marca': 'Peugeot',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -8863,13 +8867,13 @@ export const items = [
 
 	{
 		'id': 'dc-resistenciaelectroventilador73',
-		'name': 'Resistencia De Electro Fox/Suran/Voyage 5U0959493',	
+		'name': 'Resistencia De Electro Fox/Suran/Voyage MYM09007265',	
 		'publisher': 'otro',
 		'pais': 'Argentina',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5U0959493',
+		'oem': 'MYM09007265',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -9770,7 +9774,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '13248549',
+		'oem': 'MYM9159101',
 		'marca': 'Chevrolet',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -9787,7 +9791,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5Q0199868',
+		'oem': 'MYM9159102',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,139',
 		'descripcion': 'lorem lorem',
@@ -9804,7 +9808,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5Q0199867',
+		'oem': 'MYM9159103',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,139',
 		'descripcion': 'lorem lorem',
@@ -9821,7 +9825,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1K0199855BF',
+		'oem': 'MYM9159104',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,87',
 		'descripcion': 'lorem lorem',
@@ -9838,7 +9842,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5Q0199262B',
+		'oem': 'MYM9159105',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,53',
 		'descripcion': 'lorem lorem',
@@ -9855,7 +9859,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '1J0199262B/1J0199262AA',
+		'oem': 'MYM9159106',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -9872,7 +9876,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '5N0199262M',
+		'oem': 'MYM9159107',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '1,98',
 		'descripcion': 'lorem lorem',
@@ -9889,7 +9893,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2QB199555D/2Q0199555AC',
+		'oem': 'MYM9159108',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -9906,7 +9910,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2QB199262A/2QB199262',
+		'oem': 'MYM9159109',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -9923,7 +9927,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2QB199262B',
+		'oem': 'MYM9159110',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -9940,7 +9944,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2Q0199555A/2Q0199555AE',
+		'oem': 'MYM9159111',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -9957,7 +9961,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2Q0199851AD',
+		'oem': 'MYM9159112',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -9974,7 +9978,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '2Q0199851AF',
+		'oem': 'MYM9159113',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': 'PENDIENTE',
 		'descripcion': 'lorem lorem',
@@ -9991,7 +9995,7 @@ export const items = [
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
-		'oem': '377199381',
+		'oem': 'MYM9159114',
 		'marca': 'Volkswagen',
 		'pesoNetoUnitario': '0,93',
 		'descripcion': 'lorem lorem',
