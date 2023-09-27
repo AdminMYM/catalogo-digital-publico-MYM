@@ -3456,7 +3456,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/QR8AAOSwRzFjMmfP/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST825',
+		'codigoCliente': 'IR-4354 / SITEC-ST825',
 	},
 
 	{
@@ -3473,7 +3473,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/LZ73sZp/bjc08127m.jpg',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST826',
+		'codigoCliente': 'IR-4355 / SITEC-ST826',
 	},
 
 	{

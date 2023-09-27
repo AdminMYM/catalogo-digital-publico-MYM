@@ -45,6 +45,7 @@ export const MenuItem = () => {
 				<li className='list-item' >Caja Dirección</li>
 				<li className='list-item' >Crapodina Hidráulica</li>
 				<li className='list-item' >Collarín Hidráulico</li>
+				<li className='list-item' >Collarín Toma en Carga</li>
 				<li className='list-item' >Conmutador Luces</li>
 				<li className='list-item' >Cuerpo de Aceleración</li>
 				<li className='list-item' >Disco de Freno</li>
@@ -56,6 +57,7 @@ export const MenuItem = () => {
 				<li className='list-item' >Juntas Homocinéticas</li>
 				<li className='list-item' >Kit Cadena</li>
 				<li className='list-item' >Kit de Embrague</li>
+				<li className='list-item' >Kit Resorte</li>
 				<li className='list-item' >Mango Suspensión</li>
 				<li className='list-item' >Maza Rueda</li>
 				<li className='list-item' >Moldura Arco de Rueda</li>
