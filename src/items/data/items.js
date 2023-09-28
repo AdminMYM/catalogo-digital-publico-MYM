@@ -3167,7 +3167,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://m.media-amazon.com/images/I/31kr5dH-ABL._AC_.jpg',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST709 / WILLHELM-PENDIENTE',
+		'codigoCliente': 'IR-PENDIENTE / SITEC-ST709 / WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -3184,7 +3184,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST710 / WILLHELM-PENDIENTE',
+		'codigoCliente': 'IR-PENDIENTE / SITEC-ST710 / WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -3286,7 +3286,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_739459-MLA41359737550_042020-F.webp',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST817',
+		'codigoCliente': 'IR-8280 / SITEC-ST817',
 	},
 
 	{
@@ -3303,7 +3303,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_775539-MLA41359740345_042020-F.webp',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST818',
+		'codigoCliente': 'IR-8281 / SITEC-ST818',
 	},
 
 	{
@@ -3354,7 +3354,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/KQkAAOSw8qBeYlry/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST880',
+		'codigoCliente': 'IR-9900 / SITEC-ST880',
 	},
 
 	{
@@ -3422,7 +3422,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/VIQAAOSwCjFkOyQt/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST670',
+		'codigoCliente': 'IR-4058 / SITEC-ST670',
 	},
 
 	{
@@ -3439,7 +3439,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/jIEAAOSwjt1i9mM7/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST671',
+		'codigoCliente': 'IR-4059 / SITEC-ST671',
 	},
 
 	{
@@ -3558,7 +3558,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://static.rrparts.com.br/imagens_produtos/270/8bdb5ca0-b20b-49e1-8827-84167942a6de.jpg',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST823',
+		'codigoCliente': 'IR-3870 / SITEC-ST823',
 	},
 
 	{
@@ -3575,7 +3575,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_986864-MLA29339950764_022019-F.webp',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST824',
+		'codigoCliente': 'IR-3871 / SITEC-ST824',
 	},
 
 	{
@@ -3626,7 +3626,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://spanish.carcontrolarm.com/photo/ps34078599-control_arm_on_toyota_yaris_48068_09230_48068_09240_48068_0d080_48068_0d081.jpg',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST821',
+		'codigoCliente': 'IR-9567 / SITEC-ST821',
 	},
 
 	{
@@ -3643,7 +3643,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://spanish.carcontrolarm.com/photo/ps34078621-control_arm_in_toyota_yaris_48069_09230_48069_09240_48069_0d080_48069_0d081.jpg',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST822',
+		'codigoCliente': 'IR-9566 / SITEC-ST822',
 	},
 
 	{

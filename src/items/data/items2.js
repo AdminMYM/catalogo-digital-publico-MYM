@@ -353,7 +353,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/xCQDrkr/52050501.webp',
 		'categoria':'Soportes',
-		'codigoCliente': 'CAPEMI-6279',
+		'codigoCliente': 'CAPEMI-6279 / IR-PENDIENTE',
 	},
 
 	{
@@ -370,7 +370,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_730781-MLA54968740507_042023-O.webp',
 		'categoria':'Soportes',
-		'codigoCliente': 'CAPEMI-6280',
+		'codigoCliente': 'CAPEMI-6280 / IR-PENDIENTE',
 	},
 
 	{
@@ -387,7 +387,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/ft7pnGr/52004329.png',
 		'categoria':'Soportes',
-		'codigoCliente': 'CAPEMI-6281',
+		'codigoCliente': 'CAPEMI-6281 / IR-PENDIENTE',
 	},
 
 	{
@@ -404,7 +404,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/HtbgF0S/52068556.png',
 		'categoria':'Soportes',
-		'codigoCliente': 'CAPEMI-6282',
+		'codigoCliente': 'CAPEMI-6282 / IR-PENDIENTE',
 	},
 
 	{
@@ -659,7 +659,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_675256-MLA54968893031_042023-O.webp',
 		'categoria':'Soportes',
-		'codigoCliente': 'CAPEMI-PENDIENTE',
+		'codigoCliente': 'CAPEMI-PENDIENTE / IR-PENDIENTE',
 	},
 
 	{
@@ -829,7 +829,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/Y8Vscvj/51963175.jpg',
 		'categoria':'Soportes',
-		'codigoCliente': 'CAPEMI-PENDIENTE',
+		'codigoCliente': 'CAPEMI-PENDIENTE / IR-PENDIENTE',
 	},
 
 	{
@@ -846,7 +846,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_861355-MLA69235708574_052023-O.webp',
 		'categoria':'Soportes',
-		'codigoCliente': 'CAPEMI-PENDIENTE',
+		'codigoCliente': 'CAPEMI-PENDIENTE / IR-PENDIENTE',
 	},
 
 	{
@@ -863,7 +863,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_916394-MLA53666566165_022023-O.webp',
 		'categoria':'Soportes',
-		'codigoCliente': 'CAPEMI-PENDIENTE',
+		'codigoCliente': 'CAPEMI-PENDIENTE / IR-PENDIENTE',
 	},
 
 	{
@@ -880,7 +880,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_702651-MLB48654987143_122021-O.webp',
 		'categoria':'Soportes',
-		'codigoCliente': 'CAPEMI-PENDIENTE',
+		'codigoCliente': 'CAPEMI-PENDIENTE / IR-PENDIENTE',
 	},
 
 	{
@@ -914,7 +914,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/1bBqNkx/52045705.webp',
 		'categoria':'Soportes',
-		'codigoCliente': 'CAPEMI-PENDIENTE',
+		'codigoCliente': 'CAPEMI-PENDIENTE / IR-PENDIENTE',
 	},
 
 	{
@@ -931,7 +931,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ibb.co/s5G9zTp/52045706.webp',
 		'categoria':'Soportes',
-		'codigoCliente': 'CAPEMI-PENDIENTE',
+		'codigoCliente': 'CAPEMI-PENDIENTE / IR-PENDIENTE',
 	},
 
 	{
@@ -948,7 +948,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_897484-MLA54091765064_032023-O.webp',
 		'categoria':'Soportes',
-		'codigoCliente': 'CAPEMI-PENDIENTE',
+		'codigoCliente': 'CAPEMI-PENDIENTE / IR-PENDIENTE',
 	},
 
 	{
@@ -1662,7 +1662,7 @@ export const items2 = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_711923-MLA51003125171_082022-O.webp',
 		'categoria':'Soportes',
-		'codigoCliente': 'CAPEMI-PENDIENTE',
+		'codigoCliente': 'CAPEMI-PENDIENTE / IR-PENDIENTE',
 	},
 
 	{
@@ -2955,6 +2955,74 @@ export const items2 = [
 		'url': 'https://i.ibb.co/Fm9cnNn/YS416038-BA.webp',
 		'categoria':'Soportes',
 		'codigoCliente': 'CAPEMI-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-soportes198',
+		'name': 'Soporte Motor Der. Toro/Jeep Renegade 1.8 16V Flex 2018/…',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM3453211',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/vDzh150/52052623.jpg',
+		'categoria':'Soportes',
+		'codigoCliente': 'IR-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-soportes199',
+		'name': 'Soporte Mot. Izq. Polo/Nivus/Virtus/T-Cross 1.0 Tsi/1.6 (Mt/At) 2018/…',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM3453215',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/vDzh150/52052623.jpg',
+		'categoria':'Soportes',
+		'codigoCliente': 'IR-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-soportes200',
+		'name': 'Soporte Motor Derecho Chery QQ 1.1 16V 2011/….',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM3453216',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '1,00',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/7tMvQm7/T111001310-BA.jpg',
+		'categoria':'Soportes',
+		'codigoCliente': 'IR-81-00004',
+	},
+
+	{
+		'id': 'dc-soportes201',
+		'name': 'Soporte Mot. Der. Renault Captur/Duster/Oroch/Sand',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM3453217',
+		'marca': 'Renault',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_880677-MLB54077980345_022023-O.webp',
+		'categoria':'Soportes',
+		'codigoCliente': 'IR-81-00006',
 	},
 
 	{
@@ -8653,6 +8721,23 @@ export const items2 = [
 	},
 
 	{
+		'id': 'dc-crapodinahidraulica10',
+		'name': 'Actuador De Embrague Ford Ranger 2.5 2.8',
+		'publisher': 'otro',
+		'pais': 'Uruguay',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem loren lorem',
+
+		'oem': 'MYM30229101',
+		'marca': 'Ford',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/VxvQG7V/VKCH-151103-K.jpg',
+		'categoria': 'Crapodina Hidráulica',
+		'codigoCliente': 'PENAS-151103',	
+	},
+
+	{
 		'id': 'dc-kitembrague39',
 		'name': 'Kit Embrague Monomasa A4 / A6 1.9 Tdi / VW Passat 1.9 Tdi 2000/2005',	
 		'publisher': 'otro',
@@ -9058,5 +9143,515 @@ export const items2 = [
 		'url': 'https://i.ibb.co/J2HPNTp/110550-imggenerica.jpg',
 		'categoria':'Collarín Toma en Carga',
 		'codigoCliente': 'HASA-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-parrillasuspension38',
+		'name': 'Parrilla Susp. Del. Inf. Der. Gol Trend/Voyage 2008/…',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182303',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '3,37',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/F5S4x05/6-R0407152-A.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-6160 / SITEC-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-parrillasuspension39',
+		'name': 'Parrilla Susp. Del. Inf. Izq. Gol Trend/Voyage 2008/…',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182304',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '3,37',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/yqn1v4w/6-R0407151-A.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-6161 / SITEC-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-parrillasuspension40',
+		'name': 'Parrilla Susp. Inf. Der. Nissan Kicks 2016/…',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182305',
+		'marca': 'Nissan',
+		'pesoNetoUnitario': '3,30',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/GP3TnWR/54500-5-RB0-C.png',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-7749',
+	},
+
+	{
+		'id': 'dc-parrillasuspension41',
+		'name': 'Parrilla Susp. Inf. Izq. Nissan Kicks 2016/…',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182306',
+		'marca': 'Nissan',
+		'pesoNetoUnitario': '3,30',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/zbxgJtq/54501-5-RB0-C.png',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-7750',
+	},
+
+	{
+		'id': 'dc-parrillasuspension42',
+		'name': 'Parrilla Sup. Der. Completa Hilux 4x4 2005/…',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182307',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': '2,50',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/JjtYD5d/48610-0-K040.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-9533',
+	},
+
+	{
+		'id': 'dc-parrillasuspension43',
+		'name': 'Parrilla Sup. Izq. Completa Hilux 4x4 2005/…',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182308',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': '2,50',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/wKt0ZJF/48630-0-K040.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-9534',
+	},
+
+	{
+		'id': 'dc-parrillasuspension44',
+		'name': 'Parrilla Sup. Del.Inf. Der. Fiat Argo-Chronos',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182310',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '3,35',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/16v91zH/51769985.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-20720 / SITEC-ST820',
+	},
+
+	{
+		'id': 'dc-parrillasuspension45',
+		'name': 'Parrilla Sup. Del.Inf. Izq. Fiat Argo-Chronos',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182311',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': '3,35',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/16v91zH/51769985.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-20721 / SITEC-ST819',
+	},
+
+	{
+		'id': 'dc-parrillasuspension46',
+		'name': 'Parrilla Susp. Del.Inf. Izq. Chevrolet S10',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182314',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '7,92',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/M1f8Y7y/15705325.png',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-8062 S',
+	},
+
+	{
+		'id': 'dc-parrillasuspension47',
+		'name': 'Parrilla Susp. Del.Inf. Der. Chevrolet S10',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182315',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': '7,92',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/rK9GZtz/15705326.png',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-8063 S',
+	},
+
+	{
+		'id': 'dc-parrillasuspension48',
+		'name': 'Parrilla Inf. Izq. Vw Amarok 2011 …',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182320',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '2,40',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/SyBZz7y/2-H0407151-A.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-PENDIENTE / SITEC-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-parrillasuspension49',
+		'name': 'Parrilla Inf. Der. Vw Amarok 2011 …',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182321',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '2,40',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/RyHVz7G/2-H0407152-A.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-PENDIENTE / SITEC-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-parrillasuspension50',
+		'name': 'Parrilla Susp. Del. Inf. Izq. Polo/Virtus/T-Cross/Nivus 2018/...',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182322',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '3,00',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/9ybRzTp/2-QB407151-A.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-parrillasuspension51',
+		'name': 'Parrilla Susp. Del. Inf. Der. Polo/Virtus/T-Cross/Nivus 2018/...',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182323',
+		'marca': 'Volkswagen',
+		'pesoNetoUnitario': '3,00',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/vQd5gyb/2-QB407152-A.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-parrillasuspension52',
+		'name': 'Parrilla Susp. Del. Inf. Izq. Rcz 2010/...',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182324',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/i1oAAOSw1c1h-oAa/s-l1600.png',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-parrillasuspension53',
+		'name': 'Parrilla Susp. Del. Inf. Der. Rcz 2010/...',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182325',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ebayimg.com/images/g/0G0AAOSw~ixh9B4Q/s-l1600.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-parrillasuspension54',
+		'name': 'Parrilla Inf. Der. Completa Hilux 4x4 2005',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182326',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': '7,90',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/4j3ThRM/48068-0-K040.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-PENDIENTE / SITEC-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-parrillasuspension55',
+		'name': 'Parrilla Inf. Izq. Completa Hilux 4x4 2005',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182327',
+		'marca': 'Toyota',
+		'pesoNetoUnitario': '7,90',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/R22DbbD/48069-0-K040.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-PENDIENTE / SITEC-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-parrillasuspension56',
+		'name': 'Parrilla Susp. Del. Inf. Der. Alaskan/Nissan Nav',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182328',
+		'marca': 'Nissan',
+		'pesoNetoUnitario': '6,25',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/7vGYZ48/54500-EB31-A.png',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-7328',
+	},
+
+	{
+		'id': 'dc-parrillasuspension57',
+		'name': 'Parrilla Susp. Del. Inf. Izq. Alaskan/Nissan Nav',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182329',
+		'marca': 'Nissan',
+		'pesoNetoUnitario': '6,25',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/dMLB7H0/54501-EB31-A.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-7329',
+	},
+
+	{
+		'id': 'dc-parrillasuspension58',
+		'name': 'Parrilla Susp. Del.Inf. Der. Captur 2017/…',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182330',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '3,00',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/Jq1hXsV/54504-0280-R.png',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-3974',
+	},
+
+	{
+		'id': 'dc-parrillasuspension59',
+		'name': 'Parrilla Susp. Del.Inf. Izq. Captur 2017/…',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182331',
+		'marca': 'Renault',
+		'pesoNetoUnitario': '3,00',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/9qFCYts/54505-5413-R.png',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-3975',
+	},
+
+	{
+		'id': 'dc-parrillasuspension60',
+		'name': 'Parrilla Susp. Del. Sup. Der. Alaskan/Nissan Nav',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182332',
+		'marca': 'Nissan',
+		'pesoNetoUnitario': '2,56',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/0fH175R/54524-EB70-D.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-7348',
+	},
+
+	{
+		'id': 'dc-parrillasuspension61',
+		'name': 'Parrilla Susp. Del. Sup. Izq. Alaskan/Nissan Nav',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182333',
+		'marca': 'Nissan',
+		'pesoNetoUnitario': '2,56',
+		'descripcion': 'lorem lorem',
+		'url': 'https://http2.mlstatic.com/D_NQ_NP_759770-MCO50149752245_052022-O.webp',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-7349',
+	},
+
+	{
+		'id': 'dc-parrillasuspension62',
+		'name': 'Parrilla Superior. Der. Chevrolet S-10/Blazer',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182338',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/qB1zZZT/12376266.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-parrillasuspension63',
+		'name': 'Parrilla Superior. Izq. Chevrolet S-10/Blazer',	
+		'publisher': 'otro',
+		'pais': 'Argentina',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM2182339',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/d68Zpdg/12376265.jpg',
+		'categoria':'Parrilla Suspensión',
+		'codigoCliente': 'IR-PENDIENTE',
+	},
+
+	{
+		'id': 'dc-articulacionaxial',
+		'name': 'Artic Dir Chevrolet Corsa, 283 mm, M 12X1,5 / M 14X1,5',	
+		'publisher': 'otro',
+		'pais': 'Uruguay',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM40339101',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/JzjcFm6/322158.jpg',
+		'categoria':'Articulación Axial',
+		'codigoCliente': 'PENAS-SAX102',
+	},
+
+	{
+		'id': 'dc-articulacionaxial2',
+		'name': 'Artic Dir Corsa C /Meriva',	
+		'publisher': 'otro',
+		'pais': 'Uruguay',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM40339102',
+		'marca': 'Chevrolet',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/340Mnqm/93296755.jpg',
+		'categoria':'Articulación Axial',
+		'codigoCliente': 'PENAS-SAX105',
+	},
+
+	{
+		'id': 'dc-articulacionaxial3',
+		'name': 'Artic Dir Berlingo/Partner',	
+		'publisher': 'otro',
+		'pais': 'Uruguay',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM40339103',
+		'marca': 'Peugeot',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/0FP5LzV/3812-C0.jpg',
+		'categoria':'Articulación Axial',
+		'codigoCliente': 'PENAS-SAX707',
+	},
+
+	{
+		'id': 'dc-articulacionaxial4',
+		'name': 'Artic Dir Palio/Siena 285 MM 96….',	
+		'publisher': 'otro',
+		'pais': 'Uruguay',
+		'first_appearance': 'lorem lorem',
+		'characters': 'lorem lorem lorem',
+
+		'oem': 'MYM40339104',
+		'marca': 'Fiat',
+		'pesoNetoUnitario': 'PENDIENTE',
+		'descripcion': 'lorem lorem',
+		'url': 'https://i.ibb.co/dJMv93y/7079388.png',
+		'categoria':'Articulación Axial',
+		'codigoCliente': 'PENAS-SAX607',
 	},
 ]

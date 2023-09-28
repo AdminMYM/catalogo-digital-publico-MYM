@@ -34,6 +34,7 @@ export const MenuItem = () => {
 			<ul className="menu-item-ul">
 			<h2>Categorías de productos</h2>
 				<li className='list-item' >Aro Pistón</li>
+				<li className='list-item' >Articulación Axial</li>
 				<li className='list-item' >Base Amortiguador</li>
 				<li className='list-item' >Bobina Ignición</li>
 				<li className='list-item' >Bomba Agua</li>
