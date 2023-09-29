@@ -35,6 +35,8 @@ export const MenuItem = () => {
 			<h2>Categorías de productos</h2>
 				<li className='list-item' >Aro Pistón</li>
 				<li className='list-item' >Articulación Axial</li>
+				<li className='list-item' >Barra Central</li>
+				<li className='list-item' >Barra de Dirección</li>
 				<li className='list-item' >Base Amortiguador</li>
 				<li className='list-item' >Bobina Ignición</li>
 				<li className='list-item' >Bomba Agua</li>

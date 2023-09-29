@@ -3174,7 +3174,7 @@ export const items = [
 		'id': 'dc-parrillasuspension8',
 		'name': 'Parrilla Susp. Del. Inf. Der. Peugeot 206 1998/…',	
 		'publisher': 'otro',
-		'pais': 'Argentina/México',
+		'pais': 'Argentina/México/Uruguay',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3184,7 +3184,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_828971-MLA31607183068_072019-F.webp',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'IR-PENDIENTE / SITEC-ST710 / WILLHELM-PENDIENTE',
+		'codigoCliente': 'IR-PENDIENTE / PENAS-SK5002 / SITEC-ST710 / WILLHELM-PENDIENTE',
 	},
 
 	{
@@ -3378,7 +3378,7 @@ export const items = [
 		'id': 'dc-parrillasuspension20',
 		'name': 'Parrilla Suspensión Palio - Siena - Strada - Uno Way Fire - Mobi Der. (Sin Rotula) 2001/..',	
 		'publisher': 'otro',
-		'pais': 'Argentina',
+		'pais': 'Argentina/Uruguay',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3388,14 +3388,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/bQ4AAOSw48tfQ5aE/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST649',
+		'codigoCliente': 'PENAS-SK194AM / SITEC-ST649',
 	},
 
 	{
 		'id': 'dc-parrillasuspension21',
 		'name': 'Parrilla Suspensión Palio - Siena - Strada - Uno Way Fire - Mobi Izq. (Sin  Rotula) 2001/..',	
 		'publisher': 'otro',
-		'pais': 'Argentina',
+		'pais': 'Argentina/Uruguay',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3405,14 +3405,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://http2.mlstatic.com/D_NQ_NP_2X_702284-MLA40595413168_012020-F.webp',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'SITEC-ST650',
+		'codigoCliente': 'PENAS-SK194AM / SITEC-ST650',
 	},
 
 	{
 		'id': 'dc-parrillasuspension22',
 		'name': 'Parrilla Suspensión Ranger 4x2 - 4x4 - Explorer 98/.. Superior Der. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Argentina',
+		'pais': 'Argentina/Uruguay',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3422,14 +3422,14 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/VIQAAOSwCjFkOyQt/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'IR-4058 / SITEC-ST670',
+		'codigoCliente': 'IR-4058 / PENAS-SK3136 / SITEC-ST670',
 	},
 
 	{
 		'id': 'dc-parrillasuspension23',
 		'name': 'Parrilla Suspensión Ranger 4x2 - 4x4 - Explorer 98/.. Superior Izq. C/Rotula',	
 		'publisher': 'otro',
-		'pais': 'Argentina',
+		'pais': 'Argentina/Uruguay',
 		'first_appearance': 'lorem lorem',
 		'characters': 'lorem lorem lorem',
 
@@ -3439,7 +3439,7 @@ export const items = [
 		'descripcion': 'lorem lorem',
 		'url': 'https://i.ebayimg.com/images/g/jIEAAOSwjt1i9mM7/s-l1600.jpg',
 		'categoria':'Parrilla Suspensión',
-		'codigoCliente': 'IR-4059 / SITEC-ST671',
+		'codigoCliente': 'IR-4059 / PENAS-SK3137 / SITEC-ST671',
 	},
 
 	{
